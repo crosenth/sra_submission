@@ -1,0 +1,131 @@
+* Sujatha SRA submission <2015-02-19 Thu>
+
+Useful inks:
+
+- http://www.ncbi.nlm.nih.gov/biosample/docs/submission/faq/
+- https://submit.ncbi.nlm.nih.gov/biosample/template/
+
+** sequence data
+- /fh/fast/fredricks_d/bvdiversity/working/nhoffman/20141124_project_metabolome
+- adapted script to generate fastq instead of fasta (using fastq as input instead of trimmed sequences)
+- fastqs are here: /fh/fast/fredricks_d/bvdiversity/working/nhoffman/20141124_project_metabolome/output/fastq
+
+** submission
+- log into SRA site using new account
+- std_crc Gram$positive4
+- Why am I doing this? for the glory
+- instructed to create bioproject
+** bioproject
+- https://submit.ncbi.nlm.nih.gov/subs/bioproject/
+- alias: mbio_metabolomics
+- after creating the submission, go to https://submit.ncbi.nlm.nih.gov/subs/biosample/
+- public description
+Bacterial vaginosis (BV) is characterized by shifts in the vaginal microbiota from Lactobacillus dominant to a microbiota with diverse anaerobic bacteria. Few studies have linked specific metabolites with bacteria found in the human vagina. Here, we report dramatic differences in metabolite compositions and concentrations associated with BV using a global metabolomics approach. We further validated important metabolites using samples from a second cohort of women, and a different platform to measure metabolites. In the primary study, we compared metabolite profiles in cervicovaginal lavage fluid from 40 women with BV and 20 women without BV. Vaginal bacterial representation was determined using broad-range PCR with pyrosequencing, and concentrations of bacteria by quantitative PCR. We detected 279 named biochemicals; levels of 62% of metabolites were significantly different in women with BV. Unsupervised clustering of metabolites separated women with and without BV. Women with BV have metabolite profiles marked by lower concentrations of amino acids and dipeptides, concomitant with higher levels of amino acid catabolites and polyamines. Higher levels of the signaling eicosanoid 12-hydroxyeicosatetraenoic acid (12-HETE), a biomarker for inflammation, were noted in BV. Lactobacillus crispatus and Lactobacillus jensenii exhibited similar metabolite correlation patterns which were distinct from correlation patterns exhibited by BV-associated bacteria. Several metabolites were significantly associated with clinical signs and symptoms (Amsel criteria) used to diagnose BV, and no metabolite was associated with all four clinical criteria. BV has strong metabolic signatures across multiple metabolic pathways, and these signatures are associated with the presence and concentrations of particular bacteria.
+- grant info
+2010-2014                        R01 HG005816-01
+                                            D. Fredricks (PI); S. Srinivasan Co-investigator
+                                            7/1/2010-6/30/2014                        NIH
+                                            Novel Cultivation Methods for the Domestication of Vaginal Bacteria
+Goal:  To cultivate fastidious vaginal bacteria associated with bacterial vaginosis using a variety of novel cultivation techniques that facilitate bacterial interactions necessary for growth.
+
+- got this email:
+Dear Noah Hoffman,
+
+This is an automatic acknowledgment that your submission:
+
+SubmissionID:		SUB832879
+BioProject ID:		PRJNA275907
+Organism name/label:	1) humans; 2) vaginal mucosa
+Title:			1) vaginal mucosal 16S rRNA survey; 2) correlation with metabolic signatures
+
+has been successfully registered with the BioProject database. After review by the database staff, your project information will be accessible with the following link, usually within a few days of the
+release date that you set (or the release of linked data, whichever is first):
+
+http://www.ncbi.nlm.nih.gov/bioproject/275907
+
+If you have already successfully registered your BioProject, then you are receiving this message because
+the BioProject has been updated. This update could be the result of database maintenance or the linkage of
+one or more BioSamples to this BioProject.
+
+Please use the BioProject ID PRJNA275907 with your correspondence and your data submissions.
+
+Send questions to genomeprj@ncbi.nlm.nih.gov, and include the BioProject ID and organism name.
+
+Regards,
+
+NCBI BioProject Submissions Staff
+Bethesda, Maryland  USA
+***********************************************************
+(301) 496-2475
+(301) 480-2918 (Fax)
+genomeprj@ncbi.nlm.nih.gov (for BioProject questions/replies)
+info@ncbi.nlm.nih.gov (for general questions regarding NCBI)
+***********************************************************
+
+** biosample
+
+- need to submit demultiplexed batch of specimens
+- used /fh/fast/fredricks_d/bvdiversity/project-metabolome/metabolome_data/labels.csv as a starting point for the spreadsheet
+- in2csv mbio_metabolomics_biosample.xlsx | tr ',' '\t' >| mbio_metabolomics_biosample.tsv
+
+Submitted, got an error, asked for clarification by email:
+
+== Created by JEMH via e-mail from: "Noah Hoffman" <ngh2@uw.edu>  ==
+
+Hello,
+
+I am trying to create a biosample for bioproject PRJNA275907 - I am getting the following error when I submit the attached file:
+
+Error:Your submission failed because the information in the attribute fields (exclusive of sample name, title and description) is either missing or identical between samples. We require that each sample has at least one distinctive attribute. We do not consider sample names, titles or descriptions as unique because the free text cannot be properly indexed for searches. Please revise your table to include at least one unique attribute for each sample. If the information is in the sample name, title or description, please recode it into the appropriate attribute type, either one of the predefined attributes or a custom attribute you define.
+
+Can you please explain?
+
+Thanks,
+Noah
+
+
+Responses:
+
+Dear Dr. Hoffman,
+
+The problem with your submission file was that the information in some of the rows (ignoring sample name, sample title, and description, as the error message said), was identical. This check was implemented to encourage submitters to include distinguishing metadata in their samples. Information in sample_name, description and title are not considered because the free text is not part of the controlled vocabulary. I apologize that this was not clearer.
+
+Since your samples are clearly for distinct specimens, I transferred the information in the "title" column to the "isolate" column. This satisfied the validator and I was able to complete your submission for you.
+
+Your biosamples were successfully processed and you should have received an automated email with the accession numbers.
+
+I made a couple of other changes to format. I've attached the file for your review.
+
+Regards,
+John Anderson, Ph.D.
+BioSample curation staff
+
+Hi Noah,
+
+The current help document is badly out of date. A completely new help page is being worked on right now, but it's not quite ready for release yet. I've attached an MSWord document that has the batch upload instructions that will appear there.
+
+The best place to find descriptions of the attributes is in the Templates section of the Submission Portal.
+https://submit.ncbi.nlm.nih.gov/biosample/template/
+
+If you check the box for the package you want, you can then click the "Definition" button at the bottom. That will get a complete list, including brief definitions and, in particular, the required format for attributes that are validated for content (not all are). For the Metagenome or environmental, you'd get to:
+https://submit.ncbi.nlm.nih.gov/biosample/template/?package=Metagenome.environmental.1.0&action=definition
+You'll also see allowed values for the few attributes that allow only certain keywords.
+
+The definitions are pretty clear, but I see that it doesn't say anything for "sample_title". We'll have to correct that. The answer is that the sample_title is just the Title line that will be displayed in the public page. If you don't enter anything there, it will be autogenerated from the package type and organism name. You only need to enter something there if you want a custom title.
+
+For your question about the sequence file format, I suggest you write directly to sra@ncbi.nlm.nih.gov. I only handle sample metadata and the curators there will be better able to answer the question.
+
+Thanks,
+John
+
+Received edited version: SUB832889_mbio_metabolomics_biosample_EDITED.txt
+
+Hi Chris,
+
+I would be happy to help you submit your SRA metadata in batch. I’ve attached a copy of our latest bulk submission template here with your information copied over. Please give it a once over for any errors, and update the Title, design description and forward read length fields with appropriate information. Then send the sheet back and I’ll use it to complete your SRA metadata.
+
+Let me know if you have any questions.
+
+Best,
+
+Jon
