@@ -86,6 +86,8 @@ for the project then you can enter it in here.
 Sequence Upload
 ===============
 
+http://trace.ncbi.nlm.nih.gov/Traces/sra_sub/sub.cgi
+
 This is the step that ties everything together. There are essentially three
 steps within this step to complete the SRA submission.  First we will need
 to zip up the sequences if we have not yet::
@@ -119,6 +121,20 @@ and biosample accession numbers, filenames and md5 sums generated earlier.
 Once you have filled that out send the excel sheet to sra@ncbi.nlm.nih.gov.
 They will assign you a person to help finish the submission and make any 
 corrections.
+
+The last step is uploading the files.  After the ncbi sra people have
+finished they will point you to an sra submission page with all the fields
+filed out and a username and password to ftp the fastq.bz2 files. Make sure
+the bin/sra.sh has the correct username and password.  Then simply copy that
+script into the folder containing the fastqs and execute it::
+
+  ./sra.sh
+
+And it will automatically upload all the fastq.bz2 files in the directory. Wait
+a few hours and the sra submission page will confirm that the files were found
+and successfully uploaded.  
+
+Congratulations, you have completed the sra submission process!
 
 Automation
 ==========
