@@ -6,7 +6,7 @@
 # See Dropbox/papers/miseq_v_ion/SRA\ upload/sra_upload_tracker.tsv for details on files
 
 # -c option skips files that are already present on server
-# (username,password) -u sra,03o4!srRy!
+# (username,password) -u sra,VfOiVJn1
 
 set -e
 set -x
