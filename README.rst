@@ -19,6 +19,8 @@ package dependencies
 Introduction
 ============
 
+Official walkthrough: http://www.ncbi.nlm.nih.gov/books/NBK47529/
+
 Submission to the SRA is an evolving process on there end (and ours). Some 
 of that process has been automated here but much of it requires manual editing,
 copying and pasting.
