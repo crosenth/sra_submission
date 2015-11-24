@@ -13,4 +13,4 @@ set -x
 
 FILES=$(echo *.fastq*)
 
-lftp -e "mput -c ${FILES} ;bye" ftp-private.ncbi.nih.gov -u sra,VfOiVJn1
+lftp -e "mput -c ${FILES} ;bye" ftp-private.ncbi.nih.gov -u sra,Qrjo6iJ4
