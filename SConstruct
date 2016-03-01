@@ -79,7 +79,8 @@ env = SlurmEnvironment(
 
 Help(vars.GenerateHelpText(env))
 
-for xl in glob('data/*.xlsx'):
+# find xl files but not the ones with ~ in them
+for xl in (fname for fname in glob('data/*.xlsx') if '~' not in fname):
     proj_name = os.path.splitext(os.path.basename(xl))[0]
     env.Replace(specimen=os.path.join(env['out'], proj_name))
 
