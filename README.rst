@@ -145,3 +145,9 @@ See the Sconstruct file to see a little bit of automation.  The script
 bin/walk_data.py creates the fastq files and generates the md5 sums. 
 Again, this information was later hand copied into the 
 data/SRA_subtemplate_v2-7-chris.xlsx spreadsheet.
+
+TODO
+====
+
+Create a search database to find biosample accessions from previously submitted
+samples to reuse in new bioprojects.
