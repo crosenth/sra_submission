@@ -1,0 +1,4 @@
+1) Target Environment title now asks for a description of the environment title.
+2) K23 AI69990 - did you mean K23 AI069990?
+3) P30-AI027757 - Many options to select from, which one is ours?
+4) What date should the samples be released?
