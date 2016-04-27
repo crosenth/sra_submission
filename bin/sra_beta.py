@@ -5,6 +5,7 @@
 """
 
 import bz2
+import ftplib
 import os
 import pandas
 import sys
@@ -13,8 +14,6 @@ import re
 import glob
 
 from Bio import SeqIO
-
-LABELS_HEADER = ['specimen', 'filename', 'md5sum']
 
 
 class Multifile(object):
@@ -40,6 +39,15 @@ class Multifile(object):
 
     def filename(self, key):
         return os.path.basename(self.files[key][0])
+
+    def upload(self, url, username, password, ftpdir, projectname):
+        uploaddir = os.path.join(ftpdir, projectname)
+        session = ftplib.FTP(url, username, password)
+        session.mkd(uploaddir)
+        session.cwd(uploaddir)
+        for specimen, (_, fobj) in self.files.items():
+            session.storbinary('STOR ' + self.filename(specimen), fobj)
+        session.quit()
 
     def items(self):
         return self.files.items()
@@ -89,6 +97,12 @@ def main(arguments):
     parser.add_argument('template',
                         help=('sra template file with one row '
                               'filled with common column data'))
+    parser.add_argument('address',
+                        help=('ftp address to upload fastq files'))
+    parser.add_argument('username',
+                        help=('ftp username to upload fastq files'))
+    parser.add_argument('ftpdir',
+                        help=('ftp directory to upload fastq files'))
     parser.add_argument('--datadir',
                         default='/fh/fast/fredricks_d/bvdiversity/data',
                         help=('top level data directory'))
@@ -143,6 +157,13 @@ def main(arguments):
             fastqs = get_fastqs(raw_data, seqnames.to_dict())
             for rec, specimen in fastqs:
                 SeqIO.write([rec], fqfiles[specimen], 'fastq')
+
+    fqfiles.ftpupload(
+        args.address,
+        args.username,
+        args.password,
+        args.ftpdir,
+        args.bioproject_accession)
 
     fqfiles.close()
 
