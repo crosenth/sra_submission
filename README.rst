@@ -44,7 +44,9 @@ Data
 ====
 
 A submission requires access to the datafiles (in some zip format) along with
-at least two lines of annotation: specimen names and manuscript ids:: 
+at least two lines of annotation: specimen names and manuscript ids.  
+
+For example:: 
 
   specimen | manuscript_id
   ------------------------
@@ -52,99 +54,110 @@ at least two lines of annotation: specimen names and manuscript ids::
   p7z2tr10 | S2
   p7z2tr12 | S3
 
-In this example the fileanames are::
+And in this example the fileanames are::
 
-  p7z1tr10.fastq
-  p7z2tr10.fastq
-  p7z2tr12.fastq
+  p7z1tr10.fastq.bz2
+  p7z2tr10.fastq.bz2
+  p7z2tr12.fastq.bz2
+
+The file may have a number of different column names.  The only columns that matter
+are specimen and manuscript_id which may need to be renamed to specimen and
+manuscript_id.  The file may need to be converted from an xlsx file to a tab 
+delimited file.  The sra submission process requires tab delimited files for 
+upload so that is our default file format for this process.
 
 Biosample
 =========
 
 https://submit.ncbi.nlm.nih.gov/subs/biosample/
 
-Create a new Biosample and follow the walkthrough. You will also need to
-complete a template to upload.  In Sujatha's metagenome environment example the specimen
-column becomes sample_name and manuscript_id becomes source_material_id::
+Create a 'New submission' Biosample and follow the walkthrough. The is a 
+Metagenome-environment.tsv template file you will need to fill out for this
+step of the submission.  You can download a template from the ncbi biosample 
+submission page or use the one in the templates folder 
+templates/Metagenome.environmental.1.0.tsv.  Finally, you can run this script
+need to complete a template to upload::
 
-  sample_name | description | bioproject_id | sample_title  | organism host    | isolation_source | collection_date | geo_loc_name       | lat_lon       | ref_biomaterial | rel_to_oxygen | samp_collect_device | samp_mat_process | samp_size | source_material_id
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  p7z1tr10    |             |               |               | human metagenome |  Homo sapiens    | missing         | "USA: Seattle, WA" | not collected |                 |               |                     |                  |           | S1
-  p7z2tr10    |             |               |               | human metagenome |  Homo sapiens    | missing         | "USA: Seattle, WA" | not collected |                 |               |                     |                  |           | S2
-  p7z2tr12    |             |               |               | human metagenome |  Homo sapiens    | missing         | "USA: Seattle, WA" | not collected |                 |               |                     |                  |           | S3
+  bin/biosample.py --out output/Gorgos_Sycuro_SDC_Table_S1/Metagenome.environmental.1.0.tsv data/Gorgos_Sycuro_SDC_Table_S1.tsv templates/Metagenome.environmental.1.0.tsv
 
-Upload the table to finish the Biosample.  Accession numbers for each sample_name will be
-generated and we will use those numbers for the eventual sequence upload step.
+Output will look like this::
+
+  sample_name | sample_title | bioproject_accession | organism         | host         | collection_date | geo_loc_name       | lat_lon       | ref_biomaterial | rel_to_oxygen | samp_collect_device | samp_mat_process | samp_size | source_material_id | description | plate | zone | primer
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  p7z1tr10    |              |                      | human metagenome | Homo sapiens | missing         | "USA: Seattle, WA" | not collected |                 |               |                     |                  |           |                    |             | p7    | z1   | tr10
+  p7z2tr10    |              |                      | human metagenome | Homo sapiens | missing         | "USA: Seattle, WA" | not collected |                 |               |                     |                  |           |                    |             | p7    | z2   | tr10
+  p7z2tr12    |              |                      | human metagenome | Homo sapiens | missing         | "USA: Seattle, WA" | not collected |                 |               |                     |                  |           |                    |             | p7    | z2   | tr12
+
+The bioproject_accession will be blank as we have not yet created a Bioproject.
+Upload the table as part of the biosample submission process.  After some time
+accession numbers for each sample_name will be generated. We will use those numbers 
+for the sequence upload step.
+
+There is just one manual data entry process at this point.  You will need to 
+add a biosample_accession column to the original data sheet
+(for example data/Gorgos_Sycuro_SDC_Table_S1.tsv). The original data sheet will look something 
+like this::
+
+  specimen | manuscript_id | biosample_accession
+  ----------------------------------------------
+  p7z1tr10 | S1            | SAMN03581187
+  p7z2tr10 | S2            | SAMN03581188
+  p7z2tr12 | S3            | SAMN03581189
+
+This is necessary for the Sequence Upload step later on as well as for 
+reporting back to Sujatha what her various accession numbers are.
 
 Bioproject
 ==========
 
 https://submit.ncbi.nlm.nih.gov/subs/bioproject/
 
-Follow the steps and walkthrough to create the bioproject. There should be no
-information to upload at this point.  If there is a single sample/specimen 
-for the project then you can enter it in here.
+After you receive your biosample accessions got the bioproject submission page
+and follow the walkthrough to create the bioproject. There is no information to 
+upload at this point, just the walkthrough.  You will also enter your biosample 
+accessions here.  After you have submitted 
 
-Sequence Upload
-===============
+Note: After this step you can update the bioproject_accession column in the
+biosample by sending an email to biosamplehelp@ncbi.nlm.nih.gov and telling
+them what the bioproject is for which biosample.
 
-http://trace.ncbi.nlm.nih.gov/Traces/sra_sub/sub.cgi
+Sequence Upload (script untested)
+=================================
 
-This is the step that ties everything together. There are essentially three
-steps within this step to complete the SRA submission.  First we will need
-to zip up the sequences if we have not yet::
+https://submit.ncbi.nlm.nih.gov/subs/sra/
 
-  bzip2 p7z1tr10.fastq p7z2tr10.fastq p7z2tr12.fastq
+This is the last step in the process.  Click on the 'New submission' tab above
+and follow the steps.  There will be an sra submission form to fill
+out and submit.  There will also be fastq files to upload.  Using your bioproject 
+accession and filled in biosample_accession column in the original data sheet 
+run the following script::
 
-Which gives us::
+  bin/sra_beta.py --outdir output/PRJNA283125 --out output/PRJNA283125/SRA_metadata_acc.tsv data/Gorgos_Sycuro_SDC_Table_S1.tsv PRJNA283125 template/SRA_metadata_acc.tsv ftp-private.ncbi.nlm.nih.gov subftp w4pYB9VQ uploads/ngh2@uw.edu_u25A5oa4
 
-  p7z1tr10.fastq.bz2
-  p7z2tr10.fastq.bz2
-  p7z2tr12.fastq.bz2
+Which will generate a prefilled form to upload as well as upload the fastq 
+files and output them in the --outdir directory.  The generated form --out will 
+look something like this::
 
-At this point we can generate our md5check sums as well::
+ biosample_accession  | bioproject_accession | title | library_ID | design_description                                                                                                                                                                                                                                                                                    | library_strategy | library_source | library_selection | library_layout | platform | instrument_model    | filetype | filename1 
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ SAMN04859440         | PRJNA319051          | S1    | p7z1tr10   | DNA was extracted using the Bacteremia Kit (Mobio). The V3-V4 region of the 16S rRNA gene was targeted for broad-range PCR with pyrosequencing. 6-bp barcodes were used with the reverse primer to facilitate multiplexing. Reactions were purified using Agencourt AMPure beads prior to sequencing. | AMPLICON         | METAGENOMIC    | PCR               | single         | _LS454   | 454 GS FLX Titanium | fastq    | p7z1tr10.fastq.bz2
 
-  md5sum p7z1tr10.fastq.bz2 p7z2tr10.fastq.bz2 p7z2tr12.fastq.bz2
+Go ahead and upload that form --out file where it asks for it.
 
-Which gives us something like this::
+Finally
+=======
+When you get the specimen accessions create another column called 
+'sequence_accession' in the data sheet (data/Gorgos_Sycuro_SDC_Table_S1.tsv) 
+and manually enter the sequence accessions.  Write an email to Sujatha
+giving the project accession, study accession 
 
-  ae6f3d5bba6833c199fdc6ef7fffab36  p7z1tr10.fastq.bz2
-  89e033040e133f397c508a26f5ce1624  p7z2tr10.fastq.bz2
-  f4e1bba12dc8090dbb4b6891735cec97  p7z2tr12.fastq.bz2
+(go to https://www.ncbi.nlm.nih.gov/Traces/sra_sub/sub.cgi and find the SRP
+number near the bioproject accession number)
 
-The md5 sums are a way to ensure that the actual files were successfully 
-uploaded.  The SRA people will generate the same numbers on their end to 
-compare and confirm that the files were not corrupted during upload.
-
-The next step is to fill out the data/SRA_subtemplate_v2-7-chris.xlsx.  For an
-example of how to fill this out see the notes/ folder. You will need the
-sample_name(s) and manuscript_id(s), as well as the bioproject accession number
-and biosample accession numbers, filenames and md5 sums generated earlier.  
-Once you have filled that out send the excel sheet to sra@ncbi.nlm.nih.gov.
-They will assign you a person to help finish the submission and make any 
-corrections.
-
-The last step is uploading the files.  After the ncbi sra people have
-finished they will point you to an sra submission page with all the fields
-filed out and a username and password to ftp the fastq.bz2 files. Make sure
-the bin/sra.sh has the correct username and password.  Then simply copy that
-script into the folder containing the fastqs and execute it::
-
-  ./sra.sh
-
-And it will automatically upload all the fastq.bz2 files in the directory. Wait
-a few hours and the sra submission page will confirm that the files were found
-and successfully uploaded.  
+and a copy of the updated tsv file (data/Gorgos_Sycuro_SDC_Table_S1.tsv) with
+the two new accession columns converted **back** to an xlsx.
 
 Congratulations, you have completed the sra submission process!
-
-Automation
-==========
-
-See the Sconstruct file to see a little bit of automation.  The script
-bin/walk_data.py creates the fastq files and generates the md5 sums. 
-Again, this information was later hand copied into the 
-data/SRA_subtemplate_v2-7-chris.xlsx spreadsheet.
 
 TODO
 ====
