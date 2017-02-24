@@ -91,21 +91,28 @@ def main(arguments):
 
     parser.add_argument('specimens',
                         help=('tab delimited with columns '
-                              '[specimen,biosample_accession]'))
-    parser.add_argument('bioproject_accession',
-                        help=('bioproject accession number'))
+                              '[specimen,manuscript_id]'))
+    parser.add_argument('biosample_attributes',
+                        help=('tab delimited "attributes file" from sra, '
+                              'columns [accession,sample_name]'))
     parser.add_argument('template',
                         help=('sra template file with one row '
                               'filled with common column data'))
-    parser.add_argument('address',
-                        help=('ftp address to upload fastq files'))
-    parser.add_argument('username',
-                        help=('ftp username to upload fastq files'))
-    parser.add_argument('ftpdir',
-                        help=('ftp directory to upload fastq files'))
-    parser.add_argument('--datadir',
-                        default='/fh/fast/fredricks_d/bvdiversity/data',
-                        help=('top level data directory'))
+
+    parser.add_argument('--bioproject_accession',
+                        help=('bioproject accession number if no column '
+                              'in --biosample_accessions'))
+
+    ftp_parser = parser.add_argument_group(title='ftp options')
+    ftp_parser.add_argument('--address',
+                            help=('ftp address to upload fastq files'))
+    ftp_parser.add_argument('--username',
+                            help=('ftp username to upload fastq files'))
+    ftp_parser.add_argument('--ftpdir',
+                            help=('ftp directory to upload fastq files'))
+    ftp_parser.add_argument('--datadir',
+                            default='/fh/fast/fredricks_d/bvdiversity/data',
+                            help=('top level data directory'))
 
     outopts = parser.add_argument_group('output options',)
     outopts.add_argument('--outdir', default='.',
@@ -121,16 +128,27 @@ def main(arguments):
     except OSError:
         pass
 
-    specimens = pandas.read_csv(
+    specimens = pandas.read_table(
         args.specimens,
-        usecols=['specimen', 'manuscript_id', 'biosample_accession'],
-        sep='\t')
+        usecols=['specimen', 'manuscript_id'],
+        dtype=str)
 
-    template = pandas.read_csv(args.template, sep='\t')
+    attributes = pandas.read_table(
+        args.biosample_attributes,
+        usecols=['accession', 'sample_name', 'bioproject_accession'],
+        dtype=str)
+
+    if args.bioproject_accession:
+        attributes.loc[:, 'bioproject_accession'] = args.bioproject_accession
+
+    specimens = specimens.merge(
+        attributes, left_on='specimen', right_on='sample_name')
+
+    template = pandas.read_table(args.template)
     template = pandas.concat([template] * len(specimens))
     template = template.reset_index(drop=True)
-    template[['title', 'library_ID', 'biosample_accession']] = specimens
-    template['bioproject_accession'] = args.bioproject_accession
+    template[['title', 'library_ID', 'biosample_accession', 'bioproject_accession']] = specimens[
+        ['manuscript_id', 'specimen', 'accession', 'bioproject_accession']]
 
     pattern = args.datadir + '/(plate|junior-plate)-\d+/quality-filter$'
 
@@ -158,20 +176,22 @@ def main(arguments):
             for rec, specimen in fastqs:
                 SeqIO.write([rec], fqfiles[specimen], 'fastq')
 
-    fqfiles.ftpupload(
-        args.address,
-        args.username,
-        args.password,
-        args.ftpdir,
-        args.bioproject_accession)
+    if args.address:
+        fqfiles.ftpupload(
+            args.address,
+            args.username,
+            args.password,
+            args.ftpdir,
+            args.bioproject_accession)
 
-    fqfiles.close()
+        fqfiles.close()
 
     # record fastq filenames
     template['filename1'] = template['library_ID'].apply(
         lambda x: fqfiles.filename(x))
 
     template.to_csv(args.out, index=False, sep='\t')
+
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1:]))
