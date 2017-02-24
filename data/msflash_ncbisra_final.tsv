@@ -1,0 +1,164 @@
+manuscript_id	visit	specimen	primer	barcode
+S1	baseline	j7tr71	TR-71	AGGCAT
+S2	baseline	j4tr39	TR-39	TGACTT
+S4	baseline	j8tr68	TR-68	AGACGT
+S4	week 4	j11tr53	TR-53	AAGTCT
+S4	week 8	j11tr54	TR-54	AAGAAC
+S5	baseline	j5tr33	TR-33	TCGTCT
+S5	week 4	j9tr62	TR-62	ACCAAC
+S5	week 8	j9tr63	TR-63	ACGAGT
+S6	baseline	j9tr42	TR-42	TGGAAC
+S7	baseline	j4tr40	TR-40	TGACAC
+S8	baseline	j7tr72	TR-72	CATGTT
+S9	baseline	j4tr41	TR-41	TGCATT
+S10	baseline	j8tr64	TR-64	AGTTCC
+S10	week 4	j11tr7	TR-7	TTCTCC
+S10	week 8	j9tr75	TR-75	CGTTAT
+S11	baseline	j5tr9	TR-9	TTCCTT
+S11	week 4	j9tr59	TR-59	ACAAGC
+S11	week 8	j9tr60	TR-60	ACAGAC
+S12	baseline	j4tr56	TR-56	ACTCAT
+S12	week 4	j11tr41	TR-41	TGCATT
+S12	week 8	j9tr48	TR-48	AATAGC
+S13	baseline	j4tr53	TR-53	AAGTCT
+S13	week 4	j10tr10	TR-10	TTCCAC
+S13	week 8	j10tr29	TR-29	TCTAGC
+S14	baseline	j5tr7	TR-7	TTCTCC
+S14	week 4	j9tr55	TR-55	AAGGTT
+S14	week 8	j9tr56	TR-56	ACTCAT
+S15	baseline	j7tr12	TR-12	TTGTGT
+S17	baseline	j5tr73	TR-73	CCTTCT
+S17	week 4	j11tr78	TR-78	GCTATC
+S17	week 8	j11tr79	TR-79	GCTCTT
+S18	baseline	j9tr73	TR-73	CCTTCT
+S19	baseline	j5tr12	TR-12	TTGTGT
+S20	baseline	j5tr45	TR-45	ATGGAT
+S20	week 4	j10tr69	TR-69	AGCACT
+S20	week 8	j10tr70	TR-70	AGGTAC
+S21	baseline	j9tr7	TR-7	TTCTCC
+S21	week 4	j12tr57	TR-57	ACTGGT
+S21	week 8	j12tr58	TR-58	ACATCT
+S22	baseline	j7tr17	TR-17	TATCAC
+S23	baseline	j5tr74	TR-74	CCAAGT
+S23	week 4	j10tr18	TR-18	TATGCC
+S23	week 8	j10tr19	TR-19	TAATCC
+S24	baseline	j9tr74	TR-74	CCAAGT
+S25	baseline	j4tr42	TR-42	TGGAAC
+S26	baseline	j4tr44	TR-44	ATGCGT
+S27	baseline	j5tr75	TR-75	CGTTAT
+S27	week 4	j10tr17	TR-17	TATCAC
+S27	week 8	j11tr9	TR-9	TTCCTT
+S28	baseline	j4tr45	TR-45	ATGGAT
+S29	baseline	j4tr48	TR-48	AATAGC
+S30	baseline	j4tr49	TR-49	AACTTC
+S31	baseline	j7tr18	TR-18	TATGCC
+S32	baseline	j5tr48	TR-48	AATAGC
+S33	baseline	j9tr9	TR-9	TTCCTT
+S33	week 4	j12tr61	TR-61	ACCTAT
+S33	week 8	j12tr62	TR-62	ACCAAC
+S34	baseline	j4tr51	TR-51	AACACC
+S35	baseline	j9tr8	TR-8	TTCAGT
+S35	week 4	j12tr59	TR-59	ACAAGC
+S35	week 8	j12tr60	TR-60	ACAGAC
+S36	baseline	j4tr52	TR-52	AACCGT
+S36	week 4	j10tr27	TR-27	TCTTAC
+S36	week 8	j10tr28	TR-28	TCTTGT
+S37	baseline	j4tr58	TR-58	ACATCT
+S37	week 4	j11tr45	TR-45	ATGGAT
+S37	week 8	j11tr48	TR-48	AATAGC
+S38	baseline	j8tr65	TR-65	AGTTGT
+S38	week 4	j11tr39	TR-39	TGACTT
+S38	week 8	j11tr40	TR-40	TGACAC
+S39	baseline	j7tr23	TR-23	TACCTC
+S40	baseline	j9tr24	TR-24	TACGTT
+S41	baseline	j8tr69	TR-69	AGCACT
+S42	baseline	j5tr5	TR-5	TTAGGT
+S42	week 4	j9tr53	TR-53	AAGTCT
+S42	week 8	j11tr5	TR-5	TTAGGT
+S43	baseline	j9tr26	TR-26	TAGACC
+S44	baseline	j5tr8	TR-8	TTCAGT
+S44	week 4	j9tr57	TR-57	ACTGGT
+S44	week 8	j9tr58	TR-58	ACATCT
+S45	baseline	j9tr27	TR-27	TCTTAC
+S46	baseline	j7tr28	TR-28	TCTTGT
+S47	baseline	j9tr29	TR-29	TCTAGC
+S48	baseline	j4tr54	TR-54	AAGAAC
+S48	week 4	j10tr31	TR-31	TCAACC
+S48	week 8	j10tr32	TR-32	TCACTC
+S49	baseline	j5tr4	TR-4	TTACGC
+S49	week 4	j9tr51	TR-51	AACACC
+S49	week 8	j9tr52	TR-52	AACCGT
+S50	baseline	j4tr57	TR-57	ACTGGT
+S50	week 4	j11tr42	TR-42	TGGAAC
+S50	week 8	j11tr44	TR-44	ATGCGT
+S51	baseline	j7tr5	TR-5	TTAGGT
+S51	week 4	j11tr55	TR-55	AAGGTT
+S51	week 8	j11tr56	TR-56	ACTCAT
+S52	baseline	j7tr4	TR-4	TTACGC
+S52	week 4	j10tr24	TR-24	TACGTT
+S52	week 8	j10tr26	TR-26	TAGACC
+S53	baseline	j4tr55	TR-55	AAGGTT
+S53	week 4	j11tr35	TR-35	TGTTCT
+S53	week 8	j11tr38	TR-38	TGAAGT
+S55	baseline	j8tr70	TR-70	AGGTAC
+S57	baseline	j8tr63	TR-63	ACGAGT
+S57	week 4	j11tr72	TR-72	CATGTT
+S57	week 8	j11tr73	TR-73	CCTTCT
+S58	baseline	j9tr31	TR-31	TCAACC
+S59	baseline	j8tr67	TR-67	AGATGC
+S59	week 4	j11tr51	TR-51	AACACC
+S59	week 8	j11tr52	TR-52	AACCGT
+S60	baseline	j8tr62	TR-62	ACCAAC
+S60	week 4	j11tr71	TR-71	AGGCAT
+S61	baseline	j5tr17	TR-17	TATCAC
+S63	baseline	j5tr18	TR-18	TATGCC
+S64	baseline	j5tr19	TR-19	TAATCC
+S65	baseline	j5tr22	TR-22	TACTAC
+S66	baseline	j5tr23	TR-23	TACCTC
+S67	baseline	j5tr24	TR-24	TACGTT
+S68	baseline	j5tr61	TR-61	ACCTAT
+S68	week 4	j10tr67	TR-67	AGATGC
+S68	week 8	j10tr68	TR-68	AGACGT
+S70	baseline	j5tr42	TR-42	TGGAAC
+S70	week 4	j11tr74	TR-74	CCAAGT
+S70	week 8	j11tr8	TR-8	TTCAGT
+S71	baseline	j4tr4	TR-4	TTACGC
+S72	baseline	j4tr5	TR-5	TTAGGT
+S73	baseline	j4tr7	TR-7	TTCTCC
+S77	baseline	j5tr76	TR-76	CGTAAC
+S77	week 4	j10tr11	TR-11	TTGTAC
+S77	week 8	j10tr12	TR-12	TTGTGT
+S78	baseline	j9tr4	TR-4	TTACGC
+S79	baseline	j4tr8	TR-8	TTCAGT
+S80	baseline	j5tr32	TR-32	TCACTC
+S80	week 4	j9tr39	TR-39	TGACTT
+S80	week 8	j9tr61	TR-61	ACCTAT
+S81	baseline	j5tr26	TR-26	TAGACC
+S82	baseline	j4tr9	TR-9	TTCCTT
+S83	baseline	j4tr10	TR-10	TTCCAC
+S84	baseline	j4tr11	TR-11	TTGTAC
+S85	baseline	j4tr12	TR-12	TTGTGT
+S86	baseline	j4tr17	TR-17	TATCAC
+S88	baseline	j8tr66	TR-66	AGTGAT
+S88	week 4	j11tr49	TR-49	AACTTC
+S88	week 8	j10tr45	TR-45	ATGGAT
+S89	baseline	j5tr27	TR-27	TCTTAC
+S90	baseline	j5tr28	TR-28	TCTTGT
+S91	baseline	j5tr29	TR-29	TCTAGC
+S92	baseline	j4tr77	TR-77	GAGATT
+S92	week 4	j11tr76	TR-76	CGTAAC
+S92	week 8	j11tr77	TR-77	GAGATT
+S93	baseline	j4tr34	TR-34	TCGGTT
+S93	week 4	j10tr65	TR-65	AGTTGT
+S93	week 8	j10tr66	TR-66	AGTGAT
+S95	baseline	j5tr78	TR-78	GCTATC
+S95	week 4	j10tr22	TR-22	TACTAC
+S95	week 8	j10tr23	TR-23	TACCTC
+S96	baseline	j4tr18	TR-18	TATGCC
+S98	baseline	j7tr11	TR-11	TTGTAC
+S98	week 4	j12tr65	TR-65	AGTTGT
+S98	week 8	j12tr66	TR-66	AGTGAT
+S105	baseline	j9tr10	TR-10	TTCCAC
+S105	week 4	j12tr63	TR-63	ACGAGT
+S105	week 8	j12tr64	TR-64	AGTTCC
+S106	baseline	j5tr31	TR-31	TCAACC
