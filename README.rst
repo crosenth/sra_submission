@@ -78,7 +78,7 @@ submission page or use the one in the templates folder
 templates/Metagenome.environmental.1.0.tsv.  Finally, you can run this script
 need to complete a template to upload::
 
-  bin/biosample.py --out output/Gorgos_Sycuro_SDC_Table_S1/Metagenome.environmental.1.0.tsv data/Gorgos_Sycuro_SDC_Table_S1.tsv templates/Metagenome.environmental.1.0.tsv
+  bin/biosample.py --out output/msflash_ncbisra_final/MIMS.me.human-vaginal.4.0.tsv data/msflash_ncbisra_final.tsv templates/MIMS.me.human-vaginal.4.0.tsv
 
 Output will look like this::
 
@@ -121,28 +121,35 @@ Note: After this step you can update the bioproject_accession column in the
 biosample by sending an email to biosamplehelp@ncbi.nlm.nih.gov and telling
 them what the bioproject is for which biosample.
 
-Sequence Upload (script untested)
-=================================
+Sequence Upload
+===============
 
 https://submit.ncbi.nlm.nih.gov/subs/sra/
 
 This is the last step in the process.  Click on the 'New submission' tab above
 and follow the steps.  There will be an sra submission form to fill
 out and submit.  There will also be fastq files to upload.  Using your bioproject 
-accession and filled in biosample_accession column in the original data sheet 
-run the following script::
+accession (or if you submitted the Bioproject first it will already be included in
+your biosample_accession attributes file) and filled in biosample_accession column 
+in the original data sheet run the following script::
 
-  bin/sra_beta.py --outdir output/PRJNA283125 --out output/PRJNA283125/SRA_metadata_acc.tsv data/Gorgos_Sycuro_SDC_Table_S1.tsv PRJNA283125 template/SRA_metadata_acc.tsv ftp-private.ncbi.nlm.nih.gov subftp w4pYB9VQ uploads/ngh2@uw.edu_u25A5oa4
+  bin/sra_meta.py --outdir output/msflash_ncbisra_final/fastq --out output/msflash_ncbisra_final/SRA_metadata_acc.tsv data/msflash_ncbisra_final.tsv output/msflash_ncbisra_final/attributes.tsv templates/SRA_metadata_acc.tsv
 
 Which will generate a prefilled form to upload as well as upload the fastq 
 files and output them in the --outdir directory.  The generated form --out will 
 look something like this::
 
- biosample_accession  | bioproject_accession | title | library_ID | design_description                                                                                                                                                                                                                                                                                    | library_strategy | library_source | library_selection | library_layout | platform | instrument_model    | filetype | filename1 
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- SAMN04859440         | PRJNA319051          | S1    | p7z1tr10   | DNA was extracted using the Bacteremia Kit (Mobio). The V3-V4 region of the 16S rRNA gene was targeted for broad-range PCR with pyrosequencing. 6-bp barcodes were used with the reverse primer to facilitate multiplexing. Reactions were purified using Agencourt AMPure beads prior to sequencing. | AMPLICON         | METAGENOMIC    | PCR               | single         | _LS454   | 454 GS FLX Titanium | fastq    | p7z1tr10.fastq.bz2
+  biosample_accession  | bioproject_accession | title | library_ID | design_description                                                                                                                                                                                                                                                                                    | library_strategy | library_source | library_selection | library_layout | platform | instrument_model    | filetype | filename1 
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  SAMN04859440         | PRJNA319051          | S1    | p7z1tr10   | DNA was extracted using the Bacteremia Kit (Mobio). The V3-V4 region of the 16S rRNA gene was targeted for broad-range PCR with pyrosequencing. 6-bp barcodes were used with the reverse primer to facilitate multiplexing. Reactions were purified using Agencourt AMPure beads prior to sequencing. | AMPLICON         | METAGENOMIC    | PCR               | single         | _LS454   | 454 GS FLX Titanium | fastq    | p7z1tr10.fastq.bz2
 
 Go ahead and upload that form --out file where it asks for it.
+
+Lastly, use of the uplooad options specified on the 
+https://submit.ncbi.nlm.nih.gov/subs/sra/ page.  The options change often so
+I will not go into to much specificity on what approach works best.  I chose
+the Aspera command line option and followed the directions to upload the files
+in the fastq directory.
 
 Finally
 =======
