@@ -5,7 +5,6 @@
 """
 
 import bz2
-import ftplib
 import os
 import pandas
 import sys
@@ -39,15 +38,6 @@ class Multifile(object):
 
     def filename(self, key):
         return os.path.basename(self.files[key][0])
-
-    def upload(self, url, username, password, ftpdir, projectname):
-        uploaddir = os.path.join(ftpdir, projectname)
-        session = ftplib.FTP(url, username, password)
-        session.mkd(uploaddir)
-        session.cwd(uploaddir)
-        for specimen, (_, fobj) in self.files.items():
-            session.storbinary('STOR ' + self.filename(specimen), fobj)
-        session.quit()
 
     def items(self):
         return self.files.items()
@@ -103,17 +93,6 @@ def main(arguments):
                         help=('bioproject accession number if no column '
                               'in --biosample_accessions'))
 
-    ftp_parser = parser.add_argument_group(title='ftp options')
-    ftp_parser.add_argument('--address',
-                            help=('ftp address to upload fastq files'))
-    ftp_parser.add_argument('--username',
-                            help=('ftp username to upload fastq files'))
-    ftp_parser.add_argument('--ftpdir',
-                            help=('ftp directory to upload fastq files'))
-    ftp_parser.add_argument('--datadir',
-                            default='/fh/fast/fredricks_d/bvdiversity/data',
-                            help=('top level data directory'))
-
     outopts = parser.add_argument_group('output options',)
     outopts.add_argument('--outdir', default='.',
                          help=('for individual fastq files'))
@@ -147,8 +126,12 @@ def main(arguments):
     template = pandas.read_table(args.template)
     template = pandas.concat([template] * len(specimens))
     template = template.reset_index(drop=True)
-    template[['title', 'library_ID', 'biosample_accession', 'bioproject_accession']] = specimens[
-        ['manuscript_id', 'specimen', 'accession', 'bioproject_accession']]
+
+    template_cols = ['title', 'library_ID', 'biosample_accession',
+                     'bioproject_accession']
+    specimen_cols = ['manuscript_id', 'specimen', 'accession',
+                     'bioproject_accession']
+    template[template_cols] = specimens[specimen_cols]
 
     pattern = args.datadir + '/(plate|junior-plate)-\d+/quality-filter$'
 
@@ -175,16 +158,6 @@ def main(arguments):
             fastqs = get_fastqs(raw_data, seqnames.to_dict())
             for rec, specimen in fastqs:
                 SeqIO.write([rec], fqfiles[specimen], 'fastq')
-
-    if args.address:
-        fqfiles.ftpupload(
-            args.address,
-            args.username,
-            args.password,
-            args.ftpdir,
-            args.bioproject_accession)
-
-        fqfiles.close()
 
     # record fastq filenames
     template['filename1'] = template['library_ID'].apply(
