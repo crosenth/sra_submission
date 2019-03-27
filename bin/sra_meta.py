@@ -88,10 +88,10 @@ def main(arguments):
     parser.add_argument('template',
                         help=('sra template file with one row '
                               'filled with common column data'))
-
-    parser.add_argument('--bioproject_accession',
+    parser.add_argument('bioproject_accession',
                         help=('bioproject accession number if no column '
                               'in --biosample_accessions'))
+    parser.add_argument('datadir', help=('base location of plate data'))
 
     outopts = parser.add_argument_group('output options',)
     outopts.add_argument('--outdir', default='.',
@@ -109,7 +109,7 @@ def main(arguments):
 
     specimens = pandas.read_table(
         args.specimens,
-        usecols=['specimen', 'manuscript_id'],
+        usecols=['specimen'],
         dtype=str)
 
     attributes = pandas.read_table(
@@ -127,10 +127,9 @@ def main(arguments):
     template = pandas.concat([template] * len(specimens))
     template = template.reset_index(drop=True)
 
-    template_cols = ['title', 'library_ID', 'biosample_accession',
-                     'bioproject_accession']
-    specimen_cols = ['manuscript_id', 'specimen', 'accession',
-                     'bioproject_accession']
+    template_cols = [
+        'library_ID', 'biosample_accession', 'bioproject_accession']
+    specimen_cols = ['specimen', 'accession', 'bioproject_accession']
     template[template_cols] = specimens[specimen_cols]
 
     pattern = args.datadir + '/(plate|junior-plate)-\d+/quality-filter$'
