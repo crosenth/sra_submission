@@ -1,2 +1,2 @@
-biosample_accession	bioproject_accession	title	library_ID	design_description	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	filetype	filename1
+biosample_accession	bioproject_accession	library_ID	design_description	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	filetype	filename
 				DNA was extracted using the Bacteremia Kit (Mobio). The V3-V4 region of the 16S rRNA gene was targeted for broad-range PCR with pyrosequencing. 6-bp barcodes were used with the reverse primer to facilitate multiplexing. Reactions were purified using Agencourt AMPure beads prior to sequencing.	AMPLICON	METAGENOMIC	PCR	single	_LS454	454 GS FLX Titanium	fastq	
