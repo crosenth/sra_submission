@@ -88,9 +88,6 @@ def main(arguments):
     parser.add_argument('template',
                         help=('sra template file with one row '
                               'filled with common column data'))
-    parser.add_argument('bioproject_accession',
-                        help=('bioproject accession number if no column '
-                              'in --biosample_accessions'))
     parser.add_argument('datadir', help=('base location of plate data'))
 
     outopts = parser.add_argument_group('output options',)
@@ -116,9 +113,6 @@ def main(arguments):
         args.biosample_attributes,
         usecols=['accession', 'sample_name', 'bioproject_accession'],
         dtype=str)
-
-    if args.bioproject_accession:
-        attributes.loc[:, 'bioproject_accession'] = args.bioproject_accession
 
     specimens = specimens.merge(
         attributes, left_on='specimen', right_on='sample_name')

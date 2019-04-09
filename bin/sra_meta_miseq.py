@@ -17,12 +17,6 @@ def main(arguments):
     parser = argparse.ArgumentParser(
         description=__doc__,
         formatter_class=CustomFormatter)
-    parser.add_argument('bioproject_accession',
-                        help=('bioproject accession number if no column '
-                              'in --biosample_accessions'))
-    parser.add_argument('specimens',
-                        help=('tab delimited with columns '
-                              '[specimen,manuscript_id]'))
     parser.add_argument('biosample_attributes',
                         help=('tab delimited "attributes file" from sra, '
                               'columns [accession,sample_name]'))
@@ -42,26 +36,16 @@ def main(arguments):
         os.makedirs(args.outdir)
     except OSError:
         pass
-    specimens = pandas.read_csv(
-        args.specimens,
-        usecols=['specimen'],
-        sep='\t',
-        dtype=str)
     attributes = pandas.read_csv(
         args.biosample_attributes,
-        usecols=['accession', 'sample_name'],
+        usecols=['accession', 'sample_name', 'bioproject_accession'],
         sep='\t',
         dtype=str)
-    attributes['bioproject_accession'] = args.bioproject_accession
-    specimens = specimens.merge(
-        attributes, left_on='specimen', right_on='sample_name')
     template = pandas.read_csv(args.template, sep='\t')
-    template = pandas.concat([template] * len(specimens))
+    template = pandas.concat([template] * len(attributes))
     template = template.reset_index(drop=True)
-    template_cols = [
-        'library_ID', 'biosample_accession', 'bioproject_accession']
-    specimen_cols = ['specimen', 'accession', 'bioproject_accession']
-    template[template_cols] = specimens[specimen_cols]
+    cols = ['biosample_accession', 'library_ID', 'bioproject_accession']
+    template[cols] = attributes
     pattern = os.path.join(
         args.datadir,
         'miseq-plate-*',
