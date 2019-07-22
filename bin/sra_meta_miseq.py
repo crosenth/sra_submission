@@ -2,11 +2,12 @@
 """
 Aggregate miseq specimens from multiple projects
 """
+import argparse
 import os
 import pandas
+import pathlib
+import re
 import sys
-import argparse
-import glob
 
 
 def main(arguments):
@@ -46,23 +47,26 @@ def main(arguments):
     template = template.reset_index(drop=True)
     cols = ['biosample_accession', 'library_ID', 'bioproject_accession']
     template[cols] = attributes
-    pattern = os.path.join(
+    file_pattern = os.path.join(
         args.datadir,
-        'miseq-plate-*',
+        'miseq-plate-{plate}',
         'run-files',
-        '*',
-        'Data',
-        'Intensities',
-        'BaseCalls',
-        '{}_*_L001_R[12]*_001.fastq.gz')
+        '**',
+        '{library}_*_L001_R[12]*_001.fastq.gz')
+    plate_pattern = re.compile('^m(?P<plate>\d+)n')
     for i in template['library_ID'].values:
+        plate = re.search(plate_pattern, i).group('plate')
         try:
-            r1, r2 = sorted(glob.glob(pattern.format(i)))
+            pth = pathlib.Path(args.datadir)
+            fqs = pth.glob(file_pattern.format(library=i, plate=plate))
+            r1, r2 = sorted(fqs)
         except ValueError as e:
             print('error processin:' + i)
             raise(e)
         r1_basename = os.path.basename(r1)
         r2_basename = os.path.basename(r2)
+        print(r1_basename)
+        print(r2_basename)
         os.symlink(os.path.abspath(r1), os.path.join(args.outdir, r1_basename))
         os.symlink(os.path.abspath(r2), os.path.join(args.outdir, r2_basename))
         template.loc[template['library_ID'] == i, 'filename'] = r1_basename
