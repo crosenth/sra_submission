@@ -127,7 +127,11 @@ the template folder that can be used::
 Using this file the following script will automatically put everything
 together::
 
-  bin/biosample.py --out output/output/LancetHIV_Kelleretal_2019/MIMS.me.human-vaginal.5.0.tsv data/LancetHIV_Kelleretal_2019_table.tsv specimen,label templates/MIMS.me.human-vaginal.5.0.tsv PRJNA529191
+  bin/biosample.py --outdir output/LancetHIV_Kelleretal_2019 --max-rows 1000 data/LancetHIV_Kelleretal_2019_table.tsv specimen,label templates/MIMS.me.human-vaginal.5.0.tsv PRJNA529191
+
+NOTE: NCBI is enforcing a 1,000 row Biosample batch limit.  If you are 
+attempting more than 1,000 samples they will be split into multiple
+files for multimple Biosample submissions.
 
 Output will look something like this::
 

@@ -4,6 +4,7 @@
 """
 
 import argparse
+import os
 import pandas
 import re
 import sys
@@ -27,8 +28,17 @@ def main(arguments):
         help=('biosample template file with one row '
               'filled out with required columns'))
     parser.add_argument('bioproject', help='bioproject accession')
-    parser.add_argument('--out', default=sys.stdout)
+    parser.add_argument(
+        '--max-rows',
+        type=int,
+        help=('Cap the number of rows in output. '
+              'Currently there is an 1000 row ncbi limit'))
+    parser.add_argument('--outdir', default=sys.stdout)
     args = parser.parse_args(arguments)
+    try:
+        os.makedirs(args.outdir)
+    except OSError:
+        pass
     identifiers = args.identifiers.split(',')
     samples = pandas.read_csv(
         args.samples,
@@ -43,14 +53,21 @@ def main(arguments):
     filled[samples.columns] = samples
     if len(identifiers) == 1:
         # use plate, zone and primer if only sample name identifier is given
-        def plate_zone_primer(series):
-            plate_zone_primer = re.findall('\D+\d+', series['*sample_name'])
+        def plate_zone_primer(s):
+            plate_zone_primer = re.findall('\D+\d+', s['*sample_name'])
             if len(plate_zone_primer) == 2:
                 plate_zone_primer.insert(1, '')
-            series['plate'], series['zone'], series['primer'] = plate_zone_primer
-            return series
+            s['plate'], s['zone'], s['primer'] = plate_zone_primer
+            return s
         filled = filled.apply(plate_zone_primer, axis=1)
-    filled.to_csv(args.out, index=False, sep='\t')
+    name, ext = os.path.splitext(os.path.basename(args.template))
+    if args.max_rows:
+        for i, r in enumerate(range(0, len(filled), args.max_rows), start=1):
+            out = os.path.join(args.outdir, name + '_' + str(i) + ext)
+            filled[r:r+args.max_rows].to_csv(out, index=False, sep='\t')
+    else:
+        out = os.path.join(args.outdir, name + ext)
+        filled.to_csv(out, index=False, sep='\t')
 
 
 if __name__ == '__main__':
