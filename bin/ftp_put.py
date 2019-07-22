@@ -26,12 +26,12 @@ def main(arguments):
     session.cwd(args.account_folder)
     session.mkd(args.target_folder)
     session.cwd(args.target_folder)
-    for f in os.listdir(args.datadir):
+    for i, f in enumerate(os.listdir(args.datadir), start=1):
         pth = os.path.join(args.datadir, f)
         if os.path.islink(pth):
             pth = os.readlink(pth)
         with open(pth, 'rb') as fi:
-            print(f)
+            print(str(i) + ' ' + f)
             session.storbinary('STOR ' + f, fi)
     session.quit()
 
