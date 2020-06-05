@@ -31,7 +31,9 @@ To start, here is the login credentials that have been used thus far for
 submissions::
 
   username: std_crc
-  password: Gram$positive4
+  password: [email crosenth@uw.edu]
+
+.. image:: images/login.png
 
 Since BioProject submission PRJNA529191 any NCBI user who is a member of the
 '19790-shared-submissions' group will have permissions to view, edit and
