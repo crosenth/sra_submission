@@ -24,8 +24,8 @@ Official walkthrough: http://www.ncbi.nlm.nih.gov/books/NBK47529/
 
 Main submission page: https://submit.ncbi.nlm.nih.gov/
 
-There are three parts to submitting and experiment: the bioproject, 
-the biosamples and the fastq sequence submissions.
+There are three parts to submitting and experiment: the Bioproject, 
+the Biosamples and the SRA fastq sequence submissions.
 
 To start, here is the login credentials that have been used thus far for
 submissions::
@@ -34,10 +34,6 @@ submissions::
   password: [email crosenth@uw.edu]
 
 .. image:: images/login.png
-
-Since BioProject submission PRJNA529191 any NCBI user who is a member of the
-'19790-shared-submissions' group will have permissions to view, edit and
-make submissions for the Lab.
 
 At any point during the submission process if there are any issues the SRA staff
 is good at answering questions. Just send an email to sra@ncbi.nlm.nih.gov 
@@ -119,7 +115,12 @@ Biosample
 
 https://submit.ncbi.nlm.nih.gov/subs/biosample/
 
-Create a 'New submission' Biosample and follow the walkthrough. You will be
+Create a 'New submission' Biosample and follow the walkthrough. 
+
+
+
+
+You will be
 asked to submit a tab-delimited file with the sample names filled out and
 other required informatiom.  There is a pre-filled template file located in
 the template folder that can be used::
@@ -129,7 +130,13 @@ the template folder that can be used::
 Using this file the following script will automatically put everything
 together::
 
-  bin/biosample.py --outdir output/LancetHIV_Kelleretal_2019 --max-rows 1000 data/LancetHIV_Kelleretal_2019_table.tsv specimen,label templates/MIMS.me.human-vaginal.5.0.tsv PRJNA529191
+  bin/biosample.py --outdir output/CID_NGU_NCBI_SEQ_Submission_FINAL --max-rows 1000 data/CID_NGU_NCBI_SEQ_Submission_FINAL.tsv study_id,seqid templates/MIMARKS.survey.human-associated.5.0.tsv PRJNA637612
+
+sample_name must be in form mXXnXXXsXXX
+
+For an explanation script options::
+
+  bin/biosample.py --help
 
 NOTE: NCBI is enforcing a 1,000 row Biosample batch limit.  If you are 
 attempting more than 1,000 samples they will be split into multiple

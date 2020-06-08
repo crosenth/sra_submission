@@ -54,7 +54,8 @@ def main(arguments):
     if len(identifiers) == 1:
         # use plate, zone and primer if only sample name identifier is given
         def plate_zone_primer(s):
-            plate_zone_primer = re.findall('\D+\d+', s['*sample_name'])
+            plate_zone_primer = re.findall(
+                '[A-Za-z]+[0-9]+', s['*sample_name'])
             if len(plate_zone_primer) == 2:
                 plate_zone_primer.insert(1, '')
             s['plate'], s['zone'], s['primer'] = plate_zone_primer
