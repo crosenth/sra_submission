@@ -115,12 +115,7 @@ Biosample
 
 https://submit.ncbi.nlm.nih.gov/subs/biosample/
 
-Create a 'New submission' Biosample and follow the walkthrough. 
-
-
-
-
-You will be
+Create a 'New submission' Biosample and follow the walkthrough. You will be
 asked to submit a tab-delimited file with the sample names filled out and
 other required informatiom.  There is a pre-filled template file located in
 the template folder that can be used::
