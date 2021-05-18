@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """Fill out a biosample file given specimen data and a biosample template
 """
