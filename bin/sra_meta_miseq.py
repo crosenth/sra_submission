@@ -39,13 +39,13 @@ def main(arguments):
         pass
     attributes = pandas.read_csv(
         args.biosample_attributes,
-        usecols=['accession', 'sample_name', 'bioproject_accession'],
+        usecols=['accession', 'sample_name'],
         sep='\t',
         dtype=str)
     template = pandas.read_csv(args.template, sep='\t')
     template = pandas.concat([template] * len(attributes))
     template = template.reset_index(drop=True)
-    cols = ['biosample_accession', 'library_ID', 'bioproject_accession']
+    cols = ['biosample_accession', 'library_ID']
     template[cols] = attributes
     file_pattern = os.path.join(
         args.datadir,
