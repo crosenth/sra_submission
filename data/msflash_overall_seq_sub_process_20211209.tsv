@@ -1,0 +1,411 @@
+seqid	Sample_ID	Participant_ID	ARM	TimePoint	Samples Included In_1	Samples Included In_2
+m52n701-s503	97035810	1	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s505	97064710	1	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s506	98010410	1	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s507	97008010	2	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s508	97055910	2	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s510	98001010	2	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s511	97028210	3	Moisturizer	Baseline	Srinivasan et al. 2022	No
+m52n702-s502	97065010	3	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m52n702-s503	98010610	3	Moisturizer	Week 12	Srinivasan et al. 2022	No
+m60n716-s507	97020110	4	Placebo	Baseline	Srinivasan et al. 2022	No
+m52n702-s506	97053610	4	Placebo	Week 4	Srinivasan et al. 2022	No
+m52n702-s507	98004210	4	Placebo	Week 12	Srinivasan et al. 2022	No
+m52n702-s508	97008710	5	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n702-s510	97055210	5	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n702-s511	98002110	5	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s505	97033810	6	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s506	97071310	6	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s507	98036210	6	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s508	97028410	7	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s510	97063610	7	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s511	98023910	7	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n704-s505	98037410	8	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n704-s507	97050310	9	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m52n711-s508	97021810	10	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s510	97062110	10	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s511	98022110	10	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n704-s511	97054210	11	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s502	98003410	11	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s507	97054710	12	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s508	98003810	12	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s510	97036310	13	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s511	97063510	13	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s502	98024010	13	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s503	97006910	14	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s505	97051410	14	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s506	98033210	14	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s507	97032510	15	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s508	97076410	15	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s510	98017410	15	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s511	97037810	16	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n707-s502	97064210	16	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n707-s503	98010210	16	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n712-s502	97047710	17	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n712-s503	97066010	17	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n712-s505	98023610	17	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n707-s507	97032810	18	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n707-s508	97096510	18	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n707-s510	98028510	18	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n707-s511	97013910	19	Moisturizer	Baseline	Srinivasan et al. 2022	No
+m52n710-s502	97075610	19	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m52n710-s503	98031410	19	Moisturizer	Week 12	Srinivasan et al. 2022	No
+m52n710-s505	97028910	20	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n710-s506	97064410	20	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n710-s507	98024210	20	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n710-s508	97005510	21	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n710-s510	97054110	21	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n710-s511	98000310	21	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s502	97000510	22	Moisturizer	Baseline	Srinivasan et al. 2022	No
+m52n711-s503	97058110	22	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m52n711-s505	98004910	22	Moisturizer	Week 12	Srinivasan et al. 2022	No
+m52n712-s506	97042610	23	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n712-s507	97075910	23	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n712-s508	98029010	23	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n712-s510	97027710	24	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n712-s511	97063810	24	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n714-s502	98024510	24	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n714-s503	97043110	25	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n714-s505	97070910	25	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n714-s506	98029710	25	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n714-s510	97016210	26	Moisturizer	Baseline	Srinivasan et al. 2022	No
+m52n714-s511	97075110	26	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m52n715-s502	98030410	26	Moisturizer	Week 12	Srinivasan et al. 2022	No
+m52n715-s503	97024210	27	Estradiol	Baseline	Srinivasan et al. 2022	No
+m52n715-s505	97077110	27	Estradiol	Week 4	Srinivasan et al. 2022	No
+m52n715-s506	98018610	27	Estradiol	Week 12	Srinivasan et al. 2022	No
+m52n715-s507	97042210	28	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n715-s508	97068310	28	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n715-s510	98029910	28	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n716-s503	97013110	29	Placebo	Baseline	Srinivasan et al. 2022	No
+m52n716-s505	97067810	29	Placebo	Week 4	Srinivasan et al. 2022	No
+m52n716-s506	98034510	29	Placebo	Week 12	Srinivasan et al. 2022	No
+m52n716-s507	97031710	30	Placebo	Baseline	Srinivasan et al. 2022	No
+m60n720-s503	97060610	30	Placebo	Week 4	Srinivasan et al. 2022	No
+m52n716-s510	98018910	30	Placebo	Week 12	Srinivasan et al. 2022	No
+m52n718-s503	97026710	31	Placebo	Baseline	Srinivasan et al. 2022	No
+m52n718-s505	97076810	31	Placebo	Week 4	Srinivasan et al. 2022	No
+m52n718-s506	98018410	31	Placebo	Week 12	Srinivasan et al. 2022	No
+m52n718-s508	97074610	32	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n718-s510	98030010	32	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n720-s506	97015210	33	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n719-s502	97074910	33	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n719-s503	98038010	33	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n719-s505	97023610	34	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n719-s506	97079110	34	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n719-s507	98020710	34	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n719-s508	97041610	35	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n720-s507	97069510	35	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n720-s508	98029810	35	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n720-s505	97018210	36	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n720-s506	97074010	36	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n720-s507	98034210	36	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n720-s510	97063910	37	Placebo	Week 4	Srinivasan et al. 2022	No
+m60n720-s510	98024710	37	Placebo	Week 12	Srinivasan et al. 2022	No
+m52n721-s502	97031410	38	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n721-s503	97076910	38	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n721-s505	98018210	38	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n720-s511	97056310	39	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n721-s508	98001411	39	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n721-s502	97009610	40	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n721-s503	97059510	40	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n722-s502	98033110	40	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n722-s506	97030510	41	Estradiol	Baseline	Srinivasan et al. 2022	No
+m52n722-s507	97060510	41	Estradiol	Week 4	Srinivasan et al. 2022	No
+m52n722-s508	98009010	41	Estradiol	Week 12	Srinivasan et al. 2022	No
+m60n721-s505	97032010	42	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n721-s506	97077410	42	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s502	98018810	42	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s503	97003410	43	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s505	97054410	43	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s506	98002510	43	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s507	97030810	44	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s508	97077510	44	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s510	98019610	44	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n723-s511	97015610	45	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n724-s502	97074710	45	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n724-s503	98030110	45	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n724-s507	97017610	46	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n721-s507	97072910	46	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n724-s510	98008310	46	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n724-s511	97020710	47	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n726-s502	97078510	47	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n726-s503	98020010	47	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n726-s505	97013510	48	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n726-s506	97067410	48	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n726-s507	98030910	48	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n721-s508	97029010	49	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n726-s510	97064310	49	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n726-s511	98010110	49	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n727-s502	97005110	50	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n727-s503	97054010	50	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n727-s505	98002410	50	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n727-s508	97041210	51	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n727-s510	97068610	51	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n727-s511	98026710	51	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n728-s502	97034110	52	Moisturizer	Baseline	Srinivasan et al. 2022	No
+m52n728-s503	97071610	52	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m52n728-s505	98028710	52	Moisturizer	Week 12	Srinivasan et al. 2022	No
+m52n728-s506	97021910	53	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n728-s507	97061810	53	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n728-s508	98020910	53	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n728-s511	97052910	54	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n729-s502	98000410	54	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n729-s503	97027310	55	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n729-s505	97053010	55	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n729-s506	98003210	55	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n716-s503	97035310	56	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s515	97063010	56	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s516	98022810	56	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s518	97053310	57	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n716-s506	98003910	57	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s521	97018910	58	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n701-s522	97072310	58	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s513	98034110	58	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s515	97032910	59	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s516	97070810	59	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s517	98035710	59	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s518	97029910	60	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s520	97064810	60	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n711-s521	98010810	60	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s515	97007610	61	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s516	97056010	61	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s517	98001610	61	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s520	97076110	62	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s521	98030610	62	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n703-s522	97024010	63	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n704-s513	97077710	63	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n704-s515	98019010	63	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n704-s516	97020610	64	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n704-s517	97076610	64	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n718-s508	97064910	65	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n718-s510	98010710	65	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s517	97058410	66	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s518	98006510	66	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s521	97057810	67	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n705-s522	98006210	67	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n726-s511	97002310	68	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s502	97057410	68	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s503	98005610	68	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s513	97017210	69	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s515	97067010	69	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s516	98039310	69	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s517	97021510	70	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n706-s521	97043210	71	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n719-s505	97070110	71	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n719-s506	98028810	71	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n719-s507	97042110	72	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n719-s508	97069410	72	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n719-s510	98029510	72	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n719-s511	97043310	73	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m60n720-s502	97070510	73	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m52n710-s513	98028210	73	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s503	97026910	74	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s505	97061410	74	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s506	98017210	74	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s507	97003210	75	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s508	97058510	75	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s510	98006910	75	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s511	97031110	76	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s502	97077310	76	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s503	98018710	76	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s507	97022310	77	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s508	97062010	77	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s510	98021110	77	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s505	97006710	78	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s506	97059710	78	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s507	98032710	78	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s511	97037610	79	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s502	97064110	79	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s503	98010310	79	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s505	97005910	80	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s506	97057310	80	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s507	98006410	80	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s508	97036510	81	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s510	97063210	81	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s511	98023510	81	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n704-s502	97033610	82	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n704-s503	97071510	82	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n704-s505	98036110	82	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n704-s508	97019610	83	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n704-s510	97071810	83	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n704-s511	98033410	83	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s502	97004410	84	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s503	97052610	84	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s505	98002710	84	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s506	97027610	85	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s507	97064010	85	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s508	98024610	85	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s510	97013710	86	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s511	97076210	86	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s502	98031210	86	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s503	97036810	87	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s505	97062410	87	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s506	98023410	87	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s510	97028710	88	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s511	97066310	88	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s502	98021910	88	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s503	97019110	89	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s505	97050710	89	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s506	98032210	89	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s507	97014110	90	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s508	97067910	90	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s510	98031710	90	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s511	97042510	91	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n710-s502	97070210	91	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n710-s503	98029610	91	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n710-s505	97029210	92	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n710-s506	97064510	92	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n710-s507	98024410	92	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n710-s511	97029610	93	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s502	97065110	93	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s503	98010510	93	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s505	97028610	94	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s506	97063710	94	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s507	98024110	94	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s508	97016410	95	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s510	97073810	95	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n711-s511	98031010	95	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n712-s502	97026810	96	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n712-s503	97051710	96	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n712-s505	98002310	96	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n712-s506	97023010	97	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n712-s507	97052510	97	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n712-s508	98001510	97	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s502	97008910	98	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s503	97054510	98	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s505	98002910	98	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s506	97002510	99	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s507	97059210	99	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s508	98007110	99	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s510	97047310	100	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n714-s511	97062810	100	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n715-s502	98022310	100	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n715-s503	97015710	101	Placebo	Baseline	Srinivasan et al. 2022	No
+m53n715-s505	97067110	101	Placebo	Week 4	Srinivasan et al. 2022	No
+m53n715-s506	98037610	101	Placebo	Week 12	Srinivasan et al. 2022	No
+m53n715-s507	97017310	102	Placebo	Baseline	Srinivasan et al. 2022	No
+m53n715-s508	97073310	102	Placebo	Week 4	Srinivasan et al. 2022	No
+m53n715-s510	98038810	102	Placebo	Week 12	Srinivasan et al. 2022	No
+m53n716-s506	97033010	103	Estradiol	Baseline	Srinivasan et al. 2022	No
+m53n716-s507	97069710	103	Estradiol	Week 4	Srinivasan et al. 2022	No
+m53n716-s508	98037210	103	Estradiol	Week 12	Srinivasan et al. 2022	No
+m53n716-s510	97008310	104	Estradiol	Baseline	Srinivasan et al. 2022	No
+m53n716-s511	97055310	104	Estradiol	Week 4	Srinivasan et al. 2022	No
+m53n718-s502	98002210	104	Estradiol	Week 12	Srinivasan et al. 2022	No
+m53n718-s503	97014210	105	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n718-s505	97075310	105	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n718-s506	98038710	105	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n718-s507	97018410	106	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n718-s508	97072610	106	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n718-s510	98039610	106	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n718-s511	97036410	107	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n719-s502	97062710	107	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n719-s503	98023110	107	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n719-s507	97016810	108	Placebo	Baseline	Srinivasan et al. 2022	No
+m53n719-s508	97073910	108	Placebo	Week 4	Srinivasan et al. 2022	No
+m53n719-s510	98039510	108	Placebo	Week 12	Srinivasan et al. 2022	No
+m53n719-s511	97015010	109	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s502	97073610	109	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s503	98030810	109	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s505	97036210	110	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s506	97066210	110	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s507	98022610	110	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s508	97020210	111	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s510	97051910	111	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n720-s511	98002810	111	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n721-s502	97032710	112	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n721-s503	97068110	112	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n721-s505	98037910	112	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n721-s508	97023310	113	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n721-s510	97051610	113	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n721-s511	98009110	113	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s502	97004910	114	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s503	97053910	114	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s505	98003510	114	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s506	97017810	115	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s507	97072210	115	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s508	98039810	115	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s510	97015110	116	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n722-s511	97066810	116	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n723-s502	98037510	116	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n723-s503	97022910	117	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n723-s505	97052410	117	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n723-s506	98000610	117	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n723-s510	97042410	118	Moisturizer	Baseline	Srinivasan et al. 2022	No
+m53n723-s511	97070010	118	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m53n724-s502	98029410	118	Moisturizer	Week 12	Srinivasan et al. 2022	No
+m53n724-s503	97014310	119	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n724-s505	97069610	119	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n724-s506	98026210	119	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n724-s508	97068710	120	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n724-s511	97027210	121	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n726-s502	97060210	121	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n726-s503	98017610	121	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n726-s505	97012410	122	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n726-s506	97068510	122	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n726-s507	98032010	122	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s508	97021210	123	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s510	97078010	123	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n727-s511	98019810	123	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n728-s502	97027010	124	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n728-s503	97077210	124	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n728-s505	98019710	124	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n728-s506	97009410	125	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n728-s507	97059810	125	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n728-s508	98033010	125	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n729-s502	97024310	126	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n729-s503	97078710	126	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n729-s505	98020110	126	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n729-s506	97006310	127	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n729-s507	97050110	127	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n729-s508	98009910	127	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n729-s510	97017110	128	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s515	97073710	128	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s516	98038110	128	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s517	97001410	129	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s518	97057210	129	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s520	98005010	129	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n701-s522	97057510	130	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s513	98006010	130	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s517	97003010	131	Placebo	Baseline	Srinivasan et al. 2022	No
+m53n702-s518	97058910	131	Placebo	Week 4	Srinivasan et al. 2022	No
+m53n702-s520	98010010	131	Placebo	Week 12	Srinivasan et al. 2022	No
+m53n702-s521	97009810	132	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n702-s522	97050210	132	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s513	98032910	132	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s515	97031610	133	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s516	97076710	133	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s517	98018510	133	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s518	97043410	134	Estradiol	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s520	97096310	134	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s521	98028310	134	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n703-s522	97006810	135	Moisturizer	Baseline	Srinivasan et al. 2022	No
+m53n704-s513	97050910	135	Moisturizer	Week 4	Srinivasan et al. 2022	No
+m53n704-s515	98009810	135	Moisturizer	Week 12	Srinivasan et al. 2022	No
+m53n704-s518	97015410	136	Placebo	Baseline	Srinivasan et al. 2022	No
+m53n704-s520	97075010	136	Placebo	Week 4	Srinivasan et al. 2022	No
+m53n704-s521	98031310	136	Placebo	Week 12	Srinivasan et al. 2022	No
+m53n706-s516	97001510	137	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s517	97059111	137	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s518	98006710	137	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n704-s522	97034010	138	Placebo	Baseline	Srinivasan et al. 2022	No
+m53n705-s513	97071110	138	Placebo	Week 4	Srinivasan et al. 2022	No
+m53n705-s515	98028910	138	Placebo	Week 12	Srinivasan et al. 2022	No
+m53n705-s516	97032210	139	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s517	97078310	139	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s518	98018310	139	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n705-s520	97018710	140	Estradiol	Baseline	Srinivasan et al. 2022	No
+m53n705-s521	97079710	140	Estradiol	Week 4	Srinivasan et al. 2022	No
+m53n705-s522	98039710	140	Estradiol	Week 12	Srinivasan et al. 2022	No
+m53n706-s520	97022110	141	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s521	97061610	141	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n706-s522	98021510	141	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s515	97057110	142	Estradiol	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s516	98032310	142	Estradiol	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s517	97022810	143	Placebo	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s518	97053510	143	Placebo	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s520	98000110	143	Placebo	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s521	97030310	144	Moisturizer	Baseline	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n707-s522	97061110	144	Moisturizer	Week 4	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
+m53n710-s513	98018010	144	Moisturizer	Week 12	Srinivasan et al. 2022	Mitchell et al. AJOG 2021
