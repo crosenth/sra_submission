@@ -30,8 +30,9 @@ the Biosamples and the SRA fastq sequence submissions.
 To start, here is the login credentials that have been used thus far for
 submissions::
 
-  username: std_crc
-  password: [email crosenth@uw.edu]
+  username: [Use ORCiD 3rd Party Login]
+  ORCiD: 0000-0002-3092-3362
+  password: [email crosenth@uw.edu for password]
 
 .. image:: images/login.png
 
