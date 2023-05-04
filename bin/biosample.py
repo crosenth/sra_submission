@@ -10,6 +10,13 @@ import re
 import sys
 
 
+def check_sample_name(s):
+    if not s.startswith('m'):
+        raise ValueError(
+                f'invalid sample_name: "{s}". '
+                'Are you declaring the right sample_name column?')
+
+
 def main(arguments):
     parser = argparse.ArgumentParser(
         description=__doc__,
@@ -46,6 +53,8 @@ def main(arguments):
         usecols=identifiers,
         sep='\t').dropna()
     samples = samples.rename(columns={identifiers[0]: '*sample_name'})
+
+    samples['*sample_name'].apply(check_sample_name)
     template = pandas.read_csv(args.template, dtype=str, sep='\t', comment='#')
     template['bioproject_accession'] = args.bioproject
     filled = pandas.concat([template] * len(samples))

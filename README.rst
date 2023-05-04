@@ -126,7 +126,7 @@ the template folder that can be used::
 Using this file the following script will automatically put everything
 together::
 
-  bin/biosample.py --outdir output/CID_NGU_NCBI_SEQ_Submission_FINAL --max-rows 1000 data/CID_NGU_NCBI_SEQ_Submission_FINAL.tsv study_id,seqid templates/MIMARKS.survey.human-associated.5.0.tsv PRJNA637612
+  bin/biosample.py --outdir output/CID_NGU_NCBI_SEQ_Submission_FINAL --max-rows 1000 data/CID_NGU_NCBI_SEQ_Submission_FINAL.tsv sample_name,study_id templates/MIMARKS.survey.human-associated.5.0.tsv PRJNA637612
 
 sample_name must be in form mXXnXXXsXXX
 
