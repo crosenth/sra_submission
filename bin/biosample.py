@@ -46,7 +46,7 @@ def main(arguments):
         usecols=identifiers,
         sep='\t').dropna()
     samples = samples.rename(columns={identifiers[0]: '*sample_name'})
-    template = pandas.read_csv(args.template, dtype=str, sep='\t')
+    template = pandas.read_csv(args.template, dtype=str, sep='\t', comment='#')
     template['bioproject_accession'] = args.bioproject
     filled = pandas.concat([template] * len(samples))
     filled = filled.reset_index(drop=True)
