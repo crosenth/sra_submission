@@ -172,7 +172,9 @@ This is the last step in the process.  Click on the 'New submission' tab above
 and follow the steps.  There will be an sra submission form to fill out and 
 submit.  Here is where we upload the fastq data files.  Using your Bioproject 
 accession (or if you submitted the Bioproject first it will already be included in
-your biosample_accession attributes file) run the following script::
+your biosample_accession attributes file) run the `bin/sra_meta.p`  script. Note, 
+the same upload limit of 1,000 samples applies here so you may need to go through 
+multiple SRA submissions wizards to finish the submission::
 
   bin/sra_meta.py --outdir output/Overbaugh_NCBISRA/fastq --out output/Overbaugh_NCBISRA/SRA_metadata_acc.tsv data/Overbaugh_NCBISRA.tsv output/Overbaugh_NCBISRA/attributes.tsv templates/SRA_metadata_acc.tsv ../data
 
@@ -189,16 +191,17 @@ per specimen/sample which will look somewhat like this::
   SAMN04859440         | S1    | p7z1tr10   | DNA was extracted using the Bacteremia Kit (Mobio). The V3-V4 region of the 16S rRNA gene was targeted for broad-range PCR with pyrosequencing. 6-bp barcodes were used with the reverse primer to facilitate multiplexing. Reactions were purified using Agencourt AMPure beads prior to sequencing. | AMPLICON         | METAGENOMIC    | PCR               | single         | _LS454   | 454 GS FLX Titanium | fastq    | p7z1tr10.fastq.bz2
   ...
 
-Go ahead and upload the filled out form SRA --out file when asked for it.
+Go ahead and upload the filled out form SRA `--out` file when asked for it.
 
-Lastly, click on the ftp upload option from the 
-https://submit.ncbi.nlm.nih.gov/subs/sra/ page.  Follow the directions to
-upload the fastq files.  I created a helper ftp script which can be used like
-this::
+The last step in this process will have the ftp upload instructions.
+They will provide an ftp username, password and upload location.  You will also
+need to create a folder to upload the files to. Use the following script with 
+the parameters provided from NCBI as follows:
 
   bin/ftp_put.py ftp-private.ncbi.nlm.nih.gov subftp w4pYB9VQ uploads/ngh2@uw.edu_u25A5oa4 LancetHIV_Kelleretal_2019 output/LancetHIV_Kelleretal_2019/fastq
 
-The username and password will change each time you go through this process.
+The username, password and upload folder will change periodically so make sure
+to use the latest, correct parameter information.
 
 Finally
 =======
