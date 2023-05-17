@@ -153,15 +153,15 @@ there will be an attributes file for you to download via the main biosample
 submission portal page.  We will use this attributes file to fill out the
 final sra sequence upload template.
 
-NOTE: From time to time NCBI will update the MIMS.me.human-vaginal template
+NOTE: From time to time NCBI will update the MIMARKS.survey.human-vaginal template
 which will force us to update our own.  To get the latest template go to::
 
   https://submit.ncbi.nlm.nih.gov/biosample/template/
 
-Select "Genome, metagenome or marker sequences (MIxS compliant)" ->
-"Environmental/Metagenome Genomic Sequences MIMS" -> "human-vaginal" ->
-"Download TSV".  Place the tsv file into the templates folder adding any
-additional required annotation and update this README accordingly.
+Under "GSC MIxS packages for genomes, metagenomes, and marker sequences" 
+select "MIMARKS Survey related" -> "human-vaginal" -> "Download TSV".  
+Place the tsv file into the templates folder adding any additional required 
+annotation and update this README accordingly.
 
 Sequence Upload
 ===============
