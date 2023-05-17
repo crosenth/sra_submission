@@ -1,0 +1,107 @@
+VisitNumber	sample_id	sequence_id	cell_sort_label	Live_Dead	cell_sort_Ig	coated
+1	P01 v1 pel-1	m68n701-s503	IgA-IgG-	Live	IgA-IgG-	no
+1	P01 v1 pel-2	m68n701-s505	IgA+IgG-	Live	IgA+IgG-	yes
+2	P01 v2 pel-1	m68n701-s506	IgA-IgG-	Live	IgA-IgG-	no
+2	P01 v2 pel-2	m68n701-s507	IgA+IgG-	Live	IgA+IgG-	yes
+3	P01 v3 pel-1	m68n701-s508	IgA-IgG-	Live	IgA-IgG-	no
+3	P01 v3 pel-2	m68n701-s510	IgA+IgG-	Live	IgA+IgG-	yes
+1	P02 v1 pel-1	m68n701-s511	IgA-IgG-	Live	IgA-IgG-	no
+1	P02 v1 pel-2	m68n702-s502	IgA+IgG-	Live	IgA+IgG-	yes
+2	P02 v2 pel-1	m68n702-s503	IgA-IgG-	Live	IgA-IgG-	no
+2	P02 v2 pel-2	m68n702-s505	IgA+IgG-	Live	IgA+IgG-	yes
+1	P06 v1 pel-1	m68n703-s503	IgA-IgG-	Live	IgA-IgG-	no
+1	P06 v1 pel-2	m68n703-s506	IgA+IgG-	Live	IgA+IgG-	yes
+2	P06 v2 pel-1	m68n703-s507	IgA-IgG-	Live	IgA-IgG-	no
+2	P06 v2 pel-3	m68n703-s510	 IgA+gG-	Live	IgA+IgG-	yes
+3	P06 v3 pel-1	m68n703-s511	Live IgA-IgG-	Live	IgA-IgG-	no
+3	P06 v3 pel-2	m68n704-s502	Live IgA+IgG-	Live	IgA+IgG-	yes
+1	P07 v1 pel-1	m68n704-s506	IgA-IgG-	Live	IgA-IgG-	no
+1	P07 v1 pel-2	m68n704-s507	IgA+IgG-	Live	IgA+IgG-	yes
+2	P07 v2 pel-1	m68n704-s508	Live IgA-IgG-	Live	IgA-IgG-	no
+2	P07 v2 pel-2	m68n704-s510	Live IgA+IgG-	Live	IgA+IgG-	yes
+3	P07 v3 pel-1	m68n705-s505	Live IgA-IgG-	Live	IgA-IgG-	no
+3	P07 v3 pel-2	m68n705-s506	Live IgA+IgG-	Live	IgA+IgG-	yes
+1	P09 v1 pel-1	m68n706-s508	Live IgA-IgG-	Live	IgA-IgG-	no
+1	P09 v1 pel-2	m68n706-s510	Live IgA+IgG-	Live	IgA+IgG-	yes
+2	P09 v2 pel-1	m68n707-s506	Live IgA-IgG-	Live	IgA-IgG-	no
+2	P09 v2 pel-2	m68n707-s507	Live IgA+IgG-	Live	IgA+IgG-	yes
+3	P09 v3 pel-1	m68n710-s502	Live IgA-IgG-	Live	IgA-IgG-	no
+3	P09 v3 pel-2	m68n710-s503	Live IgA+IgG-	Live	IgA+IgG-	yes
+1	P11 v1 pel-1	m68n716-s507	Live IgA-IgG-	Live	IgA-IgG-	no
+1	P11 v1 pel-2	m68n716-s508	Live IgA+IgG-	Live	IgA+IgG-	yes
+2	P11 v2 pel-1	m68n718-s503	Live IgA-IgG-	Live	IgA-IgG-	no
+2	P11 v2 pel-2	m68n718-s505	Live IgA+IgG-	Live	IgA+IgG-	yes
+3	P11 v3 pel-1	m68n718-s510	Live IgA-IgG-	Live	IgA-IgG-	no
+3	P11 v3 pel-2	m68n718-s511	Live IgA+IgG-	Live	IgA+IgG-	yes
+1	P12 v1 pel-1	m68n719-s507	Live IgA-IgG-	Live	IgA-IgG-	no
+1	P12 v1 pel-2	m68n719-s508	Live IgA+IgG-	Live	IgA+IgG-	yes
+2	P12 v2 pel-1	m68n720-s503	Live IgA-IgG-	Live	IgA-IgG-	no
+2	P12 v2 pel-2	m68n720-s505	Live IgA+IgG-	Live	IgA+IgG-	yes
+3	P12 v3 pel-1	m68n720-s510	Live IgA-IgG-	Live	IgA-IgG-	no
+3	P12 v3 pel-2	m68n720-s511	Live IgA+IgG-	Live	IgA+IgG-	yes
+1	P18 v1 pel-1	m68n722-s510	Live IgA-IgG-	Live	IgA-IgG-	no
+1	P18 v1 pel-2	m68n722-s511	Live IgA+IgG-	Live	IgA+IgG-	yes
+2	P18 v2 pel-1	m68n723-s507	Live IgA-IgG-	Live	IgA-IgG-	no
+2	P18 v2 pel-2	m68n723-s508	Live IgA+IgG-	Live	IgA+IgG-	yes
+3	P18 v3 pel-1	m68n724-s503	Live IgA-IgG-	Live	IgA-IgG-	no
+3	P18 v3 pel-3	m68n724-s506	Live IgA+IgG-	Live	IgA+IgG-	yes
+1	P20-v1 pel-1	m76n701-s505	IgA-IgG-	Live	IgA-IgG-	no
+1	P20-v1 pel-2	m76n701-s506	IgA+IgG-	Live	IgA+IgG-	yes
+2	P20-v2 pel-1	m76n701-s511	IgA-IgG-	Live	IgA-IgG-	no
+2	P20-v2 pel-2	m76n702-s502	IgA+IgG-	Live	IgA+IgG-	yes
+3	P20-v3 pel-1	m76n702-s507	IgA-IgG-	Live	IgA-IgG-	no
+3	P20-v3 pel-2	m76n702-s508	IgA+IgG-	Live	IgA+IgG-	yes
+1	P21-v1 pel-1	m76n703-s503	IgA-IgG-	Live	IgA-IgG-	no
+1	P21-v1 pel-2	m76n703-s506	IgA+IgG-	Live	IgA+IgG-	yes
+2	P21-v2 pel-1	m76n703-s511	IgA-IgG-	Live	IgA-IgG-	no
+2	P21-v2 pel-2	m76n704-s502	IgA+IgG-	Live	IgA+IgG-	yes
+3	P21-v3 pel-1	m76n704-s507	IgA-IgG-	Live	IgA-IgG-	no
+3	P21-v3 pel-2	m76n704-s508	IgA+IgG-	Live	IgA+IgG-	yes
+1	P22-v1 pel-1	m76n705-s503	IgA-IgG-	Live	IgA-IgG-	no
+1	P22-v1 pel-2	m76n705-s505	IgA+IgG-	Live	IgA+IgG-	yes
+2	P22-v2 pel-1	m76n705-s511	IgA-IgG-	Live	IgA-IgG-	no
+2	P22-v2 pel-2	m76n706-s505	IgA+IgG-	Live	IgA+IgG-	yes
+3	P22-v3 pel-2	m76n706-s508	IgA+IgG-	Live	IgA+IgG-	yes
+3	P22-v3 pel-1	m76n706-s507	IgA-IgG-	Live	IgA-IgG-	no
+1	P23-v1 pel-1	m76n707-s505	IgA-IgG-	Live	IgA-IgG-	no
+1	P23-v1 pel-2	m76n707-s506	IgA+IgG-	Live	IgA+IgG-	yes
+2	P23-v2 pel-1	m76n707-s511	IgA-IgG-	Live	IgA-IgG-	no
+2	P23-v2 pel-2	m76n727-s522	IgA+IgG-	Live	IgA+IgG-	yes
+3	P23-v3 pel-1	m76n710-s507	IgA-IgG-	Live	IgA-IgG-	no
+3	P23-v3 pel-2	m76n710-s508	IgA+IgG-	Live	IgA+IgG-	yes
+1	P24-v1 pel-1	m76n711-s503	IgA-IgG-	Live	IgA-IgG-	no
+1	P24-v1 pel-2	m76n711-s505	IgA+IgG-	Live	IgA+IgG-	yes
+2	P24-v2 pel-1	m76n711-s511	IgA-IgG-	Live	IgA-IgG-	no
+2	P24-v2 pel-2	m76n712-s502	IgA+IgG-	Live	IgA+IgG-	yes
+3	P24-v3 pel-1	m76n712-s507	IgA-IgG-	Live	IgA-IgG-	no
+3	P24-v3 pel-2	m76n712-s508	IgA+IgG-	Live	IgA+IgG-	yes
+1	P27-v1 pel-1	m76n714-s503	IgA-IgG-	Live	IgA-IgG-	no
+1	P27-v1 pel-2	m76n714-s506	IgA+IgG-	Live	IgA+IgG-	yes
+2	P27-v2 pel-1	m76n714-s511	IgA-IgG-	Live	IgA-IgG-	no
+2	P27-v2 pel-2	m76n715-s502	IgA+IgG-	Live	IgA+IgG-	yes
+3	P27-v3 pel-1	m76n715-s507	IgA-IgG-	Live	IgA-IgG-	no
+3	P27-v3 pel-2	m76n715-s508	IgA+IgG-	Live	IgA+IgG-	yes
+1	P29-v1 pel-1	m76n716-s506	IgA-IgG-	Live	IgA-IgG-	no
+1	P29-v1 pel-2	m76n716-s507	IgA+IgG-	Live	IgA+IgG-	yes
+2	P29-v2 pel-1	m76n718-s502	IgA-IgG-	Live	IgA-IgG-	no
+2	P29-v2 pel-2	m76n718-s503	IgA+IgG-	Live	IgA+IgG-	yes
+3	P29-v3 pel-1	m76n718-s508	IgA-IgG-	Live	IgA-IgG-	no
+3	P29-v3 pel-2	m76n718-s510	IgA+IgG-	Live	IgA+IgG-	yes
+1	P30-v1 pel-1	m76n719-s506	IgA-IgG-	Live	IgA-IgG-	no
+1	P30-v1 pel-2	m76n719-s507	IgA+IgG-	Live	IgA+IgG-	yes
+2	P30-v2 pel-1	m76n720-s502	IgA-IgG-	Live	IgA-IgG-	no
+2	P30-v2 pel-2	m76n720-s503	IgA+IgG-	Live	IgA+IgG-	yes
+3	P30-v3 pel-1	m76n720-s508	IgA-IgG-	Live	IgA-IgG-	no
+3	P30-v3 pel-2	m76n720-s510	IgA+IgG-	Live	IgA+IgG-	yes
+1	P31-v1 pel-1	m76n721-s505	IgA-IgG-	Live	IgA-IgG-	no
+1	P31-v1 pel-2	m76n721-s506	IgA+IgG-	Live	IgA+IgG-	yes
+2	P31-v2 pel-1	m76n722-s502	IgA-IgG-	Live	IgA-IgG-	no
+2	P31-v2 pel-2	m76n722-s503	IgA+IgG-	Live	IgA+IgG-	yes
+3	P31-v3 pel-1	m76n716-s516	IgA-IgG-	Live	IgA-IgG-	no
+3	P31-v3 pel-2	m76n722-s510	IgA+IgG-	Live	IgA+IgG-	yes
+1	P34-v1 pel-1	m76n723-s506	IgA-IgG-	Live	IgA-IgG-	no
+1	P34-v1 pel-2	m76n723-s507	IgA+IgG-	Live	IgA+IgG-	yes
+2	P34-v2 pel-1	m76n724-s502	IgA-IgG-	Live	IgA-IgG-	no
+2	P34-v2 pel-2	m76n724-s503	IgA+IgG-	Live	IgA+IgG-	yes
+3	P34-v3 pel-1	m76n724-s508	IgA-IgG-	Live	IgA-IgG-	no
+3	P34-v3 pel-2	m76n724-s510	IgA+IgG-	Live	IgA+IgG-	yes
