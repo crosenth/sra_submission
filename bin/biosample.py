@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-
 """Fill out a biosample file given specimen data and a biosample template
 """
-
 import argparse
+import glob
 import os
 import pandas
 import re
@@ -71,6 +70,21 @@ def main(arguments):
             return s
         filled = filled.apply(plate_zone_primer, axis=1)
     name, ext = os.path.splitext(os.path.basename(args.template))
+
+    # cross reference with samples already submitted and check if annotations
+    # need to be updated from previous submission
+    submitted = []
+    for fl in glob.iglob('output/**/attributes*.tsv'):
+        submitted.append(pandas.read_csv(fl, sep='\t', dtype=str))
+    submitted = pandas.concat(submitted)
+    submitted = submitted[
+        submitted['sample_name'].isin(filled['*sample_name'])]
+    # TODO: add switch that will append existing annotation with
+    # latest Bioproject accession
+    if not submitted.empty:
+        print(submitted)
+        raise ValueError('samples already submitted')
+
     if args.max_rows:
         for i, r in enumerate(range(0, len(filled), args.max_rows), start=1):
             out = os.path.join(args.outdir, name + '_' + str(i) + ext)
