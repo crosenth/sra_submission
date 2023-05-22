@@ -27,14 +27,16 @@ Main submission page: https://submit.ncbi.nlm.nih.gov/
 There are three parts to submitting and experiment: the Bioproject, 
 the Biosamples and the SRA fastq sequence submissions.
 
-To start, here is the login credentials that have been used thus far for
-submissions::
+To start, you will need to use a 3rd party login to sign into the std_crc 
+NCBI account:
 
-  username: [Use ORCiD 3rd Party Login]
-  ORCiD: 0000-0002-3092-3362
-  password: [email crosenth@uw.edu for password]
+https://ncbiinsights.ncbi.nlm.nih.gov/my-ncbi-login-transition-tips/
 
-.. image:: images/login.png
+After you have set up a 3rd party login it will need to be linked to the 
+std_crc NCBI account.  Email the std_crc account administrator to add your
+login to the account.
+
+*NOTE*:
 
 At any point during the submission process if there are any issues the SRA staff
 is good at answering questions. Just send an email to sra@ncbi.nlm.nih.gov 
