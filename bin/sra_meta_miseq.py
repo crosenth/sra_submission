@@ -52,7 +52,7 @@ def main(arguments):
         'miseq-plate-{plate}',
         'run-files',
         '**',
-        '{library}_*_L001_R[12]*_001.fastq.gz')
+        '{library}_*_R[12]*_001.fastq.gz')
     plate_pattern = re.compile('^m(?P<plate>\d+)n')
     for i in template['library_ID'].values:
         plate = re.search(plate_pattern, i).group('plate')
