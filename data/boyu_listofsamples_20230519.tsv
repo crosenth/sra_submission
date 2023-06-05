@@ -1,0 +1,1002 @@
+specimen	specimen_name	sample_type	sample_type_supt1
+m69n701-s502	0786FOS-AIR	AIR	Operating Room Air
+m69n701-s503	1265SPE-AIR	AIR	Operating Room Air
+m69n701-s505	3347MCL-AIR	AIR	Operating Room Air
+m69n701-s506	3439BOR-AIR	AIR	Operating Room Air
+m69n701-s507	3618HER-AIR	AIR	Operating Room Air
+m69n701-s508	4133BLU-AIR	AIR	Operating Room Air
+m69n701-s510	6659BAD-AIR	AIR	Operating Room Air
+m69n701-s511	7991SON-AIR	AIR	Operating Room Air
+m69n701-s518	3439BOR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n701-s520	NTC_m69_3F1	WATER	No Template PCRControl – Water
+m69n701-s521	NTC_m69_3G1	WATER	No Template PCRControl – Water
+m69n701-s522	NTC_m69_3H1	WATER	No Template PCRControl – Water
+m69n702-s502	8088LAN-AIR	AIR	Operating Room Air
+m69n702-s503	6780MUR-AIR	AIR	Operating Room Air
+m69n702-s505	9458HAM-AIR	AIR	Operating Room Air
+m69n702-s506	7474HAS-AIR	AIR	Operating Room Air
+m69n702-s507	2995LIB-AIR	AIR	Operating Room Air
+m69n702-s508	9051SOU-AIR	AIR	Operating Room Air
+m69n702-s510	0002MCQ-AIR	AIR	Operating Room Air
+m69n702-s513	NTC_m69_3A2	WATER	No Template PCRControl – Water
+m69n702-s516	NTC_m69_3C2	WATER	No Template PCRControl – Water
+m69n702-s518	NTC_m69_3E2	WATER	No Template PCRControl – Water
+m69n702-s520	NTC_m69_3F2	WATER	No Template PCRControl – Water
+m69n702-s521	NTC_m69_3G2	WATER	No Template PCRControl – Water
+m69n703-s502	1609HEU-AIR	AIR	Operating Room Air
+m69n703-s503	1705MAH-AIR	AIR	Operating Room Air
+m69n703-s505	2371PAT-AIR	AIR	Operating Room Air
+m69n703-s506	2456CUR-AIR	AIR	Operating Room Air
+m69n703-s508	3896PLA-AIR	AIR	Operating Room Air
+m69n703-s510	4186LAR-AIR	AIR	Operating Room Air
+m69n703-s511	4346ACO-AIR	AIR	Operating Room Air
+m69n703-s513	7274ROB-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n703-s515	7887GAR-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n703-s516	7887GAR-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n703-s517	7907STE-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n703-s518	7907STE-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n703-s520	7958HOP-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n703-s521	7958HOP-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n703-s522	8312SIM-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s502	6015CUT-AIR	AIR	Operating Room Air
+m69n704-s503	6144SAU-AIR	AIR	Operating Room Air
+m69n704-s505	6408HIG-AIR	AIR	Operating Room Air
+m69n704-s506	7476GON-AIR	AIR	Operating Room Air
+m69n704-s507	7499ZIC-AIR	AIR	Operating Room Air
+m69n704-s508	7745DUN-AIR	AIR	Operating Room Air
+m69n704-s510	7839BOH-AIR	AIR	Operating Room Air
+m69n704-s511	7877STA-AIR	AIR	Operating Room Air
+m69n704-s513	8312SIM-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s515	8343WIL-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s516	8343WIL-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s517	9086CAM-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s518	9086CAM-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s520	9671XAI-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s521	9755MAS-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n704-s522	9770MEY-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s502	8661SAN-AIR	AIR	Operating Room Air
+m69n705-s503	8682BER-AIR	AIR	Operating Room Air
+m69n705-s505	8896GIL-AIR	AIR	Operating Room Air
+m69n705-s506	8972SIB-AIR	AIR	Operating Room Air
+m69n705-s507	9027WIL-AIR	AIR	Operating Room Air
+m69n705-s508	9087WIL-AIR	AIR	Operating Room Air
+m69n705-s513	9770MEY-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s515	9914DAN-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s516	9914DAN-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s517	0182SMA-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s518	0182SMA-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s520	0987SAM-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s521	0987SAM-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n705-s522	1525COO-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s510	NTC_m69_1G6	WATER	No Template PCRControl – Water
+m69n706-s513	1525COO-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s515	1856EBB-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s516	1856EBB-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s517	1922BUR-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s518	1922BUR-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s520	2759POL-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s521	3548PRO-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n706-s522	3548PRO-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s513	3661AND-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s515	3661AND-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s516	3971BIC-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s517	3971BIC-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s518	4080CHE-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s520	4080CHE-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s521	4870MOR-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n707-s522	4870MOR-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s513	5032FER-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s515	5032FER-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s516	6769POW-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s517	7274ROB-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s518	7274ROB-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s520	7887GAR-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s521	7887GAR-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n710-s522	8343WIL-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s502	0786FOS-PORT	LP	Laparoscopic Port
+m69n711-s503	1109HUN-PORT	LP	Laparoscopic Port
+m69n711-s505	3347MCL-PORT	LP	Laparoscopic Port
+m69n711-s506	2995LIB-PORT	LP	Laparoscopic Port
+m69n711-s507	0354SMI-PORT 1	LP	Laparoscopic Port
+m69n711-s508	0354SMI-PORT 2	LP	Laparoscopic Port
+m69n711-s513	8343WIL-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s515	9086CAM-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s516	9086CAM-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s517	9664HAM-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s518	9664HAM-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s520	9671XAI-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s521	9755MAS-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n711-s522	9755MAS-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s502	1609HEU-PORT 2	LP	Laparoscopic Port
+m69n712-s503	4346ACO-PORT 1	LP	Laparoscopic Port
+m69n712-s505	4346ACO-PORT 2	LP	Laparoscopic Port
+m69n712-s506	7839BOH-PORT 1	LP	Laparoscopic Port
+m69n712-s507	7839BOH-PORT 2	LP	Laparoscopic Port
+m69n712-s508	8682BER-PORT 1	LP	Laparoscopic Port
+m69n712-s510	DB CTL-14	BUFFER	DNA Extraction Control – Buffer
+m69n712-s511	DB CTL-21	BUFFER	DNA Extraction Control – Buffer
+m69n712-s513	9770MEY-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s515	9914DAN-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s516	0897MUR-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s517	1426WIL-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s518	1426WIL-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s520	1631MCD-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s521	1631MCD-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n712-s522	1758CAD-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s503	NTC_m69_1B11	WATER	No Template PCRControl – Water
+m69n714-s505	NTC_m69_1C11	WATER	No Template PCRControl – Water
+m69n714-s506	NTC_m69_1D11	WATER	No Template PCRControl – Water
+m69n714-s507	NTC_m69_1E11	WATER	No Template PCRControl – Water
+m69n714-s511	NTC_m69_1H11	WATER	No Template PCRControl – Water
+m69n714-s513	1758CAD-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s515	2995LIB-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s516	2995LIB-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s517	3439BOR-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s518	4133BLU-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s520	4133BLU-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s521	5600BAR-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n714-s522	5600BAR-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s503	NTC_m69_1B12	WATER	No Template PCRControl – Water
+m69n715-s505	NTC_m69_1C12	WATER	No Template PCRControl – Water
+m69n715-s511	NTC_m69_1H12	WATER	No Template PCRControl – Water
+m69n715-s513	6299BAB-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s515	6299BAB-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s516	6462ROM-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s517	6462ROM-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s518	7229DAV-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s520	7229DAV-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s521	7455BLA-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n715-s522	7455BLA-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s502	0987SAM-LPG	PG	Paracolic Gutter
+m69n716-s503	1525COO-PG	PG	Paracolic Gutter
+m69n716-s505	1856EBB-PG	PG	Paracolic Gutter
+m69n716-s506	1922BUR-PG	PG	Paracolic Gutter
+m69n716-s507	2759POL-LPG	PG	Paracolic Gutter
+m69n716-s508	2759POL-RPG	PG	Paracolic Gutter
+m69n716-s510	3548PRO-LPG	PG	Paracolic Gutter
+m69n716-s511	3661AND-PG	PG	Paracolic Gutter
+m69n716-s513	8088LAN-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s515	8631WIL-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s516	8631WIL-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s517	0786FOS-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s518	0786FOS-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s520	1109HUN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s521	1109HUN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n716-s522	1265SPE-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s502	3971BIC-PG	PG	Paracolic Gutter
+m69n718-s503	4080CHE-PG	PG	Paracolic Gutter
+m69n718-s505	6769POW-LPG	PG	Paracolic Gutter
+m69n718-s506	6769POW-RPG	PG	Paracolic Gutter
+m69n718-s507	7887GAR-RPG	PG	Paracolic Gutter
+m69n718-s508	9086CAM-PG	PG	Paracolic Gutter
+m69n718-s510	9664HAM-PG	PG	Paracolic Gutter
+m69n718-s511	9671XAI-PG	PG	Paracolic Gutter
+m69n718-s513	1265SPE-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s515	1292FES-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s516	1292FES-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s517	3347MCL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s518	3618HER-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s520	3618HER-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s521	6659BAD-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n718-s522	6659BAD-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s502	9755MAS-PG	PG	Paracolic Gutter
+m69n719-s503	9914DAN-LPG	PG	Paracolic Gutter
+m69n719-s505	9914DAN-RPG	PG	Paracolic Gutter
+m69n719-s506	0786FOS-PG	PG	Paracolic Gutter
+m69n719-s507	0897MUR-PG	PG	Paracolic Gutter
+m69n719-s508	1292FES-PG	PG	Paracolic Gutter
+m69n719-s510	1426WIL-PG	PG	Paracolic Gutter
+m69n719-s511	2995LIB-PG	PG	Paracolic Gutter
+m69n719-s513	6780MUR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s515	6780MUR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s516	7474HAS-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s517	7991SON-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s518	7991SON-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s520	8088LAN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s521	9051SOU-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n719-s522	9051SOU-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s502	3347MCL-PG	PG	Paracolic Gutter
+m69n720-s503	3439BOR-PG	PG	Paracolic Gutter
+m69n720-s505	3618HER-PG	PG	Paracolic Gutter
+m69n720-s506	5600BAR-PG	PG	Paracolic Gutter
+m69n720-s507	6299BAB-PG	PG	Paracolic Gutter
+m69n720-s508	6462ROM-LPG	PG	Paracolic Gutter
+m69n720-s510	6462ROM-RPG	PG	Paracolic Gutter
+m69n720-s511	6659BAD-PG	PG	Paracolic Gutter
+m69n720-s513	9458HAM-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s515	9458HAM-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s516	0897MUR-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s517	1426WIL-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s518	1426WIL-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s520	1631MCD-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s521	1631MCD-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n720-s522	1758CAD-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s502	7229DAV-PG	PG	Paracolic Gutter
+m69n721-s503	7455BLA-PG	PG	Paracolic Gutter
+m69n721-s505	7474HAS-PG	PG	Paracolic Gutter
+m69n721-s506	7991SON-PG	PG	Paracolic Gutter
+m69n721-s507	9458HAM-PG	PG	Paracolic Gutter
+m69n721-s508	0354SMI-PG	PG	Paracolic Gutter
+m69n721-s511	1609HEU-PG	PG	Paracolic Gutter
+m69n721-s513	1758CAD-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s515	3439BOR-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s516	5600BAR-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s517	5600BAR-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s518	6299BAB-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s520	6299BAB-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s521	6462ROM-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n721-s522	7229DAV-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n722-s503	4346ACO-PG	PG	Paracolic Gutter
+m69n722-s505	6015CUT-PG	PG	Paracolic Gutter
+m69n722-s506	6144SAU-PG	PG	Paracolic Gutter
+m69n722-s507	6408HIG-PG	PG	Paracolic Gutter
+m69n722-s508	7476GON-PG	PG	Paracolic Gutter
+m69n722-s510	7499ZIC-PG	PG	Paracolic Gutter
+m69n722-s511	7745DUN-PG	PG	Paracolic Gutter
+m69n722-s513	7229DAV-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n722-s515	7455BLA-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n722-s516	7455BLA-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n722-s517	8631WIL-LOV	FTO	Fallopian Tube and Ovarian Surface
+m69n722-s518	8631WIL-ROV	FTO	Fallopian Tube and Ovarian Surface
+m69n722-s521	0354SMI-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n722-s522	0354SMI-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n723-s503	7877STA-PG	PG	Paracolic Gutter
+m69n723-s505	8661SAN-PG	PG	Paracolic Gutter
+m69n723-s506	8896GIL-PG	PG	Paracolic Gutter
+m69n723-s507	8972SIB-PG	PG	Paracolic Gutter
+m69n723-s508	DB CTL-12	BUFFER	DNA Extraction Control – Buffer
+m69n723-s510	DB CTL-19	BUFFER	DNA Extraction Control – Buffer
+m69n723-s511	DB CTL-22	BUFFER	DNA Extraction Control – Buffer
+m69n723-s516	1609HEU-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n723-s517	1705MAH-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n723-s518	1705MAH-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n723-s520	2371PAT-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s502	NTC_m69_2A8	WATER	No Template PCRControl – Water
+m69n724-s503	NTC_m69_2B8	WATER	No Template PCRControl – Water
+m69n724-s505	NTC_m69_2C8	WATER	No Template PCRControl – Water
+m69n724-s506	NTC_m69_2D8	WATER	No Template PCRControl – Water
+m69n724-s507	NTC_m69_2E8	WATER	No Template PCRControl – Water
+m69n724-s508	NTC_m69_2F8	WATER	No Template PCRControl – Water
+m69n724-s510	DB CTL-24	BUFFER	DNA Extraction Control – Buffer
+m69n724-s513	3896PLA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s515	3896PLA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s516	4186LAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s517	4186LAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s518	4346ACO-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s520	4346ACO-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s521	6015CUT-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n724-s522	6015CUT-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s505	DB CTL-10	BUFFER	DNA Extraction Control – Buffer
+m69n726-s513	6144SAU-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s515	6144SAU-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s516	7499ZIC-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s517	7499ZIC-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s518	7745DUN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s520	7745DUN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s521	7839BOH-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n726-s522	7839BOH-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s502	0182SMA-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s503	0182SMA-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s505	0987SAM-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s506	0987SAM-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s507	1525COO-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s508	1525COO-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s510	1856EBB-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s511	1856EBB-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s513	7877STA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s515	7877STA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s516	8661SAN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s517	8661SAN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s518	8682BER-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s520	8682BER-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s521	8896GIL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n727-s522	8896GIL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s502	1922BUR-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s503	1922BUR-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s505	2759POL-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s506	3548PRO-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s507	3548PRO-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s508	3661AND-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s510	3971BIC-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s511	3971BIC-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s513	8972SIB-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s515	8972SIB-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s516	9027WIL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s517	9027WIL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s518	9087WIL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s520	9087WIL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m69n728-s521	NTC_m69_4G11	WATER	No Template PCRControl – Water
+m69n728-s522	NTC_m69_4H11	WATER	No Template PCRControl – Water
+m69n729-s502	4080CHE-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s503	4870MOR-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s505	4870MOR-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s506	5032FER-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s507	5032FER-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s508	5279DOZ-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s510	5279DOZ-RFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s511	7274ROB-LFT	FTO	Fallopian Tube and Ovarian Surface
+m69n729-s513	NTC_m69_4A12	WATER	No Template PCRControl – Water
+m69n729-s515	NTC_m69_4B12	WATER	No Template PCRControl – Water
+m69n729-s516	NTC_m69_4C12	WATER	No Template PCRControl – Water
+m69n729-s517	NTC_m69_4D12	WATER	No Template PCRControl – Water
+m69n729-s518	NTC_m69_4E12	WATER	No Template PCRControl – Water
+m69n729-s520	NTC_m69_4F12	WATER	No Template PCRControl – Water
+m69n729-s521	NTC_m69_4G12	WATER	No Template PCRControl – Water
+m69n729-s522	NTC_m69_4H12	WATER	No Template PCRControl – Water
+m80n701-s503	0691SAT-Air	AIR	Operating Room Air
+m80n701-s505	0763DER-Air	AIR	Operating Room Air
+m80n701-s506	0915MAR-Air	AIR	Operating Room Air
+m80n701-s507	1180MCC-Air	AIR	Operating Room Air
+m80n701-s508	1394FAS-Air	AIR	Operating Room Air
+m80n701-s510	1412HAH-AIR	AIR	Operating Room Air
+m80n701-s511	1430ALM-Air	AIR	Operating Room Air
+m80n701-s513	0539ROB-Port2	LP	Laparoscopic Port
+m80n701-s515	0743BRA-Port1	LP	Laparoscopic Port
+m80n701-s516	0743BRA-Port2	LP	Laparoscopic Port
+m80n701-s517	1425TEL-Port2	LP	Laparoscopic Port
+m80n701-s518	1701CRA-Port1	LP	Laparoscopic Port
+m80n701-s520	1701CRA-Port2	LP	Laparoscopic Port
+m80n701-s521	2107LON-Port1	LP	Laparoscopic Port
+m80n701-s522	2107LON-Port2	LP	Laparoscopic Port
+m80n702-s503	2470GIV-Air	AIR	Operating Room Air
+m80n702-s506	2744NOB-Air	AIR	Operating Room Air
+m80n702-s507	3118CAM-Air	AIR	Operating Room Air
+m80n702-s508	3154ALI-Air	AIR	Operating Room Air
+m80n702-s510	3154KES-Air	AIR	Operating Room Air
+m80n702-s511	3266PUT-Air	AIR	Operating Room Air
+m80n702-s513	3158POS-Port1	LP	Laparoscopic Port
+m80n702-s515	3158POS-Port2	LP	Laparoscopic Port
+m80n702-s516	3450MOR-Port1	LP	Laparoscopic Port
+m80n702-s517	3450MOR-Port2	LP	Laparoscopic Port
+m80n702-s518	3720STA-Port1	LP	Laparoscopic Port
+m80n702-s520	3720STA-Port2	LP	Laparoscopic Port
+m80n702-s521	4026ZIM-Port1	LP	Laparoscopic Port
+m80n702-s522	4371WAL-Port2	LP	Laparoscopic Port
+m80n703-s502	3361PET-Air	AIR	Operating Room Air
+m80n703-s505	3614AND-Air	AIR	Operating Room Air
+m80n703-s506	4231OSB-Air	AIR	Operating Room Air
+m80n703-s507	4375ALC-Air	AIR	Operating Room Air
+m80n703-s508	4626CAN-Air	AIR	Operating Room Air
+m80n703-s510	4688FOS-Air	AIR	Operating Room Air
+m80n703-s511	4726WOL-Air	AIR	Operating Room Air
+m80n703-s513	4428ERI-Port1	LP	Laparoscopic Port
+m80n703-s515	5472MIL-Port1	LP	Laparoscopic Port
+m80n703-s516	5472MIL-Port2	LP	Laparoscopic Port
+m80n703-s521	7961BON-Port1	LP	Laparoscopic Port
+m80n703-s522	7961BON-Port2	LP	Laparoscopic Port
+m80n704-s502	4747RAM-Air	AIR	Operating Room Air
+m80n704-s505	4838SHE-Air	AIR	Operating Room Air
+m80n704-s506	4859BAL-Air	AIR	Operating Room Air
+m80n704-s507	4919HEA-Air	AIR	Operating Room Air
+m80n704-s508	4922COL-Air	AIR	Operating Room Air
+m80n704-s511	5228SCI-Air	AIR	Operating Room Air
+m80n704-s513	7972CHA-Port1	LP	Laparoscopic Port
+m80n704-s515	7972CHA-Port2	LP	Laparoscopic Port
+m80n704-s516	8568ALK-Port1	LP	Laparoscopic Port
+m80n704-s517	8568ALK-Port2	LP	Laparoscopic Port
+m80n704-s518	8744CRO-Port1	LP	Laparoscopic Port
+m80n704-s520	8744CRO-Port2	LP	Laparoscopic Port
+m80n704-s521	8836MOR-Port1	LP	Laparoscopic Port
+m80n704-s522	8836MOR-Port2	LP	Laparoscopic Port
+m80n705-s502	5255EAR-Air	AIR	Operating Room Air
+m80n705-s503	5409ROH-Air	AIR	Operating Room Air
+m80n705-s505	5415RUE-Air	AIR	Operating Room Air
+m80n705-s506	5558WAT-Air	AIR	Operating Room Air
+m80n705-s507	6236GOL-Air	AIR	Operating Room Air
+m80n705-s508	6283DUG-Air	AIR	Operating Room Air
+m80n705-s510	6536TUE-Air	AIR	Operating Room Air
+m80n705-s511	6553STA-Air	AIR	Operating Room Air
+m80n705-s515	9013COT-Port1	LP	Laparoscopic Port
+m80n705-s516	9013COT-Port2	LP	Laparoscopic Port
+m80n705-s517	9796WYN-Port1	LP	Laparoscopic Port
+m80n705-s518	9796WYN-Port2	LP	Laparoscopic Port
+m80n705-s520	9891SCH-Port1	LP	Laparoscopic Port
+m80n705-s521	9891SCH-Port2	LP	Laparoscopic Port
+m80n705-s522	DB CTL-47	BUFFER	DNA Extraction Control – Buffer
+m80n706-s502	6612NEL-Air	AIR	Operating Room Air
+m80n706-s503	6802DAV-Air	AIR	Operating Room Air
+m80n706-s505	6885DEN-Air	AIR	Operating Room Air
+m80n706-s507	7169FIE-Air	AIR	Operating Room Air
+m80n706-s508	7259COA-Air	AIR	Operating Room Air
+m80n706-s510	7361PET-Air	AIR	Operating Room Air
+m80n706-s511	7425PAR-Air	AIR	Operating Room Air
+m80n706-s513	NTC_m80_3A6	WATER	No Template PCRControl – Water
+m80n706-s518	NTC_m80_3E6	WATER	No Template PCRControl – Water
+m80n706-s522	DB CTL-48	BUFFER	DNA Extraction Control – Buffer
+m80n707-s502	7515MAC-Air	AIR	Operating Room Air
+m80n707-s503	7579TRO-Air	AIR	Operating Room Air
+m80n707-s505	7630BLA-Air	AIR	Operating Room Air
+m80n707-s507	7754BRO-Air	AIR	Operating Room Air
+m80n707-s508	7940GRA-Air	AIR	Operating Room Air
+m80n707-s510	7994LAN-Air	AIR	Operating Room Air
+m80n707-s517	NTC_m80_3D7	WATER	No Template PCRControl – Water
+m80n710-s502	8653RAU-Air	AIR	Operating Room Air
+m80n710-s503	9000LAN-Air	AIR	Operating Room Air
+m80n710-s506	9152PEL-Air	AIR	Operating Room Air
+m80n710-s507	9738HUG-Air	AIR	Operating Room Air
+m80n710-s510	DB CTL-43	BUFFER	DNA Extraction Control – Buffer
+m80n710-s511	DB CTL-44	BUFFER	DNA Extraction Control – Buffer
+m80n710-s516	NTC_m80_3C8	WATER	No Template PCRControl – Water
+m80n710-s520	NTC_m80_3F8	WATER	No Template PCRControl – Water
+m80n710-s522	NTC_m80_3H8	WATER	No Template PCRControl – Water
+m80n711-s502	NTC_m80_1A9	WATER	No Template PCRControl – Water
+m80n711-s503	NTC_m80_1B9	WATER	No Template PCRControl – Water
+m80n711-s508	NTC_m80_1F9	WATER	No Template PCRControl – Water
+m80n711-s511	NTC_m80_1H9	WATER	No Template PCRControl – Water
+m80n711-s513	0763DER-PG	PG	Paracolic Gutter
+m80n711-s515	0915MAR-PG	PG	Paracolic Gutter
+m80n711-s516	1180MCC-PG	PG	Paracolic Gutter
+m80n711-s517	1394FAS-PG	PG	Paracolic Gutter
+m80n711-s518	1430ALM-PG	PG	Paracolic Gutter
+m80n711-s520	2470GIV-PG	PG	Paracolic Gutter
+m80n711-s521	2564HIN-PG	PG	Paracolic Gutter
+m80n711-s522	2744NOB-PG	PG	Paracolic Gutter
+m80n712-s503	NTC_m80_1B10	WATER	No Template PCRControl – Water
+m80n712-s510	NTC_m80_1G10	WATER	No Template PCRControl – Water
+m80n712-s511	NTC_m80_1H10	WATER	No Template PCRControl – Water
+m80n712-s513	3118CAM-PG	PG	Paracolic Gutter
+m80n712-s515	3154ALI-PG	PG	Paracolic Gutter
+m80n712-s516	3154KES-PG	PG	Paracolic Gutter
+m80n712-s517	3266PUT-PG	PG	Paracolic Gutter
+m80n712-s518	3361PET-PG	PG	Paracolic Gutter
+m80n712-s521	4231OSB-PG	PG	Paracolic Gutter
+m80n712-s522	4375ALC-PG	PG	Paracolic Gutter
+m80n714-s502	0539ROB-AIR	AIR	Operating Room Air
+m80n714-s503	0618YAS-AIR	AIR	Operating Room Air
+m80n714-s505	0743BRA-AIR	AIR	Operating Room Air
+m80n714-s506	1312NYE-AIR	AIR	Operating Room Air
+m80n714-s507	1425RIG-AIR	AIR	Operating Room Air
+m80n714-s508	1425TEL-AIR	AIR	Operating Room Air
+m80n714-s510	1464BLO-AIR	AIR	Operating Room Air
+m80n714-s511	1701CRA-AIR	AIR	Operating Room Air
+m80n714-s513	4626CAN-PG	PG	Paracolic Gutter
+m80n714-s515	4726WOL-PG	PG	Paracolic Gutter
+m80n714-s516	4753HIL-PG	PG	Paracolic Gutter
+m80n714-s517	4838SHE-PG	PG	Paracolic Gutter
+m80n714-s518	4859BAL-PG	PG	Paracolic Gutter
+m80n714-s520	4919HEA-PG	PG	Paracolic Gutter
+m80n714-s521	4922COL-PG	PG	Paracolic Gutter
+m80n714-s522	5228SCI-PG	PG	Paracolic Gutter
+m80n715-s503	2077YER-AIR	AIR	Operating Room Air
+m80n715-s505	2107LON-AIR	AIR	Operating Room Air
+m80n715-s506	2312CAR-AIR	AIR	Operating Room Air
+m80n715-s507	3135SCA-AIR	AIR	Operating Room Air
+m80n715-s508	3158POS-AIR	AIR	Operating Room Air
+m80n715-s511	3428HER-AIR	AIR	Operating Room Air
+m80n715-s513	5409ROH-PG	PG	Paracolic Gutter
+m80n715-s515	5558WAT-PG	PG	Paracolic Gutter
+m80n715-s516	6236GOL-PG	PG	Paracolic Gutter
+m80n715-s517	6283DUG-PG	PG	Paracolic Gutter
+m80n715-s520	6802DAV-PG	PG	Paracolic Gutter
+m80n715-s521	6885DEN-PG	PG	Paracolic Gutter
+m80n715-s522	6934HAN-PG	PG	Paracolic Gutter
+m80n716-s502	3449IML-AIR	AIR	Operating Room Air
+m80n716-s503	3450MOR-AIR	AIR	Operating Room Air
+m80n716-s505	3720STA-AIR	AIR	Operating Room Air
+m80n716-s506	4081HAL-AIR	AIR	Operating Room Air
+m80n716-s507	4371WAL-AIR	AIR	Operating Room Air
+m80n716-s508	4428ERI-AIR	AIR	Operating Room Air
+m80n716-s510	4506REI-AIR	AIR	Operating Room Air
+m80n716-s511	4905KAY-AIR	AIR	Operating Room Air
+m80n716-s513	7169FIE-PG	PG	Paracolic Gutter
+m80n716-s515	7361PET-PG	PG	Paracolic Gutter
+m80n716-s516	7425PAR-PG	PG	Paracolic Gutter
+m80n716-s517	7515MAC-PG	PG	Paracolic Gutter
+m80n716-s518	7579TRO-PG	PG	Paracolic Gutter
+m80n716-s520	7630BLA-PG	PG	Paracolic Gutter
+m80n716-s522	7940GRA-PG	PG	Paracolic Gutter
+m80n718-s502	5472MIL-AIR	AIR	Operating Room Air
+m80n718-s503	5607FOX-AIR	AIR	Operating Room Air
+m80n718-s505	5667WIL-AIR	AIR	Operating Room Air
+m80n718-s506	6198MAD-AIR	AIR	Operating Room Air
+m80n718-s507	6527BAR-AIR	AIR	Operating Room Air
+m80n718-s511	7435URS-AIR	AIR	Operating Room Air
+m80n718-s513	7994LAN-PG	PG	Paracolic Gutter
+m80n718-s515	8352PLA-PG	PG	Paracolic Gutter
+m80n718-s516	8653RAU-PG	PG	Paracolic Gutter
+m80n718-s517	8703REA-PG	PG	Paracolic Gutter
+m80n718-s518	9000LAN-PG	PG	Paracolic Gutter
+m80n718-s520	9152PEL-PG	PG	Paracolic Gutter
+m80n718-s521	9738HUG-PG	PG	Paracolic Gutter
+m80n718-s522	DB CTL-38	BUFFER	DNA Extraction Control – Buffer
+m80n719-s502	7597BIA-AIR	AIR	Operating Room Air
+m80n719-s505	7972CHA-AIR	AIR	Operating Room Air
+m80n719-s506	8002KAR-AIR	AIR	Operating Room Air
+m80n719-s507	8109MEN-AIR	AIR	Operating Room Air
+m80n719-s508	8453YER-AIR	AIR	Operating Room Air
+m80n719-s510	8568ALK-AIR	AIR	Operating Room Air
+m80n719-s511	8707VOR-AIR	AIR	Operating Room Air
+m80n719-s515	NTC_m80_4B3	WATER	No Template PCRControl – Water
+m80n719-s516	NTC_m80_4C3	WATER	No Template PCRControl – Water
+m80n719-s522	DB CTL-39	BUFFER	DNA Extraction Control – Buffer
+m80n720-s502	8741CAR-AIR	AIR	Operating Room Air
+m80n720-s503	8744CRO-AIR	AIR	Operating Room Air
+m80n720-s505	8836MOR-AIR	AIR	Operating Room Air
+m80n720-s507	9013COT-AIR	AIR	Operating Room Air
+m80n720-s508	9531BEL-AIR	AIR	Operating Room Air
+m80n720-s511	9792MAR-AIR	AIR	Operating Room Air
+m80n720-s517	NTC_m80_4D4	WATER	No Template PCRControl – Water
+m80n720-s520	NTC_m80_4F4	WATER	No Template PCRControl – Water
+m80n721-s502	9796WYN-AIR	AIR	Operating Room Air
+m80n721-s503	9891SCH-AIR	AIR	Operating Room Air
+m80n721-s513	0618YAS-PG	PG	Paracolic Gutter
+m80n721-s515	0743BRA-PG	PG	Paracolic Gutter
+m80n721-s516	1312NYE-PG	PG	Paracolic Gutter
+m80n721-s517	1425RIG-PG	PG	Paracolic Gutter
+m80n721-s518	1464BLO-PG	PG	Paracolic Gutter
+m80n721-s521	2077YER-PG	PG	Paracolic Gutter
+m80n721-s522	2312CAR-PG	PG	Paracolic Gutter
+m80n722-s502	NTC_m80_2A6	WATER	No Template PCRControl – Water
+m80n722-s505	NTC_m80_2C6	WATER	No Template PCRControl – Water
+m80n722-s513	3135SCA-PG	PG	Paracolic Gutter
+m80n722-s515	3428HER-PG	PG	Paracolic Gutter
+m80n722-s516	3947SCH-PG	PG	Paracolic Gutter
+m80n722-s517	4081HAL-PG	PG	Paracolic Gutter
+m80n722-s518	4113THO-PG	PG	Paracolic Gutter
+m80n722-s520	4506REI-PG	PG	Paracolic Gutter
+m80n722-s521	5472MIL-PG	PG	Paracolic Gutter
+m80n722-s522	5541FIN-PG	PG	Paracolic Gutter
+m80n723-s502	NTC_m80_2A7	WATER	No Template PCRControl – Water
+m80n723-s513	5667WIL-PG	PG	Paracolic Gutter
+m80n723-s515	6198MAD-PG	PG	Paracolic Gutter
+m80n723-s516	6527BAR-PG	PG	Paracolic Gutter
+m80n723-s518	7597BIA-PG	PG	Paracolic Gutter
+m80n723-s520	8002KAR-PG	PG	Paracolic Gutter
+m80n723-s521	8109MEN-PG	PG	Paracolic Gutter
+m80n723-s522	8453YER-PG	PG	Paracolic Gutter
+m80n724-s502	0691SAT-Port1	LP	Laparoscopic Port
+m80n724-s503	0691SAT-Port2	LP	Laparoscopic Port
+m80n724-s505	2470GIV-Port1	LP	Laparoscopic Port
+m80n724-s506	2470GIV-Port2	LP	Laparoscopic Port
+m80n724-s507	2564HIN-Port1	LP	Laparoscopic Port
+m80n724-s508	2564HIN-Port2	LP	Laparoscopic Port
+m80n724-s510	3154ALI-Port1	LP	Laparoscopic Port
+m80n724-s511	3154KES-Port1	LP	Laparoscopic Port
+m80n724-s513	8741CAR-PG	PG	Paracolic Gutter
+m80n724-s515	8744CRO-PG	PG	Paracolic Gutter
+m80n724-s516	8815VAN-PG	PG	Paracolic Gutter
+m80n724-s518	9792MAR-PG	PG	Paracolic Gutter
+m80n724-s520	9796WYN-PG	PG	Paracolic Gutter
+m80n724-s521	9891SCH-PG	PG	Paracolic Gutter
+m80n724-s522	DB CTL-49	BUFFER	DNA Extraction Control – Buffer
+m80n726-s502	3154KES-Port2	LP	Laparoscopic Port
+m80n726-s503	3266PUT-Port1	LP	Laparoscopic Port
+m80n726-s505	3266PUT-Port2	LP	Laparoscopic Port
+m80n726-s506	4375ALC-Port1	LP	Laparoscopic Port
+m80n726-s507	4375ALC-Port2	LP	Laparoscopic Port
+m80n726-s508	4726WOL-Port1	LP	Laparoscopic Port
+m80n726-s510	4726WOL-Port2	LP	Laparoscopic Port
+m80n726-s511	4753HIL-Port1	LP	Laparoscopic Port
+m80n726-s513	NTC_m80_4A9	WATER	No Template PCRControl – Water
+m80n726-s518	NTC_m80_4E9	WATER	No Template PCRControl – Water
+m80n726-s520	NTC_m80_4F9	WATER	No Template PCRControl – Water
+m80n726-s522	DB CTL-50	BUFFER	DNA Extraction Control – Buffer
+m80n727-s502	4753HIL-Port2	LP	Laparoscopic Port
+m80n727-s503	5228SCI-Port1	LP	Laparoscopic Port
+m80n727-s505	5228SCI-Port2	LP	Laparoscopic Port
+m80n727-s506	6236GOL-Port1	LP	Laparoscopic Port
+m80n727-s507	6236GOL-Port2	LP	Laparoscopic Port
+m80n727-s508	6536TUE-Port2	LP	Laparoscopic Port
+m80n727-s510	6553STA-Port1	LP	Laparoscopic Port
+m80n727-s511	6553STA-Port2	LP	Laparoscopic Port
+m80n727-s518	NTC_m80_4E10	WATER	No Template PCRControl – Water
+m80n728-s502	6612NEL-Port2	LP	Laparoscopic Port
+m80n728-s503	7169FIE-Port1	LP	Laparoscopic Port
+m80n728-s505	7259COA-Port1	LP	Laparoscopic Port
+m80n728-s506	7425PAR-Port1	LP	Laparoscopic Port
+m80n728-s507	7425PAR-Port2	LP	Laparoscopic Port
+m80n728-s508	8352PLA-Port1	LP	Laparoscopic Port
+m80n728-s510	8352PLA-Port2	LP	Laparoscopic Port
+m80n728-s511	8703REA-Port1	LP	Laparoscopic Port
+m80n728-s513	6057PAO-Port2 (BATCH5)	LP	Laparoscopic Port
+m80n728-s517	NTC_m80_4D11	WATER	No Template PCRControl – Water
+m80n728-s518	NTC_m80_4E11	WATER	No Template PCRControl – Water
+m80n728-s520	NTC_m80_4F11	WATER	No Template PCRControl – Water
+m80n729-s502	8703REA-Port2	LP	Laparoscopic Port
+m80n729-s505	DB CTL-41	BUFFER	DNA Extraction Control – Buffer
+m80n729-s508	NTC_m80_2F12	WATER	No Template PCRControl – Water
+m81n701-s503	0691SAT-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s505	0691SAT-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s506	0763DER-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s507	0763DER-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s508	0915MAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s510	0915MAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s511	1180MCC-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s513	3450MOR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s515	3720STA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s516	3720STA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s517	3947SCH-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s518	3947SCH-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s520	4026ZIM-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s521	4026ZIM-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n701-s522	4081HAL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s502	1180MCC-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s503	1394FAS-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s505	1394FAS-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s506	1412HAH-LOV	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s507	1412HAH-ROV	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s510	1430ALM-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s513	4081HAL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s515	4113THO-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s516	4113THO-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s517	4371WAL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s518	4371WAL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s520	4428ERI-LFT	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s521	4428ERI-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n702-s522	4506REI-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n703-s502	NTC_m81_1A3	WATER	No Template PCRControl – Water
+m81n703-s503	NTC_m81_1B3	WATER	No Template PCRControl – Water
+m81n703-s507	NTC_m81_1E3	WATER	No Template PCRControl – Water
+m81n703-s511	NTC_m81_1H3	WATER	No Template PCRControl – Water
+m81n703-s515	NTC_m81_3B3	WATER	No Template PCRControl – Water
+m81n703-s516	NTC_m81_3C3	WATER	No Template PCRControl – Water
+m81n703-s517	NTC_m81_3D3	WATER	No Template PCRControl – Water
+m81n703-s518	NTC_m81_3E3	WATER	No Template PCRControl – Water
+m81n704-s503	2465SLA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s505	2465SLA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s506	2470GIV-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s507	2470GIV-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s508	2564HIN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s510	2564HIN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s511	2744NOB-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s513	4506REI-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s515	4905KAY-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s516	4905KAY-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s517	5472MIL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s520	5541FIN-LFT	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s521	5541FIN-RFT	FTO	Fallopian Tube and Ovarian Surface
+m81n704-s522	5607FOX-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s502	2744NOB-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s503	3118CAM-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s505	3118CAM-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s506	3154ALI-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s507	3154ALI-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s508	3154KES-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s510	3154KES-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s511	3266PUT-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s513	5667WIL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s515	5667WIL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s516	6057PAO-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s517	6057PAO-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s518	6198MAD-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s520	6198MAD-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s521	6527BAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n705-s522	6527BAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s502	3266PUT-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s503	3361PET-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s505	3361PET-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s508	3614AND-LFT	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s510	3614AND-RFT	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s511	4375ALC-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s518	7597BIA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n706-s520	7597BIA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s502	NTC_m81_1A7	WATER	No Template PCRControl – Water
+m81n707-s503	NTC_m81_1B7	WATER	No Template PCRControl – Water
+m81n707-s505	NTC_m81_1C7	WATER	No Template PCRControl – Water
+m81n707-s506	NTC_m81_1D7	WATER	No Template PCRControl – Water
+m81n707-s508	NTC_m81_1F7	WATER	No Template PCRControl – Water
+m81n707-s513	7961BON-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s515	7961BON-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s516	7972CHA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s517	7972CHA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s518	8002KAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s520	8002KAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s521	8109MEN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n707-s522	8109MEN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s502	4375ALC-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s503	4626CAN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s505	4688FOS-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s506	4688FOS-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s507	4726WOL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s510	4747RAM-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s511	4747RAM-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n710-s515	NTC_m81_3B8	WATER	No Template PCRControl – Water
+m81n710-s518	NTC_m81_3E8	WATER	No Template PCRControl – Water
+m81n711-s502	4753HIL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s503	4753HIL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s505	4838SHE-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s506	4838SHE-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s507	4859BAL-LOV	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s508	4859BAL-ROV	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s510	4919HEA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s511	4919HEA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s513	8453YER-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s515	8453YER-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s516	8568ALK-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s517	8568ALK-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s518	8741CAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s520	8741CAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n711-s522	8815VAN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s502	4922COL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s503	4922COL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s507	5228SCI-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s508	5228SCI-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s510	5255EAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s511	5255EAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s513	8815VAN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s515	8836MOR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s516	8836MOR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s518	9013COT-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s521	9792MAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n712-s522	9792MAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s502	5409ROH-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s503	5409ROH-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s505	5558WAT-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s506	5558WAT-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s507	6236GOL-LOV	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s510	6283DUG-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s511	6283DUG-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s513	9796WYN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s515	9796WYN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s516	9891SCH-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s517	9891SCH-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n714-s522	NTC_m81_3H11	WATER	No Template PCRControl – Water
+m81n715-s503	NTC_m81_1B12	WATER	No Template PCRControl – Water
+m81n715-s505	NTC_m81_1C12	WATER	No Template PCRControl – Water
+m81n715-s511	NTC_m81_1H12	WATER	No Template PCRControl – Water
+m81n715-s513	DB CTL-51	BUFFER	DNA Extraction Control – Buffer
+m81n715-s515	DB CTL-52	BUFFER	DNA Extraction Control – Buffer
+m81n715-s518	DB CTL-55	BUFFER	DNA Extraction Control – Buffer
+m81n716-s502	6536TUE-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n716-s503	6536TUE-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n716-s505	6553STA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n716-s506	6553STA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n716-s507	6612NEL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n716-s508	6612NEL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n716-s510	6802DAV-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n716-s511	6885DEN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n718-s502	6934HAN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n718-s505	7169FIE-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n718-s506	7169FIE-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n718-s507	7361PET-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n718-s508	7361PET-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n718-s510	7425PAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n718-s511	7425PAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n719-s502	7515MAC-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n719-s503	7579TRO-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n719-s505	7579TRO-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n719-s506	7630BLA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n719-s507	7630BLA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n719-s511	7940GRA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n720-s502	7994LAN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n720-s503	7994LAN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n720-s505	8352PLA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n720-s506	8352PLA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n720-s507	8653RAU-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n720-s508	8653RAU-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n720-s510	8703REA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n721-s502	9000LAN-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n721-s503	9000LAN-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n721-s505	9152PEL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n721-s506	9152PEL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n721-s507	9738HUG-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n722-s502	DB CTL-34	BUFFER	DNA Extraction Control – Buffer
+m81n722-s503	DB CTL-35	BUFFER	DNA Extraction Control – Buffer
+m81n722-s505	DB CTL-36	BUFFER	DNA Extraction Control – Buffer
+m81n722-s506	DB CTL-37	BUFFER	DNA Extraction Control – Buffer
+m81n722-s507	DB CTL-37-2	BUFFER	DNA Extraction Control – Buffer
+m81n722-s508	NTC_m81_2F6	WATER	No Template PCRControl – Water
+m81n722-s510	NTC_m81_2G6	WATER	No Template PCRControl – Water
+m81n722-s511	NTC_m81_2H6	WATER	No Template PCRControl – Water
+m81n723-s505	NTC_m81_2C7	WATER	No Template PCRControl – Water
+m81n723-s508	NTC_m81_2F7	WATER	No Template PCRControl – Water
+m81n723-s511	NTC_m81_2H7	WATER	No Template PCRControl – Water
+m81n723-s513	4231OSB-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n723-s515	4231OSB-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n723-s516	NTC_m81_4C1	WATER	No Template PCRControl – Water
+m81n723-s517	NTC_m81_4D1	WATER	No Template PCRControl – Water
+m81n723-s518	NTC_m81_4E1	WATER	No Template PCRControl – Water
+m81n723-s521	NTC_m81_4G1	WATER	No Template PCRControl – Water
+m81n723-s522	8744CRO-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s502	0539ROB-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s503	0539ROB-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s505	0618YAS-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s506	0618YAS-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s507	0743BRA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s508	0743BRA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s510	1312NYE-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s511	1312NYE-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n724-s516	NTC_m81_4C2	WATER	No Template PCRControl – Water
+m81n724-s518	NTC_m81_4E2	WATER	No Template PCRControl – Water
+m81n724-s522	NTC_m81_4H2	WATER	No Template PCRControl – Water
+m81n726-s502	1425RIG-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s503	1425RIG-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s505	1425TEL-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s506	1425TEL-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s507	1464BLO-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s508	1464BLO-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s510	1701CRA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s511	1701CRA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n726-s513	NTC_m81_4A3	WATER	No Template PCRControl – Water
+m81n726-s516	NTC_m81_4C3	WATER	No Template PCRControl – Water
+m81n726-s518	NTC_m81_4E3	WATER	No Template PCRControl – Water
+m81n726-s520	NTC_m81_4F3	WATER	No Template PCRControl – Water
+m81n726-s522	NTC_m81_4H3	WATER	No Template PCRControl – Water
+m81n727-s505	2077YER-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n727-s506	2077YER-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n727-s507	2107LON-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n727-s508	2107LON-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n727-s510	2312CAR-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n727-s511	2312CAR-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n728-s502	3135SCA-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n728-s503	3135SCA-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n728-s507	3428HER-LTO	FTO	Fallopian Tube and Ovarian Surface
+m81n728-s508	3428HER-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n728-s511	3449IML-RTO	FTO	Fallopian Tube and Ovarian Surface
+m81n729-s503	NTC_m121_2B12	WATER	No Template PCRControl – Water
+m81n729-s506	NTC_m121_2D12	WATER	No Template PCRControl – Water
+m81n729-s507	NTC_m121_2E12	WATER	No Template PCRControl – Water
+m81n729-s510	NTC_m121_2G12	WATER	No Template PCRControl – Water
+m81n729-s511	NTC_m121_2H12	WATER	No Template PCRControl – Water
+m91n701-s503	0987SAM-CX	CERVIX	CERVIX
+m91n701-s505	3548PRO-CX	CERVIX	CERVIX
+m91n701-s506	3661AND-CX	CERVIX	CERVIX
+m91n701-s507	3971BIC-CX	CERVIX	CERVIX
+m91n701-s508	5032FER-CX	CERVIX	CERVIX
+m91n701-s510	5279DOZ-CX	CERVIX	CERVIX
+m91n701-s511	7907STE-CX	CERVIX	CERVIX
+m91n701-s515	0182SMA-CX	CERVIX	CERVIX
+m91n701-s516	1922BUR-CX	CERVIX	CERVIX
+m91n701-s517	4080CHE-CX	CERVIX	CERVIX
+m91n701-s520	6769POW-CX	CERVIX	CERVIX
+m91n701-s521	7887GAR-CX	CERVIX	CERVIX
+m91n701-s522	7958HOP-CX	CERVIX	CERVIX
+m91n702-s502	8343WIL-CX	CERVIX	CERVIX
+m91n702-s503	9086CAM-CX	CERVIX	CERVIX
+m91n702-s505	9664HAM-CX	CERVIX	CERVIX
+m91n702-s506	9755MAS-CX	CERVIX	CERVIX
+m91n702-s507	9914DAN-CX	CERVIX	CERVIX
+m91n702-s511	1265SPE-CX	CERVIX	CERVIX
+m91n702-s513	9671XAI-CX	CERVIX	CERVIX
+m91n702-s515	9770MEY-CX	CERVIX	CERVIX
+m91n702-s516	0786FOS-CX	CERVIX	CERVIX
+m91n702-s517	2995LIB-CX	CERVIX	CERVIX
+m91n702-s518	3347MCL-CX	CERVIX	CERVIX
+m91n702-s520	4133BLU-CX	CERVIX	CERVIX
+m91n702-s521	7474HAS-CX	CERVIX	CERVIX
+m91n702-s522	7991SON-CX	CERVIX	CERVIX
+m91n703-s502	1631MCD-CX	CERVIX	CERVIX
+m91n703-s505	3457PIE-CX	CERVIX	CERVIX
+m91n703-s506	3618HER-CX	CERVIX	CERVIX
+m91n703-s507	5600BAR-CX	CERVIX	CERVIX
+m91n703-s508	6299BAB-CX	CERVIX	CERVIX
+m91n703-s510	6659BAD-CX	CERVIX	CERVIX
+m91n703-s511	7229DAV-CX	CERVIX	CERVIX
+m91n703-s513	8088LAN-CX	CERVIX	CERVIX
+m91n703-s517	0354SMI-CX	CERVIX	CERVIX
+m91n703-s520	2371PAT-CX	CERVIX	CERVIX
+m91n703-s521	2456CUR-CX	CERVIX	CERVIX
+m91n703-s522	4186LAR-CX	CERVIX	CERVIX
+m91n704-s502	8005STR-CX	CERVIX	CERVIX
+m91n704-s505	0002MCQ-CX	CERVIX	CERVIX
+m91n704-s506	1609HEU-CX	CERVIX	CERVIX
+m91n704-s508	4346ACO-CX	CERVIX	CERVIX
+m91n704-s510	7745DUN-CX	CERVIX	CERVIX
+m91n704-s511	7877STA-CX	CERVIX	CERVIX
+m91n704-s513	6015CUT-CX	CERVIX	CERVIX
+m91n704-s515	6144SAU-CX	CERVIX	CERVIX
+m91n704-s516	6408HIG-CX	CERVIX	CERVIX
+m91n704-s517	7499ZIC-CX	CERVIX	CERVIX
+m91n704-s518	7839BOH-CX	CERVIX	CERVIX
+m91n704-s520	8661SAN-CX	CERVIX	CERVIX
+m91n704-s521	8682BER-CX	CERVIX	CERVIX
+m91n704-s522	8896GIL-CX	CERVIX	CERVIX
+m91n705-s502	9087WIL-CX	CERVIX	CERVIX
+m91n705-s503	DB-CTL-25	BUFFER	DNA Extraction Control – Buffer
+m91n705-s505	0691SAT-CX	CERVIX	CERVIX
+m91n705-s506	0763DER-CX	CERVIX	CERVIX
+m91n705-s507	0915MAR-CX	CERVIX	CERVIX
+m91n705-s508	1394FAS-CX	CERVIX	CERVIX
+m91n705-s511	2465SLA-CX	CERVIX	CERVIX
+m91n705-s513	8972SIB-CX	CERVIX	CERVIX
+m91n705-s515	1180MCC-CX	CERVIX	CERVIX
+m91n705-s516	2470GIV-CX	CERVIX	CERVIX
+m91n705-s520	2744NOB-CX	CERVIX	CERVIX
+m91n705-s521	3361PET-CX	CERVIX	CERVIX
+m91n705-s522	4231OSB-CX	CERVIX	CERVIX
+m91n706-s502	DB-CTL-32	BUFFER	DNA Extraction Control – Buffer
+m91n706-s503	3118CAM-CX	CERVIX	CERVIX
+m91n706-s505	3154ALI-CX	CERVIX	CERVIX
+m91n706-s506	3154KES-CX	CERVIX	CERVIX
+m91n706-s507	3266PUT-CX	CERVIX	CERVIX
+m91n706-s508	3614AND-CX	CERVIX	CERVIX
+m91n706-s510	4375ALC-CX	CERVIX	CERVIX
+m91n706-s511	4626CAN-CX	CERVIX	CERVIX
+m91n706-s513	4688FOS-CX	CERVIX	CERVIX
+m91n706-s515	4859BAL-CX	CERVIX	CERVIX
+m91n706-s516	4919HEA-CX	CERVIX	CERVIX
+m91n706-s517	4922COL-CX	CERVIX	CERVIX
+m91n706-s518	5228SCI-CX	CERVIX	CERVIX
+m91n706-s520	5409ROH-CX	CERVIX	CERVIX
+m91n706-s521	5558WAT-CX	CERVIX	CERVIX
+m91n706-s522	6236GOL-CX	CERVIX	CERVIX
+m91n707-s503	4726WOL-CX	CERVIX	CERVIX
+m91n707-s505	4747RAM-CX	CERVIX	CERVIX
+m91n707-s506	4753HIL-CX	CERVIX	CERVIX
+m91n707-s507	4838SHE-CX	CERVIX	CERVIX
+m91n707-s510	5255EAR-CX	CERVIX	CERVIX
+m91n707-s511	5415RUE-CX	CERVIX	CERVIX
+m91n707-s515	6553STA-CX	CERVIX	CERVIX
+m91n707-s516	6612NEL-CX	CERVIX	CERVIX
+m91n707-s517	6802DAV-CX	CERVIX	CERVIX
+m91n707-s518	7425PAR-CX	CERVIX	CERVIX
+m91n707-s520	7630BLA-CX	CERVIX	CERVIX
+m91n707-s521	7754BRO-CX	CERVIX	CERVIX
+m91n707-s522	7940GRA-CX	CERVIX	CERVIX
+m91n710-s502	6283DUG-CX	CERVIX	CERVIX
+m91n710-s503	DB-CTL-31	BUFFER	DNA Extraction Control – Buffer
+m91n710-s505	6885DEN-CX	CERVIX	CERVIX
+m91n710-s506	7169FIE-CX	CERVIX	CERVIX
+m91n710-s507	7259COA-CX	CERVIX	CERVIX
+m91n710-s508	7361PET-CX	CERVIX	CERVIX
+m91n710-s510	7515MAC-CX	CERVIX	CERVIX
+m91n710-s511	7579TRO-CX	CERVIX	CERVIX
+m91n710-s513	8352PLA-CX	CERVIX	CERVIX
+m91n710-s515	8653RAU-CX	CERVIX	CERVIX
+m91n710-s516	8703REA-CX	CERVIX	CERVIX
+m91n710-s517	9049SHE-CX	CERVIX	CERVIX
+m91n710-s518	9152PEL-CX	CERVIX	CERVIX
+m91n710-s520	0539ROB-CX	CERVIX	CERVIX
+m91n710-s521	0618YAS-CX	CERVIX	CERVIX
+m91n710-s522	0743BRA-CX	CERVIX	CERVIX
+m91n711-s503	7994LAN-CX	CERVIX	CERVIX
+m91n711-s505	9000LAN-CX	CERVIX	CERVIX
+m91n711-s506	DB0-CTL-33	BUFFER	DNA Extraction Control – Buffer
+m91n711-s507	0431RIL-CX	CERVIX	CERVIX
+m91n711-s508	1312NYE-CX	CERVIX	CERVIX
+m91n711-s510	1425TEL-CX	CERVIX	CERVIX
+m91n711-s513	1425RIG-CX	CERVIX	CERVIX
+m91n711-s515	1464BLO-CX	CERVIX	CERVIX
+m91n711-s516	1701CRA-CX	CERVIX	CERVIX
+m91n711-s517	3135SCA-CX	CERVIX	CERVIX
+m91n711-s521	3449IML-CX	CERVIX	CERVIX
+m91n711-s522	3450MOR-CX	CERVIX	CERVIX
+m91n712-s502	2107LON-CX	CERVIX	CERVIX
+m91n712-s503	3158POS-CX	CERVIX	CERVIX
+m91n712-s505	3428HER-CX	CERVIX	CERVIX
+m91n712-s506	4081HAL-CX	CERVIX	CERVIX
+m91n712-s507	4113THO-CX	CERVIX	CERVIX
+m91n712-s508	4428ERI-CX	CERVIX	CERVIX
+m91n712-s510	4506REI-CX	CERVIX	CERVIX
+m91n712-s513	3720STA-CX	CERVIX	CERVIX
+m91n712-s515	4905KAY-CX	CERVIX	CERVIX
+m91n712-s516	5472MIL-CX	CERVIX	CERVIX
+m91n712-s517	5541FIN-CX	CERVIX	CERVIX
+m91n712-s518	5607FOX-CX	CERVIX	CERVIX
+m91n712-s520	6198MAD-CX	CERVIX	CERVIX
+m91n714-s503	5667WIL-CX	CERVIX	CERVIX
+m91n714-s505	6057PAO-CX	CERVIX	CERVIX
+m91n714-s506	6527BAR-CX	CERVIX	CERVIX
+m91n714-s508	7435URS-CX	CERVIX	CERVIX
+m91n714-s510	7961BON-CX	CERVIX	CERVIX
+m91n714-s511	7972CHA-CX	CERVIX	CERVIX
+m91n714-s513	8002KAR-CX	CERVIX	CERVIX
+m91n714-s515	8109MEN-CX	CERVIX	CERVIX
+m91n714-s516	8330GOR-CX	CERVIX	CERVIX
+m91n714-s517	8453YER-CX	CERVIX	CERVIX
+m91n714-s518	8568ALK-CX	CERVIX	CERVIX
+m91n714-s520	8744CRO-CX	CERVIX	CERVIX
+m91n714-s521	8815VAN-CX	CERVIX	CERVIX
+m91n715-s502	8707VOR-CX	CERVIX	CERVIX
+m91n715-s503	8741CAR-CX	CERVIX	CERVIX
+m91n715-s505	9013COT-CX	CERVIX	CERVIX
+m91n715-s506	9531BEL-CX	CERVIX	CERVIX
+m91n715-s507	9792MAR-CX	CERVIX	CERVIX
+m91n715-s508	DB-CTL-58	BUFFER	DNA Extraction Control – Buffer
+m91n715-s513	8836MOR-CX	CERVIX	CERVIX
+m91n715-s517	9891SCH-CX	CERVIX	CERVIX
+m91n716-s502	NTC_m91_2A1	WATER	No Template PCRControl – Water
+m91n716-s513	NTC_m91_4A1	WATER	No Template PCRControl – Water
+m91n718-s511	DB-CTL-13	BUFFER	DNA Extraction Control – Buffer
+m91n719-s522	DB-CTL-43	BUFFER	DNA Extraction Control – Buffer
+m91n720-s513	DB-CTL-44	BUFFER	DNA Extraction Control – Buffer
+m91n721-s507	NTC_m91_2E5	WATER	No Template PCRControl – Water
+m91n721-s518	NTC_m91_4E5	WATER	No Template PCRControl – Water
+m91n722-s503	DB-CTL-20	BUFFER	DNA Extraction Control – Buffer
+m91n723-s513	NTC_m91_4A7	WATER	No Template PCRControl – Water
+m91n724-s502	NTC_m91_2A8	WATER	No Template PCRControl – Water
+m91n726-s508	NTC_m91_2F9	WATER	No Template PCRControl – Water
+m91n726-s520	NTC_m91_4F9	WATER	No Template PCRControl – Water
+m91n727-s513	DB-CTL-45	BUFFER	DNA Extraction Control – Buffer
+m91n727-s522	DB-CTL-46	BUFFER	DNA Extraction Control – Buffer
+m91n728-s506	DB-CTL-42	BUFFER	DNA Extraction Control – Buffer
