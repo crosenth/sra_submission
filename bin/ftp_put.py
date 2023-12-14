@@ -24,7 +24,10 @@ def main(arguments):
     args = parser.parse_args(arguments)
     session = ftplib.FTP(args.address, args.username, args.password)
     session.cwd(args.account_folder)
-    session.mkd(args.target_folder)
+    try:
+        session.mkd(args.target_folder)
+    except ftplib.error_perm as e:
+        print(repr(e))
     session.cwd(args.target_folder)
     for i, f in enumerate(os.listdir(args.datadir), start=1):
         pth = os.path.join(args.datadir, f)
