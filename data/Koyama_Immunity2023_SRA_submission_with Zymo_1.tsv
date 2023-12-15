@@ -1,0 +1,21 @@
+sequence_id	sample_id	sample_type	collection_date	experiment	isolation_source
+zr9990_1V3V4	BdS5.Sup.Gp3ms1	feces	3/1/2023	gavage experiment	feces
+"zr9990_2V3V4	"	BdS5.Sup.Gp3ms2	feces	3/1/2023	gavage experiment	feces
+"zr9990_3V3V4	"	BdS5.Sup.Gp3ms3	feces	3/1/2023	gavage experiment	feces
+zr9990_4V3V4	BdS5.Sup.Gp3ms4	feces	3/1/2023	gavage experiment	feces
+zr9990_5V3V4	BdS5.Sup.Gp3ms5	feces	3/1/2023	gavage experiment	feces
+zr9990_6V3V4	BdS5.Veh.Gp4ms1	feces	3/1/2023	gavage experiment	feces
+zr9990_7V3V4	BdS5.Veh.Gp4ms2	feces	3/1/2023	gavage experiment	feces
+zr9990_8V3V4	BdS5.Veh.Gp4ms3	feces	3/1/2023	gavage experiment	feces
+zr9990_9V3V4	BdS5.Veh.Gp4ms4	feces	3/1/2023	gavage experiment	feces
+zr9990_10V3V4	BdS5.Veh.Gp4ms5	feces	3/1/2023	gavage experiment	feces
+zr9990_11V3V4	Bd6.Sup.Gp2ms1	feces	3/2/2023	gavage experiment	feces
+zr9990_12V3V4	Bd6.Sup.Gp2ms2	feces	3/2/2023	gavage experiment	feces
+zr9990_13V3V4	Bd6.Sup.Gp2ms3	feces	3/2/2023	gavage experiment	feces
+zr9990_14V3V4	Bd6.Sup.Gp2ms4	feces	3/2/2023	gavage experiment	feces
+zr9990_15V3V4	Bd6.Sup.Gp2ms5	feces	3/2/2023	gavage experiment	feces
+zr9990_16V3V4	Bd6.Veh.Gp3ms1	feces	3/2/2023	gavage experiment	feces
+zr9990_17V3V4	Bd6.Veh.Gp3ms2	feces	3/2/2023	gavage experiment	feces
+zr9990_18V3V4	Bd6.Veh.Gp3ms3	feces	3/2/2023	gavage experiment	feces
+zr9990_19V3V4	Bd6.Veh.Gp3ms4	feces	3/2/2023	gavage experiment	feces
+zr9990_20V3V4	Bd6.Veh.Gp3ms5	feces	3/2/2023	gavage experiment	feces

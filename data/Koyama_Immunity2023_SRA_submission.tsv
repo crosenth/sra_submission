@@ -1,0 +1,446 @@
+sequence_id	sample_id	sample_type	collection_date	experiment
+m74n704-s502	B6NCR-F1	Charles River C57BL/6NCrl 2-1 fecal sample 5/8/19	5/8/2019	vendor
+m74n701-s506	B6NCR-F2	Charles River C57BL/6NCrl 2-2 fecal sample 5/8/19	5/8/2019	vendor
+m74n705-s505	B6NCR-F3	Charles River C57BL/6NCrl 2-3 fecal sample 5/8/19	5/8/2019	vendor
+m74n702-s508	B6NCR-F4	Charles River C57BL/6NCrl 2-1 fecal sample 5/14/19	5/14/2019	vendor
+m74n703-s506	B6NCR-F5	Charles River C57BL/6NCrl 2-2 fecal sample 5/14/19	5/14/2019	vendor
+m74n701-s503	B6NCR-F6	Charles River C57BL/6NCrl 2-3 fecal sample 5/14/19	5/14/2019	vendor
+m74n707-s506	B6NCR-I1	Charles River C57BL/6NCrl 2-1 Ileum 5/8/19	5/8/2019	vendor
+m74n711-s508	B6NCR-I2	Charles River C57BL/6NCrl 2-2 Ileum 5/8/19	5/8/2019	vendor
+m74n711-s502	B6NCR-I3	Charles River C57BL/6NCrl 2-3 Ileum 5/8/19	5/8/2019	vendor
+m74n714-s506	B6NCR-I4	Charles River C57BL/6NCrl 2-1 Ileum 5/14/19	5/14/2019	vendor
+m74n706-s502	B6NCR-I5	Charles River C57BL/6NCrl 2-2 Ileum 5/14/19	5/14/2019	vendor
+m74n707-s503	B6NCR-I6	Charles River C57BL/6NCrl 2-3 Ileum 5/14/19	5/14/2019	vendor
+m74n705-s507	B6NH-F1	C57Bl/6NH Hill Lab 1-1 fecal sample 6/3/19	6/3/2019	vendor
+m74n703-s507	B6NH-F2	C57Bl/6NH Hill Lab 1-2 fecal sample 6/3/19	6/3/2019	vendor
+m74n704-s507	B6NH-F3	C57Bl/6NH Hill Lab 1-3 fecal sample 6/3/19	6/3/2019	vendor
+m74n701-s510	B6NH-F4	C57Bl/6NH Hill Lab 1-4 fecal sample 6/3/19	6/3/2019	vendor
+m74n706-s511	B6NH-I1	C57Bl/6NH Hill Lab 1-1 Ileum 6/3/19	6/3/2019	vendor
+m74n712-s503	B6NH-I2	C57Bl/6NH Hill Lab 1-1 Ileum 6/3/19	6/3/2019	vendor
+m74n712-s508	B6NH-I3	C57Bl/6NH Hill Lab 1-1 Ileum 6/3/19	6/3/2019	vendor
+m74n707-s511	B6NH-I4	C57Bl/6NH Hill Lab 1-1 Ileum 6/3/19	6/3/2019	vendor
+m74n702-s507	B6NJ-F1	C57Bl/6NJ Jackson 1-1 fecal sample 5/21/19	5/21/2019	vendor
+m74n701-s507	B6NJ-F2	C57Bl/6NJ Jackson 1-2 fecal sample 5/21/19	5/21/2019	vendor
+m74n703-s505	B6NJ-F3	C57Bl/6NJ Jackson 1-3 fecal sample 5/21/19	5/21/2019	vendor
+m74n702-s510	B6NJ-F4	C57Bl/6NJ Jackson 1-1 fecal sample 6/4/19	6/4/2019	vendor
+m74n701-s508	B6NJ-F5	C57Bl/6NJ Jackson 1-2 fecal sample 6/4/19	6/4/2019	vendor
+m74n704-s505	B6NJ-F6	C57Bl/6NJ Jackson 1-3 fecal sample 6/4/19	6/4/2019	vendor
+m74n707-s508	B6NJ-I1	C57Bl/6NJ Jackson 1-1 Ileum 5/21/19	5/21/2019	vendor
+m74n711-s503	B6NJ-I2	C57Bl/6NJ Jackson 1-2 Ileum 5/21/19	5/21/2019	vendor
+m74n714-s510	B6NJ-I3	C57Bl/6NJ Jackson 1-3 Ileum 5/21/19	5/21/2019	vendor
+m74n712-s502	B6NJ-I4	C57Bl/6NJ Jackson 1-1 Ileum 6/4/19	6/4/2019	vendor
+m74n711-s505	B6NJ-I5	C57Bl/6NJ Jackson 1-2 Ileum 6/4/19	6/4/2019	vendor
+m74n707-s507	B6NJ-I6	C57Bl/6NJ Jackson 1-3 Ileum 6/4/19	6/4/2019	vendor
+m74n705-s502	B6NT-F1	Taconic B6NTac 3-1 Fecal Sample 5/8/19	5/8/2019	vendor
+m74n702-s505	B6NT-F2	Taconic B6NTac 3-2 Fecal Sample 5/8/19	5/8/2019	vendor
+m74n705-s506	B6NT-F3	Taconic B6NTac 3-3 Fecal Sample 5/8/19	5/8/2019	vendor
+m74n702-s503	B6NT-F4	Taconic B6NTac 3-1 Fecal Sample 5/14/19	5/14/2019	vendor
+m74n703-s510	B6NT-F5	Taconic B6NTac 3-2 Fecal Sample 5/14/19	5/14/2019	vendor
+m74n703-s511	B6NT-F6	Taconic B6NTac 3-3 Fecal Sample 5/14/19	5/14/2019	vendor
+m74n712-s510	B6NT-I1	Taconic B6NTac 3-1 Ileum 5/8/19	5/8/2019	vendor
+m74n711-s506	B6NT-I2	Taconic B6NTac 3-2 Ileum 5/8/19	5/8/2019	vendor
+m74n707-s502	B6NT-I3	Taconic B6NTac 3-3 Ileum 5/8/19	5/8/2019	vendor
+m74n706-s505	B6NT-I4	Taconic B6NTac 3-1 Ileum 5/14/19	5/14/2019	vendor
+m74n707-s510	B6NT-I5	Taconic B6NTac 3-1 Ileum 5/14/19	5/14/2019	vendor
+m74n714-s507	B6NT-I6	Taconic B6NTac 3-1 Ileum 5/14/19	5/14/2019	vendor
+m74n702-s511	B6J/ARC-F1	ARC C57Bl/6 poo Mouse #1 3 Jul 2019	7/3/2019	vendor
+m74n703-s503	B6J/ARC-F2	ARC C57Bl/6 poo Mouse #2 3 Jul 2019	7/3/2019	vendor
+m74n703-s502	B6J/ARC-F3	ARC C57Bl/6 poo Mouse #3 3 Jul 2019	7/3/2019	vendor
+m74n704-s511	B6J/ARC-F4	ARC C57Bl/6 poo Mouse #4 3 Jul 2019	7/3/2019	vendor
+m74n704-s506	B6J/ARC-F5	ARC C57Bl/6 poo Mouse #5 3 Jul 2019	7/3/2019	vendor
+m74n701-s511	B6J/ARC-F6	ARC C57Bl/6 poo Mouse #6 3 Jul 2019	7/3/2019	vendor
+m74n714-s502	B6J/ARC-I1	ARC C57Bl/6 ileum and contents Mouse #1 3 Jul 2019	7/3/2019	vendor
+m74n706-s508	B6J/ARC-I2	ARC C57Bl/6 ileum and contents Mouse #2 3 Jul 2019	7/3/2019	vendor
+m74n714-s505	B6J/ARC-I3	ARC C57Bl/6 ileum and contents Mouse #3 3 Jul 2019	7/3/2019	vendor
+m74n712-s511	B6J/ARC-I4	ARC C57Bl/6 ileum and contents Mouse #4 3 Jul 2019	7/3/2019	vendor
+m74n706-s510	B6J/ARC-I5	ARC C57Bl/6 ileum and contents Mouse #5 3 Jul 2019	7/3/2019	vendor
+m74n714-s508	B6J/ARC-I6	ARC C57Bl/6 ileum and contents Mouse #6 3 Jul 2019	7/3/2019	vendor
+m74n705-s510	B6J-F1	C57Bl/6J Jackson 1-1 fecal sample 5/8/19	5/8/2019	vendor
+m74n704-s508	B6J-F2	C57Bl/6J Jackson 1-2 fecal sample 5/8/19	5/8/2019	vendor
+m74n702-s502	B6J-F3	C57Bl/6J Jackson 1-3 fecal sample 5/8/19	5/8/2019	vendor
+m74n701-s505	B6J-F4	C57Bl/6J Jackson 1-1 fecal sample 5/14/19	5/14/2019	vendor
+m74n704-s510	B6J-F5	C57Bl/6J Jackson 1-2 fecal sample 5/14/19	5/14/2019	vendor
+m74n705-s503	B6J-F6	C57Bl/6J Jackson 1-3 fecal sample 5/14/19	5/14/2019	vendor
+m74n712-s505	B6J-I1	C57Bl/6J Jackson 1-1 Ileum 5/8/19	5/8/2019	vendor
+m74n706-s506	B6J-I2	C57Bl/6J Jackson 1-2 Ileum 5/8/19	5/8/2019	vendor
+m74n711-s511	B6J-I3	C57Bl/6J Jackson 1-3 Ileum 5/8/19	5/8/2019	vendor
+m74n706-s503	B6J-I4	C57Bl/6J Jackson 1-1 Ileum 5/14/19	5/14/2019	vendor
+m74n712-s506	B6J-I5	C57Bl/6J Jackson 1-2 Ileum 5/14/19	5/14/2019	vendor
+m74n711-s507	B6J-I6	C57Bl/6J Jackson 1-3 Ileum 5/14/19	5/14/2019	vendor
+m85n702-s508	CR2-0nS_F1	2-0 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n702-s503	CR2-10nS_F1	2-10 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n701-s511	CR2-1nS_F1	2-1 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n702-s505	CR2-30nS_F1	2-30 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n702-s507	CR2-33nS_F1	2-33 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n702-s502	CR2-3nS_F1	2-3 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n704-s506	CR4-0nC_F1	4-0 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n704-s505	CR4-1+33nC_F1	4-1+33 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n704-s502	CR4-1+3nC_F1	4-1+3 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n704-s503	CR4-10+30nC_F1	4-10+30 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n703-s508	CR4-13nC_F1	4-13 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n703-s510	CR4-31nC_F1	4-31 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n701-s510	J1-0nS_F1	1-0 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n701-s506	J1-10nS_F1	1-10 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n701-s503	J1-1nS_F1+A53L1AA2:A90	1-1 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n701-s507	J1-30nS_F1	1-30 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n701-s508	J1-33nS_F1	1-33 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n701-s505	J1-3nS_F1	1-3 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n703-s503	J3-10nC_F1	3-10 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n703-s507	J3-11nC_F1	3-11 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n702-s510	J3-1nC_F1	3-1 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n703-s505	J3-30nC_F1	3-30 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n703-s506	J3-33nC_F1	3-33 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n702-s511	J3-3nC_F1	3-3 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	12/19/2019	cohousing
+m85n706-s505	CR2-0nS_F2	2-0 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n705-s511	CR2-10nS_F2	2-10 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n705-s507	CR2-1nS_F2	2-1 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n706-s502	CR2-30nS_F2	2-30 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n706-s503	CR2-33nS_F2	2-33 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n705-s510	CR2-3nS_F2	2-3 B6N.CR (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n710-s503	CR4-0nC_F2	4-0 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n710-s502	CR4-1+33nC_F2	4-1+33 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n707-s510	CR4-1+3nC_F2	4-1+3 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n707-s511	CR4-10+30nC_F2	4-10+30 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n707-s507	CR4-13nC_F2	4-13 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n707-s508	CR4-31nC_F2	4-31 B6N.CR (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n705-s505	J1-0nS_F2	1-0 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n704-s510	J1-10nS_F2	1-10 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n704-s507	J1-1nS_F2	1-1 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n704-s511	J1-30nS_F2	1-30 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n705-s503	J1-33nS_F2	1-33 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n704-s508	J1-3nS_F2	1-3 B6N.Jax (Naïve, SH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n706-s508	J3-10nC_F2	3-10 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n707-s506	J3-11nC_F2	3-11 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n706-s506	J3-1nC_F2	3-1 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n706-s510	J3-30nC_F2	3-30 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n707-s502	J3-33nC_F2	3-33 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m85n706-s507	J3-3nC_F2	3-3 B6N.Jax (Naïve, CH) fecal sample D-28 12/19/19	1/14/2020	cohousing
+m86n701-s520	E1-0_NJs_F1	E1-0 B6N.Jax (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n701-s513	E1-1_NJs_F1	E1-1 B6N.Jax (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n701-s517	E1-10_NJs_F1	E1-10 B6N.Jax (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n701-s516	E1-3_NJs_F1	E1-3 B6N.Jax (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n701-s518	E1-30_NJs_F1	E1-30 B6N.Jax (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n702-s517	E2-0_NCs_F1	E2-0 B6N.CR (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n701-s521	E2-1_NCs_F1	E2-1 B6N.CR (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n702-s513	E2-10_NCs_F1	E2-10 B6N.CR (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n701-s522	E2-3_NCs_F1	E2-3 B6N.CR (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n702-s515	E2-30_NCs_F1	E2-30 B6N.CR (SH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n702-s518	E3-1_NJc_F1	E3-1 B6N.Jax (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n702-s521	E3-10_NJc_F1	E3-10 B6N.Jax (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n702-s520	E3-3_NJc_F1	E3-3 B6N.Jax (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n702-s522	E3-30_NJc_F1	E3-30 B6N.Jax (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n703-s513	E3-33_NJc_F1	E3-33 B6N.Jax (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n703-s520	E4-0_NCc_F1	E4-0 B6N.CR (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n703-s518	E4-1+3_NCc_F1	E4-1+3 B6N.CR (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n703-s515	E4-11_NCc_F1	E4-11 B6N.CR (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n703-s516	E4-13_NCc_F1	E4-13 B6N.CR (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n703-s517	E4-31_NCc_F1	E4-13 B6N.CR (CH) Fecal sample D-28 5/27/2020	5/27/2020	cohousing
+m86n704-s520	E1-0_NJs_F2	E1-0 B6N.Jax (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n707-s517	E1-0_NJs_I1	E1-0 B6N.Jax (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n704-s515	E1-1_NJs_F2	E1-1 B6N.Jax (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n706-s522	E1-1_NJs_I1	E1-1 B6N.Jax (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n704-s517	E1-10_NJs_F2	E1-10 B6N.Jax (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n707-s515	E1-10_NJs_I1	E1-10 B6N.Jax (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n704-s516	E1-3_NJs_F2	E1-3 B6N.Jax (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n707-s513	E1-3_NJs_I1	E1-3 B6N.Jax (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n704-s518	E1-30_NJs_F2	E1-30 B6N.Jax (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n707-s516	E1-30_NJs_I1	E1-30 B6N.Jax (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n705-s516	E2-0_NCs_F2	E2-0 B6N.CR (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n710-s516	E2-0_NCs_I1	E2-0 B6N.CR (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n704-s521	E2-1_NCs_F2	E2-1 B6N.CR (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n707-s518	E2-1_NCs_I1	E2-1 B6N.CR (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n705-s513	E2-10_NCs_F2	E2-10 B6N.CR (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n707-s522	E2-10_NCs_I1	E2-10 B6N.CR (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n704-s522	E2-3_NCs_F2	E2-3 B6N.CR (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n707-s521	E2-3_NCs_I1	E2-3 B6N.CR (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n705-s515	E2-30_NCs_F2	E2-30 B6N.CR (SH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n710-s513	E2-30_NCs_I1	E2-30 B6N.CR (SH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n705-s518	E3-1_NJc_F2	E3-1 B6N.Jax (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n710-s517	E3-1_NJc_I1	E3-1 B6N.Jax (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n705-s521	E3-10_NJc_F2	E3-10 B6N.Jax (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n710-s520	E3-10_NJc_I1	E3-10 B6N.Jax (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n705-s520	E3-3_NJc_F2	E3-3 B6N.Jax (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n710-s518	E3-3_NJc_I1	E3-3 B6N.Jax (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n705-s522	E3-30_NJc_F2	E3-30 B6N.Jax (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n710-s521	E3-30_NJc_I1	E3-30 B6N.Jax (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n706-s513	E3-33_NJc_F2	E3-33 B6N.Jax (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n710-s522	E3-33_NJc_I1	E3-33 B6N.Jax (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n706-s521	E4-0_NCc_F2	E4-0 B6N.CR (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n711-s518	E4-0_NCc_I1	E4-0 B6N.CR (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n706-s520	E4-1+3_NCc_F2	E4-1+3 B6N.CR (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n711-s517	E4-1+3_NCc_I1	E4-1+3 B6N.CR (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n706-s515	E4-11_NCc_F2	E4-11 B6N.CR (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n711-s513	E4-11_NCc_I1	E4-11 B6N.CR (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n706-s516	E4-13_NCc_F2	E4-13 B6N.CR (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n711-s515	E4-13_NCc_I1	E4-13 B6N.CR (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m86n706-s517	E4-31_NCc_F2	E4-31 B6N.CR (CH) Fecal sample D0 6/25/2020	6/25/2020	cohousing
+m86n711-s516	E4-31_NCc_I1	E4-31 B6N.CR (CH) Ileum D0 6/25/2020	6/25/2020	cohousing
+m85n710-s510	HA1-0nN_F1	A1-0 B6NH Normal water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n710-s505	HA1-1nN_F1	A1-1 B6NH Normal water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n710-s506	HA1-3nN_F1	A1-3 B6NH Normal water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s503	HA2-0nC_F1	A2-0 B6NH Cefoxitin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s502	HA2-1+3nC_F1	A2-1+3 B6NH Cefoxitin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n710-s511	HA2-1nC_F1	A2-1 B6NH Cefoxitin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s507	HA3-0nG_F1	A3-0 B6NH Gentamicin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s505	HA3-1nG_F1	A3-1 B6NH Gentamicin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s506	HA3-3nG_F1	A3-3 B6NH Gentamicin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s511	HA4-0nM_F1	A4-0 B6NH Metronidazole water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s508	HA4-1nM_F1	A4-1 B6NH Metronidazole water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n711-s510	HA4-3nM_F1	A4-3 B6NH Metronidazole water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n712-s506	HA5-0nV_F1	A5-0 B6NH Vancomycin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n712-s503	HA5-1nV_F1	A5-1 B6NH Vancomycin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n712-s505	HA5-3nV_F1	A5-3 B6NH Vancomycin water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n714-s502	HA6-0n4_F1	A6-0 B6NH 4AB water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n712-s510	HA6-1n4_F1	A6-1 B6NH 4AB water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n712-s511	HA6-3n4_F1	A6-3 B6NH 4AB water C57Bl/6NH fecal sample D-15 1/7/2020	1/7/2020	antibiotics
+m85n714-s506	HA1-0nN_F2	A1-0 B6NH Normal water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n714-s503	HA1-1nN_F2	A1-1 B6NH Normal water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n714-s505	HA1-3nN_F2	A1-3 B6NH Normal water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n715-s502	HA2-0nC_F2	A2-0 B6NH Cefoxitin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n714-s510	HA2-1+3nC_F2	A2-1+3 B6NH Cefoxitin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n714-s507	HA2-1nC_F2	A2-1 B6NH Cefoxitin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n715-s507	HA3-0nG_F2	A3-0 B6NH Gentamicin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n715-s503	HA3-1nG_F2	A3-1 B6NH Gentamicin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n715-s506	HA3-3nG_F2	A3-3 B6NH Gentamicin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n716-s506	HA4-0nM_F2	A4-0 B6NH Metronidazole water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n716-s503	HA4-1nM_F2	A4-1 B6NH Metronidazole water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n716-s505	HA4-3nM_F2	A4-3 B6NH Metronidazole water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n716-s511	HA5-0nV_F2	A5-0 B6NH Vancomycin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n716-s507	HA5-1nV_F2	A5-1 B6NH Vancomycin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n716-s508	HA5-3nV_F2	A5-3 B6NH Vancomycin water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n718-s505	HA6-0n4_F2	A6-0 B6NH 4AB water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n718-s502	HA6-1n4_F2	A6-1 B6NH 4AB water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n718-s503	HA6-3n4_F2	A6-3 B6NH 4AB water C57Bl/6NH fecal sample D-1 1/22/2020	1/22/2020	antibiotics
+m85n716-s515	HA1-0nN_I1	A1-0 B6NH Normal water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n718-s513	HA1-1nN_I1	A1-1 B6NH Normal water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n718-s516	HA1-3nN_I1	A1-3 B6NH Normal water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n718-s520	HA2-0nC_I1	A2-0 B6NH Cefoxitin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n718-s518	HA2-1+3nC_I1	A2-1+3 B6NH Cefoxitin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n718-s517	HA2-1nC_I1	A2-1 B6NH Cefoxitin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n719-s515	HA3-0nG_I1	A3-0 B6NH Gentamicin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n718-s521	HA3-1nG_I1	A3-1 B6NH Gentamicin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n718-s522	HA3-3nG_I1	A3-3 B6NH Gentamicin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n716-s517	HA4-0nM_I1	A4-0 B6NH Metronidazole water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n716-s516	HA4-1nM_I1	A4-1 B6NH Metronidazole water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n719-s516	HA4-3nM_I1	A4-3 B6NH Metronidazole water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n716-s521	HA5-0nV_I1	A5-0 B6NH Vancomycin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n716-s518	HA5-1nV_I1	A5-1 B6NH Vancomycin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n716-s520	HA5-3nV_I1	A5-3 B6NH Vancomycin water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n719-s518	HA6-0n4_I1	A6-0 B6NH 4AB water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n716-s522	HA6-1n4_I1	A6-1 B6NH 4AB water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m85n719-s517	HA6-3n4_I1	A6-3 B6NH 4AB water C57Bl/6NH ileum sample D0 1/23/2020	1/23/2020	antibiotics
+m86n701-s506	HB1-0nN_F1	B1-0 B6NH Normal water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n701-s503	HB1-1nN_F1	B1-1 B6NH Normal water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n701-s505	HB1-3nN_F1	B1-3 B6NH Normal water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n701-s510	HB2-0nC_F1	B2-0 B6NH Cefoxitin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n701-s507	HB2-1nC_F1	B2-1 B6NH Cefoxitin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n701-s508	HB2-3nC_F1	B2-3 B6NH Cefoxitin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n702-s503	HB3-0nG_F1	B3-0 B6NH Gentamicin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n701-s511	HB3-1nG_F1	B3-1 B6NH Gentamicin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n702-s502	HB3-3nG_F1	B3-3 B6NH Gentamicin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n702-s508	HB4-0nM_F1	B4-0 B6NH Metronidazole water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n702-s506	HB4-1nM_F1	B4-1 B6NH Metronidazole water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n702-s507	HB4-3nM_F1	B4-3 B6NH Metronidazole water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n703-s502	HB5-0nV_F1	B5-0 B6NH Vancomycin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n702-s510	HB5-1nV_F1	B5-1 B6NH Vancomycin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n702-s511	HB5-3nV_F1	B5-3 B6NH Vancomycin water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n703-s506	HB6-0n4_F1	B6-0 B6NH 4AB water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n703-s503	HB6-1n4_F1	B6-1 B6NH 4AB water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n703-s505	HB6-3n4_F1	B6-3 B6NH 4AB water C57Bl/6NH fecal sample D-15 3/9/2020	3/9/2020	antibiotics
+m86n703-s511	HB1-0nN_F2	B1-0 B6NH Normal water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n703-s508	HB1-1nN_F2	B1-1 B6NH Normal water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n703-s510	HB1-3nN_F2	B1-3 B6NH Normal water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n704-s505	HB2-0nC_F2	B2-0 B6NH Cefoxitin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n704-s502	HB2-1nC_F2	B2-1 B6NH Cefoxitin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n704-s503	HB2-3nC_F2	B2-3 B6NH Cefoxitin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n704-s508	HB3-0nG_F2	B3-0 B6NH Gentamicin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n704-s506	HB3-1nG_F2	B3-1 B6NH Gentamicin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n704-s507	HB3-3nG_F2	B3-3 B6NH Gentamicin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n705-s503	HB4-0nM_F2	B4-0 B6NH Metronidazole water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n704-s511	HB4-1nM_F2	B4-1 B6NH Metronidazole water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n705-s502	HB4-3nM_F2	B4-3 B6NH Metronidazole water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n705-s507	HB5-0nV_F2	B5-0 B6NH Vancomycin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n705-s505	HB5-1nV_F2	B5-1 B6NH Vancomycin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n705-s506	HB5-3nV_F2	B5-3 B6NH Vancomycin water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n706-s502	HB6-0n4_F2	B6-0 B6NH 4AB water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n705-s508	HB6-1n4_F2	B6-1 B6NH 4AB water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n705-s510	HB6-3n4_F2	B6-3 B6NH 4AB water C57Bl/6NH fecal sample D-1 3/23/2020	3/23/2020	antibiotics
+m86n706-s506	HB1-0nN_I1	B1-0 B6NH Normal water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n706-s503	HB1-1nN_I1	B1-1 B6NH Normal water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n706-s505	HB1-3nN_I1	B1-3 B6NH Normal water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n706-s511	HB2-0nC_I1	B2-0 B6NH Cefoxitin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n706-s507	HB2-1nC_I1	B2-1 B6NH Cefoxitin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n706-s510	HB2-3nC_I1	B2-3 B6NH Cefoxitin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n707-s506	HB3-0nG_I1	B3-0 B6NH Gentamicin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n707-s502	HB3-1nG_I1	B3-1 B6NH Gentamicin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n707-s505	HB3-3nG_I1	B3-3 B6NH Gentamicin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n707-s510	HB4-0nM_I1	B4-0 B6NH Metronidazole water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n707-s507	HB4-1nM_I1	B4-1 B6NH Metronidazole water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n707-s508	HB4-3nM_I1	B4-3 B6NH Metronidazole water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n710-s503	HB5-0nV_I1	B5-0 B6NH Vancomycin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n707-s511	HB5-1nV_I1	B5-1 B6NH Vancomycin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n710-s502	HB5-3nV_I1	B5-3 B6NH Vancomycin water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n710-s508	HB6-0n4_I1	B6-0 B6NH 4AB water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n710-s505	HB6-1n4_I1	B6-1 B6NH 4AB water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n710-s507	HB6-3n4_I1	B6-3 B6NH 4AB water C57Bl/6NH ileum D0 3/24/2020	3/24/2020	antibiotics
+m86n711-s503	HC1-0nN_F1	C1-0 B6NH Normal water C57Bl/6NH fecal sample D-14 4/13/2020	4/13/2020	antibiotics
+m86n710-s511	HC1-1nN_F1	C1-1 B6NH Normal water C57Bl/6NH fecal sample D-14 4/13/2020	4/13/2020	antibiotics
+m86n711-s502	HC1-3nN_F1	C1-3 B6NH Normal water C57Bl/6NH fecal sample D-14 4/13/2020	4/13/2020	antibiotics
+m86n711-s508	HC2-0n3_F1	C2-0 B6NH 3AB water C57Bl/6NH fecal sample D-14 4/13/2020	4/13/2020	antibiotics
+m86n711-s505	HC2-1n3_F1	C2-1 B6NH 3AB water C57Bl/6NH fecal sample D-14 4/13/2020	4/13/2020	antibiotics
+m86n711-s506	HC2-3n3_F1	C2-3 B6NH 3AB water C57Bl/6NH fecal sample D-14 4/13/2020	4/13/2020	antibiotics
+m86n712-s502	HC1-0nN_F2	C1-0 B6NH Normal water C57Bl/6NH fecal sample D-1 4/26/2020	4/26/2020	antibiotics
+m86n711-s510	HC1-1nN_F2	C1-1 B6NH Normal water C57Bl/6NH fecal sample D-1 4/26/2020	4/26/2020	antibiotics
+m86n711-s511	HC1-3nN_F2	C1-3 B6NH Normal water C57Bl/6NH fecal sample D-1 4/26/2020	4/26/2020	antibiotics
+m86n712-s506	HC2-0n3_F2	C2-0 B6NH 3AB water C57Bl/6NH fecal sample D-1 4/26/2020	4/26/2020	antibiotics
+m86n712-s503	HC2-1n3_F2	C2-1 B6NH 3AB water C57Bl/6NH fecal sample D-1 4/26/2020	4/26/2020	antibiotics
+m86n712-s505	HC2-3n3_F2	C2-3 B6NH 3AB water C57Bl/6NH fecal sample D-1 4/26/2020	4/26/2020	antibiotics
+m86n712-s510	HC1-0nN_I1	C1-0 B6NH Normal water C57Bl/6NH ileum D0 4/27/2020	4/27/2020	antibiotics
+m86n712-s507	HC1-1nN_I1	C1-1 B6NH Normal water C57Bl/6NH ileum D0 4/27/2020	4/27/2020	antibiotics
+m86n712-s508	HC1-3nN_I1	C1-3 B6NH Normal water C57Bl/6NH ileum D0 4/27/2020	4/27/2020	antibiotics
+m86n714-s505	HC2-0n3_I1	C2-0 B6NH 3AB water C57Bl/6NH ileum D0 4/27/2020	4/27/2020	antibiotics
+m86n714-s502	HC2-1n3_I1	C2-1 B6NH 3AB water C57Bl/6NH ileum D0 4/27/2020	4/27/2020	antibiotics
+m86n714-s503	HC2-3n3_I1	C2-3 B6NH 3AB water C57Bl/6NH ileum D0 4/27/2020	4/27/2020	antibiotics
+m86n716-s506	HD1-0nN_F1	D1-0 B6NH Normal water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n716-s503	HD1-1nN_F1	D1-1 B6NH Normal water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n716-s505	HD1-3nN_F1	D1-3 B6NH Normal water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n716-s510	HD2-0n3O_F1	D2-0 B6NH 3AB Old water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n716-s507	HD2-1n3O_F1	D2-1 B6NH 3AB Old water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n716-s508	HD2-3n3O_F1	D2-3 B6NH 3AB Old water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n718-s505	HD3-0n3N_F1	D3-0 B6NH 3AB New water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n716-s511	HD3-1n3N_F1	D3-1 B6NH 3AB New water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n718-s502	HD3-3n3N_F1	D3-3 B6NH 3AB New water C57Bl/6NH fecal sample D-14 5/11/2020	5/11/2020	antibiotics
+m86n718-s508	HD1-0nN_F2	D1-0 B6NH Normal water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n718-s506	HD1-1nN_F2	D1-1 B6NH Normal water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n718-s507	HD1-3nN_F2	D1-3 B6NH Normal water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n719-s502	HD2-0n3O_F2	D2-0 B6NH 3AB Old water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n718-s510	HD2-1n3O_F2	D2-1 B6NH 3AB Old water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n718-s511	HD2-3n3O_F2	D2-3 B6NH 3AB Old water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n719-s506	HD3-0n3N_F2	D3-0 B6NH 3AB New water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n719-s503	HD3-1n3N_F2	D3-1 B6NH 3AB New water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n719-s505	HD3-3n3N_F2	D3-3 B6NH 3AB New water C57Bl/6NH fecal sample D-1 5/24/2020	5/24/2020	antibiotics
+m86n719-s511	HD1-0nN_I1	D1-0 B6NH Normal water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n719-s508	HD1-1nN_I1	D1-1 B6NH Normal water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n719-s510	HD1-3nN_I1	D1-3 B6NH Normal water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n720-s505	HD2-0n3O_I1	D2-0 B6NH 3AB Old water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n720-s502	HD2-1n3O_I1	D2-1 B6NH 3AB Old water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n720-s503	HD2-3n3O_I1	D2-3 B6NH 3AB Old water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n720-s508	HD3-0n3N_I1	D3-0 B6NH 3AB New water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n720-s506	HD3-1n3N_I1	D3-1 B6NH 3AB New water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m86n720-s507	HD3-3n3N_I1	D3-3 B6NH 3AB New water C57Bl/6NH ileum D0 5/25/2020	5/25/2020	antibiotics
+m96n720-s522	A1F1-1	Exp A-1) Gp1-1 feces	2/11/2022	GREAT mice
+m96n705-s502	A1i1-1 	Exp A-1) Gp1-1 Ileum	2/11/2022	GREAT mice
+m96n721-s513	A1F1-2	Exp A-1) Gp1-2 feces	2/11/2022	GREAT mice
+m96n705-s503	A1i1-2 	Exp A-1) Gp1-2 Ileum	2/11/2022	GREAT mice
+m96n721-s515	A1F1-3	Exp A-1) Gp1-3 feces	2/11/2022	GREAT mice
+m96n705-s505	A1i1-3 	Exp A-1) Gp1-3 Ileum	2/11/2022	GREAT mice
+m96n721-s516	A1F1-4	Exp A-1) Gp1-4 feces	2/11/2022	GREAT mice
+m96n705-s507	A1i1-4 	Exp A-1) Gp1-4 Ileum	2/11/2022	GREAT mice
+m96n721-s522	A1F2-1	Exp A-1) Gp2-1 feces	2/11/2022	GREAT mice
+m96n706-s503	A1i2-1 	Exp A-1) Gp2-1 Ileum	2/11/2022	GREAT mice
+m96n722-s513	A1F2-2	Exp A-1) Gp2-2 feces	2/11/2022	GREAT mice
+m96n706-s505	A1i2-2 	Exp A-1) Gp2-2 Ileum	2/11/2022	GREAT mice
+m96n722-s515	A1F2-3	Exp A-1) Gp2-3 feces	2/11/2022	GREAT mice
+m96n706-s506	A1i2-3 	Exp A-1) Gp2-3 Ileum	2/11/2022	GREAT mice
+m96n722-s516	A1F2-4	Exp A-1) Gp2-4 feces	2/11/2022	GREAT mice
+m96n706-s507	A1i2-4 	Exp A-1) Gp2-4 Ileum	2/11/2022	GREAT mice
+m96n721-s517	A2F1-1	Exp A-2) Gp1-1 feces	3/4/2022	GREAT mice
+m96n705-s508	A2i1-1 	Exp A-2) Gp1-1 Ileum	3/4/2022	GREAT mice
+m96n721-s518	A2F1-2	Exp A-2) Gp1-2 feces	3/4/2022	GREAT mice
+m96n705-s510	A2i1-2 	Exp A-2) Gp1-2 Ileum	3/4/2022	GREAT mice
+m96n721-s520	A2F1-3	Exp A-2) Gp1-3 feces	3/4/2022	GREAT mice
+m96n705-s511	A2i1-3 	Exp A-2) Gp1-3 Ileum	3/4/2022	GREAT mice
+m96n721-s521	A2F1-4	Exp A-2) Gp1-4 feces	3/4/2022	GREAT mice
+m96n706-s502	A2i1-4 	Exp A-2) Gp1-4 Ileum	3/4/2022	GREAT mice
+m96n722-s517	A2F2-1	Exp A-2) Gp2-1 feces	3/4/2022	GREAT mice
+m96n706-s508	A2i2-1 	Exp A-2) Gp2-1 Ileum	3/4/2022	GREAT mice
+m96n722-s518	A2F2-2	Exp A-2) Gp2-2 feces	3/4/2022	GREAT mice
+m96n706-s510	A2i2-2 	Exp A-2) Gp2-2 Ileum	3/4/2022	GREAT mice
+m96n722-s520	A2F2-3	Exp A-2) Gp2-3 feces	3/4/2022	GREAT mice
+m96n706-s511	A2i2-3 	Exp A-2) Gp2-3 Ileum	3/4/2022	GREAT mice
+m96n722-s521	A2F2-4	Exp A-2) Gp2-4 feces	3/4/2022	GREAT mice
+m96n707-s502	A2i2-4 	Exp A-2) Gp2-4 Ileum	3/4/2022	GREAT mice
+m96n722-s522	B1F1-1	Exp B-1) Gp1-1 feces	2/7/2022	3AB Tx fecal transfer
+m96n707-s503	B1i1-1	Exp B-1) Gp1-1 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n723-s513	B1F1-2	Exp B-1) Gp1-2 feces	2/7/2022	3AB Tx fecal transfer
+m96n707-s505	B1i1-2	Exp B-1) Gp1-2 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n723-s515	B1F1-3	Exp B-1) Gp1-3 feces	2/7/2022	3AB Tx fecal transfer
+m96n707-s506	B1i1-3	Exp B-1) Gp1-3 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n723-s517	B1F1-4	Exp B-1) Gp1-4 feces	2/7/2022	3AB Tx fecal transfer
+m96n707-s507	B1i1-4	Exp B-1) Gp1-4 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n723-s518	B1F1-5	Exp B-1) Gp1-5 feces	2/7/2022	3AB Tx fecal transfer
+m96n707-s508	B1i1-5	Exp B-1) Gp1-5 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n724-s516	B1F2-1	Exp B-1) Gp2-1 feces	2/7/2022	3AB Tx fecal transfer
+m96n707-s510	B1i2-1	Exp B-1) Gp2-1 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n724-s517	B1F2-2	Exp B-1) Gp2-2 feces	2/7/2022	3AB Tx fecal transfer
+m96n707-s511	B1i2-2	Exp B-1) Gp2-2 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n724-s518	B1F2-3	Exp B-1) Gp2-3 feces	2/7/2022	3AB Tx fecal transfer
+m96n710-s502	B1i2-3	Exp B-1) Gp2-3 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n724-s520	B1F2-4	Exp B-1) Gp2-4 feces	2/7/2022	3AB Tx fecal transfer
+m96n710-s503	B1i2-4	Exp B-1) Gp2-4 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n724-s521	B1F2-5	Exp B-1) Gp2-5 feces	2/7/2022	3AB Tx fecal transfer
+m96n710-s505	B1i2-5	Exp B-1) Gp2-5 Ileum	2/7/2022	3AB Tx fecal transfer
+m96n723-s520	B2F1-1	Exp B-2) Gp1-1 feces	3/9/2022	3AB Tx fecal transfer
+m96n710-s506	B2i1-1	Exp B-2) Gp1-1 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n723-s521	B2F1-2	Exp B-2) Gp1-2 feces	3/9/2022	3AB Tx fecal transfer
+m96n710-s507	B2i1-2	Exp B-2) Gp1-2 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n723-s522	B2F1-3	Exp B-2) Gp1-3 feces	3/9/2022	3AB Tx fecal transfer
+m96n710-s508	B2i1-3	Exp B-2) Gp1-3 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n724-s513	B2F1-4	Exp B-2) Gp1-4 feces	3/9/2022	3AB Tx fecal transfer
+m96n710-s510	B2i1-4	Exp B-2) Gp1-4 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n724-s515	B2F1-5	Exp B-2) Gp1-5 feces	3/9/2022	3AB Tx fecal transfer
+m96n710-s511	B2i1-5	Exp B-2) Gp1-5 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n724-s522	B2F2-1	Exp B-2) Gp2-1 feces	3/9/2022	3AB Tx fecal transfer
+m96n711-s502	B2i2-1	Exp B-2) Gp2-1 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s513	B2F2-2	Exp B-2) Gp2-2 feces	3/9/2022	3AB Tx fecal transfer
+m96n711-s503	B2i2-2	Exp B-2) Gp2-2 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s515	B2F2-3	Exp B-2) Gp2-3 feces	3/9/2022	3AB Tx fecal transfer
+m96n711-s505	B2i2-3	Exp B-2) Gp2-3 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s516	B2F2-4	Exp B-2) Gp2-4 feces	3/9/2022	3AB Tx fecal transfer
+m96n711-s506	B2i2-4	Exp B-2) Gp2-4 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s517	B2F2-5	Exp B-2) Gp2-5 feces	3/9/2022	3AB Tx fecal transfer
+m96n711-s507	B2i2-5	Exp B-2) Gp2-5 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s518	B2F3-1	Exp B-2) Gp3-1 feces	3/9/2022	3AB Tx fecal transfer
+m96n711-s508	B2i3-1	Exp B-2) Gp3-1 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s520	B2F3-2	Exp B-2) Gp3-2 feces	3/9/2022	3AB Tx fecal transfer
+m96n711-s511	B2i3-2	Exp B-2) Gp3-2 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s521	B2F3-3	Exp B-2) Gp3-3 feces	3/9/2022	3AB Tx fecal transfer
+m96n712-s502	B2i3-3	Exp B-2) Gp3-3 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n726-s522	B2F4-1	Exp B-2) Gp4-1 feces	3/9/2022	3AB Tx fecal transfer
+m96n712-s503	B2i4-1	Exp B-2) Gp4-1 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n727-s513	B2F4-2	Exp B-2) Gp4-2 feces	3/9/2022	3AB Tx fecal transfer
+m96n712-s505	B2i4-2	Exp B-2) Gp4-2 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n727-s515	B2F4-3	Exp B-2) Gp4-3 feces	3/9/2022	3AB Tx fecal transfer
+m96n712-s506	B2i4-3	Exp B-2) Gp4-3 Ileum	3/9/2022	3AB Tx fecal transfer
+m96n727-s516	B3F1-1	Exp B-3) Gp1-1 feces	4/8/2022	3AB Tx fecal transfer
+m96n712-s507	B3i1-1	Exp B-3) Gp1-1 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n727-s517	B3F1-2	Exp B-3) Gp1-2 feces	4/8/2022	3AB Tx fecal transfer
+m96n712-s508	B3i1-2	Exp B-3) Gp1-2 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n727-s518	B3F1-3	Exp B-3) Gp1-3 feces	4/8/2022	3AB Tx fecal transfer
+m96n712-s510	B3i1-3	Exp B-3) Gp1-3 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n727-s520	B3F1-4	Exp B-3) Gp1-4 feces	4/8/2022	3AB Tx fecal transfer
+m96n712-s511	B3i1-4	Exp B-3) Gp1-4 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n727-s522	B3F2-1	Exp B-3) Gp2-1 feces	4/8/2022	3AB Tx fecal transfer
+m96n714-s502	B3i2-1	Exp B-3) Gp2-1 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n728-s513	B3F2-2	Exp B-3) Gp2-2 feces	4/8/2022	3AB Tx fecal transfer
+m96n714-s503	B3i2-2	Exp B-3) Gp2-2 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n728-s515	B3F2-3	Exp B-3) Gp2-3 feces	4/8/2022	3AB Tx fecal transfer
+m96n714-s505	B3i2-3	Exp B-3) Gp2-3 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n728-s516	B3F2-4	Exp B-3) Gp2-4 feces	4/8/2022	3AB Tx fecal transfer
+m96n714-s506	B3i2-4	Exp B-3) Gp2-4 Ileum	4/8/2022	3AB Tx fecal transfer
+m96n728-s517	B3F3-1	Exp B-3) Gp3-1 feces	4/21/2022	3AB Tx fecal transfer
+m96n714-s507	B3i3-1	Exp B-3) Gp3-1 Ileum	4/21/2022	3AB Tx fecal transfer
+m96n728-s518	B3F3-2	Exp B-3) Gp3-2 feces	4/21/2022	3AB Tx fecal transfer
+m96n714-s508	B3i3-2	Exp B-3) Gp3-2 Ileum	4/21/2022	3AB Tx fecal transfer
+m96n728-s520	B3F3-3	Exp B-3) Gp3-3 feces	4/21/2022	3AB Tx fecal transfer
+m96n714-s510	B3i3-3	Exp B-3) Gp3-3 Ileum	4/21/2022	3AB Tx fecal transfer
+m96n728-s521	B3F3-4	Exp B-3) Gp3-4 feces	4/21/2022	3AB Tx fecal transfer
+m96n714-s511	B3i3-4	Exp B-3) Gp3-4 Ileum	4/21/2022	3AB Tx fecal transfer
+m96n728-s522	B3F4-1	Exp B-3) Gp4-1 feces	4/21/2022	3AB Tx fecal transfer
+m96n715-s502	B3i4-1	Exp B-3) Gp4-1 Ileum	4/21/2022	3AB Tx fecal transfer
+m96n729-s513	B3F4-2	Exp B-3) Gp4-2 feces	4/21/2022	3AB Tx fecal transfer
+m96n715-s503	B3i4-2	Exp B-3) Gp4-2 Ileum	4/21/2022	3AB Tx fecal transfer
+m96n729-s515	B3F4-3	Exp B-3) Gp4-3 feces	4/21/2022	3AB Tx fecal transfer
+m96n715-s505	B3i4-3	Exp B-3) Gp4-3 Ileum	4/21/2022	3AB Tx fecal transfer
+m96n729-s516	B3F4-4	Exp B-3) Gp4-4 feces	4/21/2022	3AB Tx fecal transfer
+m96n715-s506	B3i4-4	Exp B-3) Gp4-4 Ileum	4/21/2022	3AB Tx fecal transfer
