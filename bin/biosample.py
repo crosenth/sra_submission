@@ -46,13 +46,19 @@ def main(arguments):
     except OSError:
         pass
     identifiers = args.identifiers.split(',')
+    datecols = []
+    if 'collection_date' in identifiers:
+        datecols.append('collection_date')
     samples = pandas.read_csv(
         args.samples,
         dtype=str,
+        parse_dates=datecols,
         usecols=identifiers,
         sep='\t').dropna()
-    samples = samples.rename(columns={identifiers[0]: '*sample_name'})
-
+    samples = samples.rename(
+        columns={
+            identifiers[0]: '*sample_name',
+            'collection_date': '*collection_date'})
     samples['*sample_name'].apply(check_sample_name)
     template = pandas.read_csv(args.template, dtype=str, sep='\t', comment='#')
     template['bioproject_accession'] = args.bioproject
@@ -88,7 +94,11 @@ def main(arguments):
     if args.max_rows:
         for i, r in enumerate(range(0, len(filled), args.max_rows), start=1):
             out = os.path.join(args.outdir, name + '_' + str(i) + ext)
-            filled[r:r+args.max_rows].to_csv(out, index=False, sep='\t')
+            filled[r:r+args.max_rows].to_csv(
+                out,
+                date_format='%Y-%m-%d',  # collection_date
+                index=False,
+                sep='\t')
     else:
         out = os.path.join(args.outdir, name + ext)
         filled.to_csv(out, index=False, sep='\t')
