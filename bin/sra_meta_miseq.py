@@ -27,7 +27,7 @@ def main(arguments):
     parser.add_argument('datadir', help=('base location of plate data'))
 
     outopts = parser.add_argument_group('output options',)
-    outopts.add_argument('--outdir', default='.',
+    outopts.add_argument('--outdir',
                          help=('for individual fastq files'))
     outopts.add_argument('--out', default=sys.stdout,
                          help=('output for sra submission '
@@ -36,6 +36,8 @@ def main(arguments):
     try:
         os.makedirs(args.outdir)
     except OSError:
+        pass
+    except TypeError:
         pass
     attributes = pandas.read_csv(
         args.biosample_attributes,
@@ -47,30 +49,31 @@ def main(arguments):
     template = template.reset_index(drop=True)
     cols = ['biosample_accession', 'library_ID']
     template[cols] = attributes
-    file_pattern = os.path.join(
-        args.datadir,
-        'miseq-plate-{plate}',
-        'run-files',
-        '**',
-        '{library}_*_R[12]*_001.fastq.gz')
-    plate_pattern = re.compile('^m(?P<plate>\d+)n')
-    for i in template['library_ID'].values:
-        plate = re.search(plate_pattern, i).group('plate')
-        try:
-            pth = pathlib.Path(args.datadir)
-            fqs = pth.glob(file_pattern.format(library=i, plate=plate))
-            r1, r2 = sorted(fqs)
-        except ValueError as e:
-            print('error processin:' + i)
-            raise(e)
-        r1_basename = os.path.basename(r1)
-        r2_basename = os.path.basename(r2)
-        print(r1_basename)
-        print(r2_basename)
-        os.symlink(os.path.abspath(r1), os.path.join(args.outdir, r1_basename))
-        os.symlink(os.path.abspath(r2), os.path.join(args.outdir, r2_basename))
-        template.loc[template['library_ID'] == i, 'filename'] = r1_basename
-        template.loc[template['library_ID'] == i, 'filename2'] = r2_basename
+    if args.outdir:
+        file_pattern = os.path.join(
+            args.datadir,
+            'miseq-plate-{plate}',
+            'run-files',
+            '**',
+            '{library}_*_R[12]*_001.fastq.gz')
+        plate_pattern = re.compile('^m(?P<plate>\d+)n')
+        for i in template['library_ID'].values:
+            plate = re.search(plate_pattern, i).group('plate')
+            try:
+                pth = pathlib.Path(args.datadir)
+                fqs = pth.glob(file_pattern.format(library=i, plate=plate))
+                r1, r2 = sorted(fqs)
+            except ValueError as e:
+                print('error processin:' + i)
+                raise(e)
+            r1_basename = os.path.basename(r1)
+            r2_basename = os.path.basename(r2)
+            print(r1_basename)
+            print(r2_basename)
+            os.symlink(os.path.abspath(r1), os.path.join(args.outdir, r1_basename))
+            os.symlink(os.path.abspath(r2), os.path.join(args.outdir, r2_basename))
+            template.loc[template['library_ID'] == i, 'filename'] = r1_basename
+            template.loc[template['library_ID'] == i, 'filename2'] = r2_basename
     template.to_csv(args.out, sep='\t', index=False)
 
 
