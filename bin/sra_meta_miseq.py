@@ -51,10 +51,12 @@ def main(arguments):
     template[cols] = attributes
     if args.outdir:
         file_pattern = os.path.join(
-            args.datadir,
             'miseq-plate-{plate}',
             'run-files',
             '**',
+            'Data',
+            'Intensities',
+            'BaseCalls',
             '{library}_*_R[12]*_001.fastq.gz')
         plate_pattern = re.compile('^m(?P<plate>\d+)n')
         for i in template['library_ID'].values:
