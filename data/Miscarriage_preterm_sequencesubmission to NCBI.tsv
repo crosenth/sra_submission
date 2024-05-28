@@ -1,0 +1,757 @@
+seqid	cohort	manuscript_partid	visit_number	manuscript_sampleid	repro_time_phases	miscarriage	case_ptb_et_study_ind	publication_miscarriage	publication_ptb	which_publication
+m82n705-s516	Nairobi	part_034	1	part_034_1	Peri-concept	0	Full Term	yes	yes	both
+m82n705-s517	Nairobi	part_034	3	part_034_3	First trimes	0	Full Term	yes	yes	both
+m82n706-s515	Nairobi	part_094	1	part_094_1	Peri-concept	0	Full Term	yes	yes	both
+m82n706-s516	Nairobi	part_094	2	part_094_2	First trimes	0	Full Term	yes	yes	both
+m82n706-s517	Nairobi	part_094	3	part_094_3	First trimes	0	Full Term	yes	yes	both
+m82n706-s518	Nairobi	part_053	1	part_053_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m82n706-s520	Nairobi	part_053	2	part_053_2	First trimes	0	Preterm or early term	yes	yes	both
+m82n706-s521	Nairobi	part_053	3	part_053_3	First trimes	0	Preterm or early term	yes	yes	both
+m82n707-s517	Nairobi	part_059	1	part_059_1	Peri-concept	0	Full Term	yes	yes	both
+m82n707-s520	Nairobi	part_059	2	part_059_2	First trimes	0	Full Term	yes	yes	both
+m82n707-s521	Nairobi	part_059	3	part_059_3	First trimes	0	Full Term	yes	yes	both
+m82n707-s522	Nairobi	part_159	1	part_159_1	Peri-concept	0	Full Term	yes	yes	both
+m82n710-s513	Nairobi	part_159	2	part_159_2	First trimes	0	Full Term	yes	yes	both
+m82n710-s515	Nairobi	part_159	3	part_159_3	First trimes	0	Full Term	yes	yes	both
+m82n712-s502	Nairobi	part_078	1	part_078_1	Peri-concept	0	Full Term	yes	yes	both
+m82n712-s503	Nairobi	part_078	2	part_078_2	First trimes	0	Full Term	yes	yes	both
+m82n712-s505	Nairobi	part_078	3	part_078_3	First trimes	0	Full Term	yes	yes	both
+m82n712-s515	Nairobi	part_110	1	part_110_1	Peri-concept	0	Full Term	yes	yes	both
+m82n712-s516	Nairobi	part_110	2	part_110_2	First trimes	0	Full Term	yes	yes	both
+m82n712-s518	Nairobi	part_110	3	part_110_3	First trimes	0	Full Term	yes	yes	both
+m82n712-s522	Nairobi	part_179	1	part_179_1	Peri-concept	0	Full Term	yes	yes	both
+m82n714-s513	Nairobi	part_179	2	part_179_2	First trimes	0	Full Term	yes	yes	both
+m82n714-s515	Nairobi	part_179	3	part_179_3	First trimes	0	Full Term	yes	yes	both
+m82n714-s516	Nairobi	part_114	1	part_114_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m82n714-s517	Nairobi	part_114	2	part_114_2	First trimes	0	Preterm or early term	yes	yes	both
+m82n715-s502	Nairobi	part_186	1	part_186_1	Peri-concept	0	Full Term	yes	yes	both
+m82n715-s505	Nairobi	part_186	2	part_186_2	First trimes	0	Full Term	yes	yes	both
+m82n715-s506	Nairobi	part_186	3	part_186_3	First trimes	0	Full Term	yes	yes	both
+m82n718-s503	Nairobi	part_191	1	part_191_1	Peri-concept	0	Full Term	yes	yes	both
+m82n718-s505	Nairobi	part_191	2	part_191_2	First trimes	0	Full Term	yes	yes	both
+m82n718-s506	Nairobi	part_191	3	part_191_3	First trimes	0	Full Term	yes	yes	both
+m82n720-s507	Nairobi	part_040	1	part_040_1	Peri-concept	0	Full Term	yes	yes	both
+m82n720-s508	Nairobi	part_040	2	part_040_2	First trimes	0	Full Term	yes	yes	both
+m82n720-s510	Nairobi	part_040	3	part_040_3	First trimes	0	Full Term	yes	yes	both
+m82n720-s511	Nairobi	part_123	1	part_123_1	Peri-concept	0	Full Term	yes	yes	both
+m82n721-s502	Nairobi	part_123	2	part_123_2	First trimes	0	Full Term	yes	yes	both
+m82n721-s503	Nairobi	part_123	3	part_123_3	First trimes	0	Full Term	yes	yes	both
+m82n721-s505	Nairobi	part_028	1	part_028_1	Peri-concept	0	Full Term	yes	yes	both
+m82n721-s506	Nairobi	part_028	2	part_028_2	First trimes	0	Full Term	yes	yes	both
+m82n721-s511	Nairobi	part_063	1	part_063_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m82n722-s503	Nairobi	part_063	2	part_063_2	First trimes	0	Preterm or early term	yes	yes	both
+m82n722-s505	Nairobi	part_063	3	part_063_3	First trimes	0	Preterm or early term	yes	yes	both
+m82n723-s505	Nairobi	part_074	1	part_074_1	Peri-concept	0	Full Term	yes	yes	both
+m82n723-s506	Nairobi	part_074	2	part_074_2	First trimes	0	Full Term	yes	yes	both
+m82n723-s508	Nairobi	part_074	3	part_074_3	First trimes	0	Full Term	yes	yes	both
+m82n724-s503	Nairobi	part_086	1	part_086_1	Peri-concept	0	Full Term	yes	yes	both
+m82n724-s506	Nairobi	part_086	2	part_086_2	First trimes	0	Full Term	yes	yes	both
+m82n724-s507	Nairobi	part_086	3	part_086_3	First trimes	0	Full Term	yes	yes	both
+m82n727-s502	Nairobi	part_067	1	part_067_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m82n727-s503	Nairobi	part_067	2	part_067_2	First trimes	0	Preterm or early term	yes	yes	both
+m82n727-s505	Nairobi	part_067	3	part_067_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n701-s515	Nairobi	part_058	1	part_058_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n701-s516	Nairobi	part_058	3	part_058_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n701-s521	Nairobi	part_120	1	part_120_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n701-s522	Nairobi	part_120	2	part_120_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n702-s515	Nairobi	part_120	3	part_120_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n702-s516	Nairobi	part_047	1	part_047_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n702-s517	Nairobi	part_047	2	part_047_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n702-s518	Nairobi	part_047	3	part_047_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n704-s513	Nairobi	part_216	1	part_216_1	Peri-concept	0	Full Term	yes	yes	both
+m83n704-s515	Nairobi	part_216	2	part_216_2	First trimes	0	Full Term	yes	yes	both
+m83n704-s516	Nairobi	part_216	3	part_216_3	First trimes	0	Full Term	yes	yes	both
+m83n705-s515	Nairobi	part_101	1	part_101_1	Peri-concept	0	Full Term	yes	yes	both
+m83n705-s516	Nairobi	part_101	2	part_101_2	First trimes	0	Full Term	yes	yes	both
+m83n705-s517	Nairobi	part_101	3	part_101_3	First trimes	0	Full Term	yes	yes	both
+m83n705-s518	Nairobi	part_174	1	part_174_1	Peri-concept	0	Full Term	yes	yes	both
+m83n705-s521	Nairobi	part_174	2	part_174_2	First trimes	0	Full Term	yes	yes	both
+m83n705-s522	Nairobi	part_174	3	part_174_3	First trimes	0	Full Term	yes	yes	both
+m83n706-s518	Nairobi	part_106	1	part_106_1	Peri-concept	0	Full Term	yes	yes	both
+m83n706-s520	Nairobi	part_106	2	part_106_2	First trimes	0	Full Term	yes	yes	both
+m83n706-s521	Nairobi	part_106	3	part_106_3	First trimes	0	Full Term	yes	yes	both
+m83n707-s513	Nairobi	part_093	1	part_093_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n707-s515	Nairobi	part_093	2	part_093_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n707-s516	Nairobi	part_093	3	part_093_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n710-s515	Nairobi	part_222	1	part_222_1	Peri-concept	0	Full Term	yes	yes	both
+m83n710-s517	Nairobi	part_222	2	part_222_2	First trimes	0	Full Term	yes	yes	both
+m83n710-s518	Nairobi	part_222	3	part_222_3	First trimes	0	Full Term	yes	yes	both
+m83n711-s518	Nairobi	part_156	1	part_156_1	Peri-concept	0	Full Term	yes	yes	both
+m83n711-s520	Nairobi	part_156	2	part_156_2	First trimes	0	Full Term	yes	yes	both
+m83n711-s522	Nairobi	part_011	1	part_011_1	Peri-concept	0	Full Term	yes	yes	both
+m83n712-s513	Nairobi	part_011	2	part_011_2	First trimes	0	Full Term	yes	yes	both
+m83n712-s515	Nairobi	part_011	3	part_011_3	First trimes	0	Full Term	yes	yes	both
+m83n714-s517	Nairobi	part_089	1	part_089_1	Peri-concept	0	Full Term	yes	yes	both
+m83n714-s518	Nairobi	part_089	2	part_089_2	First trimes	0	Full Term	yes	yes	both
+m83n714-s520	Nairobi	part_089	3	part_089_3	First trimes	0	Full Term	yes	yes	both
+m83n715-s516	Nairobi	part_075	1	part_075_1	Peri-concept	0	Full Term	yes	yes	both
+m83n715-s517	Nairobi	part_075	2	part_075_2	First trimes	0	Full Term	yes	yes	both
+m83n715-s518	Nairobi	part_075	3	part_075_3	First trimes	0	Full Term	yes	yes	both
+m83n716-s503	Nairobi	part_135	1	part_135_1	Peri-concept	0	Full Term	yes	yes	both
+m83n716-s505	Nairobi	part_135	2	part_135_2	First trimes	0	Full Term	yes	yes	both
+m83n716-s506	Nairobi	part_073	1	part_073_1	Peri-concept	0	Full Term	yes	yes	both
+m83n716-s507	Nairobi	part_073	2	part_073_2	First trimes	0	Full Term	yes	yes	both
+m83n716-s510	Nairobi	part_073	3	part_073_3	First trimes	0	Full Term	yes	yes	both
+m83n716-s517	Nairobi	part_112	1	part_112_1	Peri-concept	0	Full Term	yes	yes	both
+m83n716-s518	Nairobi	part_112	2	part_112_2	First trimes	0	Full Term	yes	yes	both
+m83n716-s520	Nairobi	part_112	3	part_112_3	First trimes	0	Full Term	yes	yes	both
+m83n718-s506	Nairobi	part_160	1	part_160_1	Peri-concept	0	Full Term	yes	yes	both
+m83n718-s507	Nairobi	part_160	2	part_160_2	First trimes	0	Full Term	yes	yes	both
+m83n718-s522	Mombasa	part_010	1	part_010_1	Peri-concept	0	Full Term	yes	yes	both
+m83n719-s513	Mombasa	part_010	2	part_010_2	First trimes	0	Full Term	yes	yes	both
+m83n719-s516	Mombasa	part_010	3	part_010_3	First trimes	0	Full Term	yes	yes	both
+m83n720-s503	Nairobi	part_212	1	part_212_1	Peri-concept	0	Full Term	yes	yes	both
+m83n720-s511	Nairobi	part_154	1	part_154_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n720-s515	Mombasa	part_044	1	part_044_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n720-s516	Mombasa	part_044	2	part_044_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n720-s518	Mombasa	part_044	3	part_044_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n720-s520	Mombasa	part_064	1	part_064_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n720-s521	Mombasa	part_064	2	part_064_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n720-s522	Mombasa	part_064	3	part_064_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n721-s502	Nairobi	part_154	2	part_154_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n721-s503	Nairobi	part_154	3	part_154_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n721-s510	Nairobi	part_118	1	part_118_1	Peri-concept	0	Full Term	yes	yes	both
+m83n721-s511	Nairobi	part_118	2	part_118_2	First trimes	0	Full Term	yes	yes	both
+m83n721-s517	Mombasa	part_210	1	part_210_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n721-s518	Mombasa	part_210	2	part_210_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n721-s521	Mombasa	part_210	3	part_210_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n722-s502	Nairobi	part_118	3	part_118_3	First trimes	0	Full Term	yes	yes	both
+m83n722-s507	Nairobi	part_190	1	part_190_1	Peri-concept	0	Full Term	yes	yes	both
+m83n722-s508	Nairobi	part_190	2	part_190_2	First trimes	0	Full Term	yes	yes	both
+m83n722-s510	Nairobi	part_190	3	part_190_3	First trimes	0	Full Term	yes	yes	both
+m83n722-s516	Mombasa	part_057	1	part_057_1	Peri-concept	0	Full Term	yes	yes	both
+m83n722-s517	Mombasa	part_057	2	part_057_2	First trimes	0	Full Term	yes	yes	both
+m83n722-s520	Mombasa	part_016	1	part_016_1	Peri-concept	0	Full Term	yes	yes	both
+m83n722-s521	Mombasa	part_016	2	part_016_2	Peri-concept	0	Full Term	yes	yes	both
+m83n723-s513	Mombasa	part_016	3	part_016_3	First trimes	0	Full Term	yes	yes	both
+m83n724-s502	Nairobi	part_045	1	part_045_1	Peri-concept	0	Full Term	yes	yes	both
+m83n724-s503	Nairobi	part_045	2	part_045_2	First trimes	0	Full Term	yes	yes	both
+m83n724-s506	Nairobi	part_045	3	part_045_3	First trimes	0	Full Term	yes	yes	both
+m83n724-s507	Nairobi	part_128	1	part_128_1	Peri-concept	0	Full Term	yes	yes	both
+m83n724-s508	Nairobi	part_128	2	part_128_2	First trimes	0	Full Term	yes	yes	both
+m83n724-s510	Nairobi	part_128	3	part_128_3	First trimes	0	Full Term	yes	yes	both
+m83n724-s517	Mombasa	part_109	1	part_109_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n724-s518	Mombasa	part_109	2	part_109_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n724-s520	Mombasa	part_109	3	part_109_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n724-s521	Mombasa	part_206	1	part_206_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n724-s522	Mombasa	part_206	2	part_206_2	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n726-s515	Mombasa	part_206	3	part_206_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n727-s510	Nairobi	part_035	1	part_035_1	Peri-concept	0	Full Term	yes	yes	both
+m83n727-s511	Nairobi	part_035	2	part_035_2	First trimes	0	Full Term	yes	yes	both
+m83n727-s515	Mombasa	part_124	1	part_124_1	Peri-concept	0	Full Term	yes	yes	both
+m83n727-s516	Mombasa	part_124	2	part_124_2	First trimes	0	Full Term	yes	yes	both
+m83n727-s518	Mombasa	part_124	3	part_124_3	First trimes	0	Full Term	yes	yes	both
+m83n728-s502	Nairobi	part_035	3	part_035_3	First trimes	0	Full Term	yes	yes	both
+m83n728-s513	Mombasa	part_083	1	part_083_1	Peri-concept	0	Full Term	yes	yes	both
+m83n728-s515	Mombasa	part_083	2	part_083_2	First trimes	0	Full Term	yes	yes	both
+m83n728-s516	Mombasa	part_083	3	part_083_3	First trimes	0	Full Term	yes	yes	both
+m83n728-s517	Mombasa	part_172	1	part_172_1	Peri-concept	0	Full Term	yes	yes	both
+m83n728-s518	Mombasa	part_172	2	part_172_2	First trimes	0	Full Term	yes	yes	both
+m83n728-s520	Mombasa	part_172	3	part_172_3	First trimes	0	Full Term	yes	yes	both
+m83n729-s502	Nairobi	part_130	1	part_130_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n729-s505	Nairobi	part_130	2	part_130_2	First trimes	0	Preterm or early term	yes	yes	both
+m83n729-s506	Nairobi	part_130	3	part_130_3	First trimes	0	Preterm or early term	yes	yes	both
+m83n729-s507	Nairobi	part_025	1	part_025_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n729-s508	Nairobi	part_025	2	part_025_2	Peri-concept	0	Preterm or early term	yes	yes	both
+m83n729-s510	Nairobi	part_025	3	part_025_3	First trimes	0	Preterm or early term	yes	yes	both
+m88n701-s515	Nairobi	part_013	1	part_013_1	Peri-concept	0	Full Term	yes	yes	both
+m88n701-s516	Nairobi	part_013	2	part_013_2	First trimes	0	Full Term	yes	yes	both
+m88n701-s517	Nairobi	part_013	3	part_013_3	First trimes	0	Full Term	yes	yes	both
+m88n701-s520	Nairobi	part_069	1	part_069_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m88n701-s521	Nairobi	part_069	2	part_069_2	First trimes	0	Preterm or early term	yes	yes	both
+m88n702-s515	Nairobi	part_136	1	part_136_1	Peri-concept	0	Full Term	yes	yes	both
+m88n702-s516	Nairobi	part_136	2	part_136_2	First trimes	0	Full Term	yes	yes	both
+m88n702-s517	Nairobi	part_136	3	part_136_3	First trimes	0	Full Term	yes	yes	both
+m88n702-s518	Nairobi	part_132	1	part_132_1	Peri-concept	0	Full Term	yes	yes	both
+m88n702-s520	Nairobi	part_132	2	part_132_2	First trimes	0	Full Term	yes	yes	both
+m88n702-s521	Nairobi	part_132	3	part_132_3	First trimes	0	Full Term	yes	yes	both
+m88n702-s522	Nairobi	part_181	1	part_181_1	Peri-concept	0	Full Term	yes	yes	both
+m88n703-s513	Nairobi	part_181	2	part_181_2	First trimes	0	Full Term	yes	yes	both
+m88n703-s515	Nairobi	part_181	3	part_181_3	First trimes	0	Full Term	yes	yes	both
+m88n704-s515	Mombasa	part_150	1	part_150_1	Peri-concept	0	Full Term	yes	yes	both
+m88n704-s516	Mombasa	part_150	2	part_150_2	First trimes	0	Full Term	yes	yes	both
+m88n704-s517	Mombasa	part_150	3	part_150_3	First trimes	0	Full Term	yes	yes	both
+m88n704-s521	Mombasa	part_153	1	part_153_1	Peri-concept	0	Full Term	yes	yes	both
+m88n704-s522	Mombasa	part_153	2	part_153_2	First trimes	0	Full Term	yes	yes	both
+m88n705-s513	Mombasa	part_153	3	part_153_3	First trimes	0	Full Term	yes	yes	both
+m88n705-s516	Mombasa	part_108	1	part_108_1	Peri-concept	0	Full Term	yes	yes	both
+m88n705-s517	Mombasa	part_108	2	part_108_2	First trimes	0	Full Term	yes	yes	both
+m88n705-s518	Mombasa	part_108	3	part_108_3	First trimes	0	Full Term	yes	yes	both
+m88n710-s522	Nairobi	part_034	2	part_034_2	First trimes	0	Full Term	yes	yes	both
+m88n714-s522	Mombasa	part_102	1	part_102_1	Peri-concept	0	Full Term	yes	yes	both
+m88n715-s513	Mombasa	part_102	2	part_102_2	First trimes	0	Full Term	yes	yes	both
+m88n715-s515	Mombasa	part_102	3	part_102_3	First trimes	0	Full Term	yes	yes	both
+m88n716-s508	Nairobi	part_058	2	part_058_2	First trimes	0	Preterm or early term	yes	yes	both
+m88n718-s502	Nairobi	part_084	1	part_084_1	Peri-concept	0	Full Term	yes	yes	both
+m88n718-s503	Nairobi	part_084	2	part_084_2	First trimes	0	Full Term	yes	yes	both
+m88n718-s505	Nairobi	part_084	3	part_084_3	First trimes	0	Full Term	yes	yes	both
+m88n720-s506	Nairobi	part_156	3	part_156_3	First trimes	0	Full Term	yes	yes	both
+m88n722-s507	Nairobi	part_209	1	part_209_1	Peri-concept	0	Full Term	yes	yes	both
+m88n722-s508	Nairobi	part_209	2	part_209_2	First trimes	0	Full Term	yes	yes	both
+m88n722-s510	Nairobi	part_209	3	part_209_3	First trimes	0	Full Term	yes	yes	both
+m88n724-s507	Nairobi	part_080	1	part_080_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m88n724-s508	Nairobi	part_080	2	part_080_2	First trimes	0	Preterm or early term	yes	yes	both
+m88n724-s510	Nairobi	part_080	3	part_080_3	First trimes	0	Preterm or early term	yes	yes	both
+m88n726-s502	Nairobi	part_085	1	part_085_1	Peri-concept	0	Full Term	yes	yes	both
+m88n726-s503	Nairobi	part_085	2	part_085_2	Peri-concept	0	Full Term	yes	yes	both
+m88n726-s505	Nairobi	part_085	3	part_085_3	First trimes	0	Full Term	yes	yes	both
+m88n726-s508	Nairobi	part_202	1	part_202_1	Peri-concept	0	Full Term	yes	yes	both
+m88n726-s510	Nairobi	part_202	2	part_202_2	First trimes	0	Full Term	yes	yes	both
+m88n726-s511	Nairobi	part_202	3	part_202_3	First trimes	0	Full Term	yes	yes	both
+m88n727-s506	Nairobi	part_177	1	part_177_1	Peri-concept	0	Full Term	yes	yes	both
+m88n727-s507	Nairobi	part_177	2	part_177_2	First trimes	0	Full Term	yes	yes	both
+m88n727-s508	Nairobi	part_177	3	part_177_3	First trimes	0	Full Term	yes	yes	both
+m88n728-s502	Nairobi	part_003	1	part_003_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m88n728-s503	Nairobi	part_003	2	part_003_2	First trimes	0	Preterm or early term	yes	yes	both
+m88n728-s507	Nairobi	part_100	1	part_100_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m88n728-s508	Nairobi	part_100	2	part_100_2	First trimes	0	Preterm or early term	yes	yes	both
+m88n728-s510	Nairobi	part_100	3	part_100_3	First trimes	0	Preterm or early term	yes	yes	both
+m89n701-s515	Nairobi	part_013	1	part_013_1	Peri-concept	0	Full Term	yes	yes	both
+m89n701-s516	Nairobi	part_013	2	part_013_2	First trimes	0	Full Term	yes	yes	both
+m89n701-s517	Nairobi	part_013	3	part_013_3	First trimes	0	Full Term	yes	yes	both
+m89n701-s520	Nairobi	part_069	1	part_069_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m89n701-s521	Nairobi	part_069	2	part_069_2	First trimes	0	Preterm or early term	yes	yes	both
+m89n702-s515	Nairobi	part_136	1	part_136_1	Peri-concept	0	Full Term	yes	yes	both
+m89n702-s516	Nairobi	part_136	2	part_136_2	First trimes	0	Full Term	yes	yes	both
+m89n702-s517	Nairobi	part_136	3	part_136_3	First trimes	0	Full Term	yes	yes	both
+m89n702-s518	Nairobi	part_132	1	part_132_1	Peri-concept	0	Full Term	yes	yes	both
+m89n702-s520	Nairobi	part_132	2	part_132_2	First trimes	0	Full Term	yes	yes	both
+m89n702-s521	Nairobi	part_132	3	part_132_3	First trimes	0	Full Term	yes	yes	both
+m89n702-s522	Nairobi	part_181	1	part_181_1	Peri-concept	0	Full Term	yes	yes	both
+m89n703-s513	Nairobi	part_181	2	part_181_2	First trimes	0	Full Term	yes	yes	both
+m89n703-s515	Nairobi	part_181	3	part_181_3	First trimes	0	Full Term	yes	yes	both
+m89n704-s515	Mombasa	part_150	1	part_150_1	Peri-concept	0	Full Term	yes	yes	both
+m89n704-s516	Mombasa	part_150	2	part_150_2	First trimes	0	Full Term	yes	yes	both
+m89n704-s517	Mombasa	part_150	3	part_150_3	First trimes	0	Full Term	yes	yes	both
+m89n704-s521	Mombasa	part_153	1	part_153_1	Peri-concept	0	Full Term	yes	yes	both
+m89n704-s522	Mombasa	part_153	2	part_153_2	First trimes	0	Full Term	yes	yes	both
+m89n705-s513	Mombasa	part_153	3	part_153_3	First trimes	0	Full Term	yes	yes	both
+m89n705-s516	Mombasa	part_108	1	part_108_1	Peri-concept	0	Full Term	yes	yes	both
+m89n705-s517	Mombasa	part_108	2	part_108_2	First trimes	0	Full Term	yes	yes	both
+m89n705-s518	Mombasa	part_108	3	part_108_3	First trimes	0	Full Term	yes	yes	both
+m89n710-s522	Nairobi	part_034	2	part_034_2	First trimes	0	Full Term	yes	yes	both
+m89n714-s522	Mombasa	part_102	1	part_102_1	Peri-concept	0	Full Term	yes	yes	both
+m89n715-s513	Mombasa	part_102	2	part_102_2	First trimes	0	Full Term	yes	yes	both
+m89n715-s515	Mombasa	part_102	3	part_102_3	First trimes	0	Full Term	yes	yes	both
+m89n716-s508	Nairobi	part_058	2	part_058_2	First trimes	0	Preterm or early term	yes	yes	both
+m89n718-s502	Nairobi	part_084	1	part_084_1	Peri-concept	0	Full Term	yes	yes	both
+m89n718-s503	Nairobi	part_084	2	part_084_2	First trimes	0	Full Term	yes	yes	both
+m89n718-s505	Nairobi	part_084	3	part_084_3	First trimes	0	Full Term	yes	yes	both
+m89n720-s506	Nairobi	part_156	3	part_156_3	First trimes	0	Full Term	yes	yes	both
+m89n722-s507	Nairobi	part_209	1	part_209_1	Peri-concept	0	Full Term	yes	yes	both
+m89n722-s508	Nairobi	part_209	2	part_209_2	First trimes	0	Full Term	yes	yes	both
+m89n722-s510	Nairobi	part_209	3	part_209_3	First trimes	0	Full Term	yes	yes	both
+m89n724-s507	Nairobi	part_080	1	part_080_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m89n724-s508	Nairobi	part_080	2	part_080_2	First trimes	0	Preterm or early term	yes	yes	both
+m89n724-s510	Nairobi	part_080	3	part_080_3	First trimes	0	Preterm or early term	yes	yes	both
+m89n726-s502	Nairobi	part_085	1	part_085_1	Peri-concept	0	Full Term	yes	yes	both
+m89n726-s503	Nairobi	part_085	2	part_085_2	Peri-concept	0	Full Term	yes	yes	both
+m89n726-s505	Nairobi	part_085	3	part_085_3	First trimes	0	Full Term	yes	yes	both
+m89n726-s508	Nairobi	part_202	1	part_202_1	Peri-concept	0	Full Term	yes	yes	both
+m89n726-s510	Nairobi	part_202	2	part_202_2	First trimes	0	Full Term	yes	yes	both
+m89n726-s511	Nairobi	part_202	3	part_202_3	First trimes	0	Full Term	yes	yes	both
+m89n727-s506	Nairobi	part_177	1	part_177_1	Peri-concept	0	Full Term	yes	yes	both
+m89n727-s507	Nairobi	part_177	2	part_177_2	First trimes	0	Full Term	yes	yes	both
+m89n727-s508	Nairobi	part_177	3	part_177_3	First trimes	0	Full Term	yes	yes	both
+m89n728-s502	Nairobi	part_003	1	part_003_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m89n728-s503	Nairobi	part_003	2	part_003_2	First trimes	0	Preterm or early term	yes	yes	both
+m89n728-s507	Nairobi	part_100	1	part_100_1	Peri-concept	0	Preterm or early term	yes	yes	both
+m89n728-s508	Nairobi	part_100	2	part_100_2	First trimes	0	Preterm or early term	yes	yes	both
+m89n728-s510	Nairobi	part_100	3	part_100_3	First trimes	0	Preterm or early term	yes	yes	both
+m88n716-s518	Nairobi	part_055	4	part_055_4	Peri-concept		Preterm or early term		yes	PTB
+m88n716-s520	Nairobi	part_055	5	part_055_5	First trimes		Preterm or early term		yes	PTB
+m88n716-s521	Nairobi	part_055	6	part_055_6	First trimes		Preterm or early term		yes	PTB
+m88n718-s513	Nairobi	part_158	3	part_158_3	Peri-concept		Preterm or early term		yes	PTB
+m88n718-s515	Nairobi	part_158	4	part_158_4	First trimes		Preterm or early term		yes	PTB
+m88n718-s516	Nairobi	part_158	5	part_158_5	First trimes		Preterm or early term		yes	PTB
+m88n718-s518	Nairobi	part_026	1	part_026_1	Peri-concept		Preterm or early term		yes	PTB
+m88n718-s520	Nairobi	part_026	2	part_026_2	First trimes		Preterm or early term		yes	PTB
+m88n718-s521	Nairobi	part_026	3	part_026_3	First trimes		Preterm or early term		yes	PTB
+m88n718-s522	Mombasa	part_218	1	part_218_1	Peri-concept		Full Term		yes	PTB
+m88n719-s513	Mombasa	part_218	2	part_218_2	First trimes		Full Term		yes	PTB
+m88n719-s515	Mombasa	part_218	3	part_218_3	First trimes		Full Term		yes	PTB
+m88n719-s517	Mombasa	part_161	1	part_161_1	Peri-concept		Preterm or early term		yes	PTB
+m88n719-s518	Mombasa	part_161	2	part_161_2	First trimes		Preterm or early term		yes	PTB
+m88n720-s513	Nairobi	part_223	1	part_223_1	Peri-concept		Preterm or early term		yes	PTB
+m88n720-s515	Nairobi	part_223	2	part_223_2	First trimes		Preterm or early term		yes	PTB
+m88n720-s516	Nairobi	part_223	3	part_223_3	First trimes		Preterm or early term		yes	PTB
+m88n720-s520	Nairobi	part_039	1	part_039_1	Peri-concept		Preterm or early term		yes	PTB
+m88n720-s521	Nairobi	part_039	2	part_039_2	First trimes		Preterm or early term		yes	PTB
+m88n720-s522	Nairobi	part_048	1	part_048_1	Peri-concept		Full Term		yes	PTB
+m88n721-s513	Nairobi	part_048	2	part_048_2	First trimes		Full Term		yes	PTB
+m88n721-s515	Nairobi	part_017	1	part_017_1	Peri-concept		Preterm or early term		yes	PTB
+m88n721-s516	Nairobi	part_017	2	part_017_2	First trimes		Preterm or early term		yes	PTB
+m88n721-s517	Nairobi	part_017	3	part_017_3	First trimes		Preterm or early term		yes	PTB
+m88n721-s520	Nairobi	part_096	1	part_096_1	Peri-concept		Full Term		yes	PTB
+m88n721-s522	Nairobi	part_050	1	part_050_1	Peri-concept		Preterm or early term		yes	PTB
+m88n722-s513	Nairobi	part_050	2	part_050_2	First trimes		Preterm or early term		yes	PTB
+m88n722-s515	Nairobi	part_082	1	part_082_1	Peri-concept		Full Term		yes	PTB
+m88n722-s516	Nairobi	part_082	2	part_082_2	First trimes		Full Term		yes	PTB
+m88n722-s517	Nairobi	part_082	3	part_082_3	First trimes		Full Term		yes	PTB
+m88n722-s518	Nairobi	part_134	1	part_134_1	Peri-concept		Full Term		yes	PTB
+m88n722-s520	Nairobi	part_134	2	part_134_2	First trimes		Full Term		yes	PTB
+m88n722-s521	Nairobi	part_134	3	part_134_3	First trimes		Full Term		yes	PTB
+m88n723-s515	Nairobi	part_038	1	part_038_1	Peri-concept		Full Term		yes	PTB
+m88n723-s516	Nairobi	part_038	2	part_038_2	First trimes		Full Term		yes	PTB
+m88n723-s517	Nairobi	part_038	3	part_038_3	First trimes		Full Term		yes	PTB
+m88n723-s520	Nairobi	part_127	1	part_127_1	Peri-concept		Preterm or early term		yes	PTB
+m88n723-s521	Nairobi	part_183	1	part_183_1	Peri-concept		Preterm or early term		yes	PTB
+m88n723-s522	Nairobi	part_183	2	part_183_2	First trimes		Preterm or early term		yes	PTB
+m88n724-s513	Nairobi	part_119	1	part_119_1	Peri-concept		Full Term		yes	PTB
+m88n724-s515	Nairobi	part_119	2	part_119_2	First trimes		Full Term		yes	PTB
+m88n724-s516	Nairobi	part_144	1	part_144_1	Peri-concept		Full Term		yes	PTB
+m88n724-s517	Nairobi	part_144	2	part_144_2	First trimes		Full Term		yes	PTB
+m88n724-s518	Nairobi	part_037	1	part_037_1	Peri-concept		Full Term		yes	PTB
+m88n724-s520	Nairobi	part_037	2	part_037_2	First trimes		Full Term		yes	PTB
+m88n724-s521	Nairobi	part_146	1	part_146_1	Peri-concept		Preterm or early term		yes	PTB
+m88n724-s522	Nairobi	part_204	1	part_204_1	Peri-concept		Full Term		yes	PTB
+m88n726-s513	Nairobi	part_204	2	part_204_2	First trimes		Full Term		yes	PTB
+m88n726-s515	Nairobi	part_021	1	part_021_1	Peri-concept		Preterm or early term		yes	PTB
+m88n726-s518	Mombasa	part_077	1	part_077_1	Peri-concept		Full Term		yes	PTB
+m88n726-s520	Mombasa	part_077	2	part_077_2	First trimes		Full Term		yes	PTB
+m88n726-s521	Mombasa	part_077	3	part_077_3	First trimes		Full Term		yes	PTB
+m88n727-s513	Mombasa	part_147	1	part_147_1	Peri-concept		Full Term		yes	PTB
+m88n727-s515	Mombasa	part_147	2	part_147_2	First trimes		Full Term		yes	PTB
+m88n727-s516	Mombasa	part_147	3	part_147_3	First trimes		Full Term		yes	PTB
+m88n727-s520	Mombasa	part_079	1	part_079_1	Peri-concept		Preterm or early term		yes	PTB
+m88n727-s521	Mombasa	part_079	2	part_079_2	First trimes		Preterm or early term		yes	PTB
+m88n727-s522	Mombasa	part_079	3	part_079_3	First trimes		Preterm or early term		yes	PTB
+m88n728-s513	Mombasa	part_169	1	part_169_1	Peri-concept		Preterm or early term		yes	PTB
+m88n728-s515	Mombasa	part_169	2	part_169_2	First trimes		Preterm or early term		yes	PTB
+m88n728-s516	Mombasa	part_169	3	part_169_3	First trimes		Preterm or early term		yes	PTB
+m88n728-s518	Mombasa	part_167	1	part_167_1	Peri-concept		Full Term		yes	PTB
+m88n728-s520	Mombasa	part_167	2	part_167_2	First trimes		Full Term		yes	PTB
+m88n728-s521	Mombasa	part_167	3	part_167_3	First trimes		Full Term		yes	PTB
+m88n729-s513	Mombasa	part_201	1	part_201_1	Peri-concept		Preterm or early term		yes	PTB
+m89n716-s518	Nairobi	part_055	4	part_055_4	Peri-concept		Preterm or early term		yes	PTB
+m89n716-s520	Nairobi	part_055	5	part_055_5	First trimes		Preterm or early term		yes	PTB
+m89n716-s521	Nairobi	part_055	6	part_055_6	First trimes		Preterm or early term		yes	PTB
+m89n718-s513	Nairobi	part_158	3	part_158_3	Peri-concept		Preterm or early term		yes	PTB
+m89n718-s515	Nairobi	part_158	4	part_158_4	First trimes		Preterm or early term		yes	PTB
+m89n718-s516	Nairobi	part_158	5	part_158_5	First trimes		Preterm or early term		yes	PTB
+m89n718-s518	Nairobi	part_026	1	part_026_1	Peri-concept		Preterm or early term		yes	PTB
+m89n718-s520	Nairobi	part_026	2	part_026_2	First trimes		Preterm or early term		yes	PTB
+m89n718-s521	Nairobi	part_026	3	part_026_3	First trimes		Preterm or early term		yes	PTB
+m89n718-s522	Mombasa	part_218	1	part_218_1	Peri-concept		Full Term		yes	PTB
+m89n719-s513	Mombasa	part_218	2	part_218_2	First trimes		Full Term		yes	PTB
+m89n719-s515	Mombasa	part_218	3	part_218_3	First trimes		Full Term		yes	PTB
+m89n719-s517	Mombasa	part_161	1	part_161_1	Peri-concept		Preterm or early term		yes	PTB
+m89n719-s518	Mombasa	part_161	2	part_161_2	First trimes		Preterm or early term		yes	PTB
+m89n720-s513	Nairobi	part_223	1	part_223_1	Peri-concept		Preterm or early term		yes	PTB
+m89n720-s515	Nairobi	part_223	2	part_223_2	First trimes		Preterm or early term		yes	PTB
+m89n720-s516	Nairobi	part_223	3	part_223_3	First trimes		Preterm or early term		yes	PTB
+m89n720-s520	Nairobi	part_039	1	part_039_1	Peri-concept		Preterm or early term		yes	PTB
+m89n720-s521	Nairobi	part_039	2	part_039_2	First trimes		Preterm or early term		yes	PTB
+m89n720-s522	Nairobi	part_048	1	part_048_1	Peri-concept		Full Term		yes	PTB
+m89n721-s513	Nairobi	part_048	2	part_048_2	First trimes		Full Term		yes	PTB
+m89n721-s515	Nairobi	part_017	1	part_017_1	Peri-concept		Preterm or early term		yes	PTB
+m89n721-s516	Nairobi	part_017	2	part_017_2	First trimes		Preterm or early term		yes	PTB
+m89n721-s517	Nairobi	part_017	3	part_017_3	First trimes		Preterm or early term		yes	PTB
+m89n721-s520	Nairobi	part_096	1	part_096_1	Peri-concept		Full Term		yes	PTB
+m89n721-s522	Nairobi	part_050	1	part_050_1	Peri-concept		Preterm or early term		yes	PTB
+m89n722-s513	Nairobi	part_050	2	part_050_2	First trimes		Preterm or early term		yes	PTB
+m89n722-s515	Nairobi	part_082	1	part_082_1	Peri-concept		Full Term		yes	PTB
+m89n722-s516	Nairobi	part_082	2	part_082_2	First trimes		Full Term		yes	PTB
+m89n722-s517	Nairobi	part_082	3	part_082_3	First trimes		Full Term		yes	PTB
+m89n722-s518	Nairobi	part_134	1	part_134_1	Peri-concept		Full Term		yes	PTB
+m89n722-s520	Nairobi	part_134	2	part_134_2	First trimes		Full Term		yes	PTB
+m89n722-s521	Nairobi	part_134	3	part_134_3	First trimes		Full Term		yes	PTB
+m89n723-s515	Nairobi	part_038	1	part_038_1	Peri-concept		Full Term		yes	PTB
+m89n723-s516	Nairobi	part_038	2	part_038_2	First trimes		Full Term		yes	PTB
+m89n723-s517	Nairobi	part_038	3	part_038_3	First trimes		Full Term		yes	PTB
+m89n723-s520	Nairobi	part_127	1	part_127_1	Peri-concept		Preterm or early term		yes	PTB
+m89n723-s521	Nairobi	part_183	1	part_183_1	Peri-concept		Preterm or early term		yes	PTB
+m89n723-s522	Nairobi	part_183	2	part_183_2	First trimes		Preterm or early term		yes	PTB
+m89n724-s513	Nairobi	part_119	1	part_119_1	Peri-concept		Full Term		yes	PTB
+m89n724-s515	Nairobi	part_119	2	part_119_2	First trimes		Full Term		yes	PTB
+m89n724-s516	Nairobi	part_144	1	part_144_1	Peri-concept		Full Term		yes	PTB
+m89n724-s517	Nairobi	part_144	2	part_144_2	First trimes		Full Term		yes	PTB
+m89n724-s518	Nairobi	part_037	1	part_037_1	Peri-concept		Full Term		yes	PTB
+m89n724-s520	Nairobi	part_037	2	part_037_2	First trimes		Full Term		yes	PTB
+m89n724-s521	Nairobi	part_146	1	part_146_1	Peri-concept		Preterm or early term		yes	PTB
+m89n724-s522	Nairobi	part_204	1	part_204_1	Peri-concept		Full Term		yes	PTB
+m89n726-s513	Nairobi	part_204	2	part_204_2	First trimes		Full Term		yes	PTB
+m89n726-s515	Nairobi	part_021	1	part_021_1	Peri-concept		Preterm or early term		yes	PTB
+m89n726-s518	Mombasa	part_077	1	part_077_1	Peri-concept		Full Term		yes	PTB
+m89n726-s520	Mombasa	part_077	2	part_077_2	First trimes		Full Term		yes	PTB
+m89n726-s521	Mombasa	part_077	3	part_077_3	First trimes		Full Term		yes	PTB
+m89n727-s513	Mombasa	part_147	1	part_147_1	Peri-concept		Full Term		yes	PTB
+m89n727-s515	Mombasa	part_147	2	part_147_2	First trimes		Full Term		yes	PTB
+m89n727-s516	Mombasa	part_147	3	part_147_3	First trimes		Full Term		yes	PTB
+m89n727-s520	Mombasa	part_079	1	part_079_1	Peri-concept		Preterm or early term		yes	PTB
+m89n727-s521	Mombasa	part_079	2	part_079_2	First trimes		Preterm or early term		yes	PTB
+m89n727-s522	Mombasa	part_079	3	part_079_3	First trimes		Preterm or early term		yes	PTB
+m89n728-s513	Mombasa	part_169	1	part_169_1	Peri-concept		Preterm or early term		yes	PTB
+m89n728-s515	Mombasa	part_169	2	part_169_2	First trimes		Preterm or early term		yes	PTB
+m89n728-s516	Mombasa	part_169	3	part_169_3	First trimes		Preterm or early term		yes	PTB
+m89n728-s518	Mombasa	part_167	1	part_167_1	Peri-concept		Full Term		yes	PTB
+m89n728-s520	Mombasa	part_167	2	part_167_2	First trimes		Full Term		yes	PTB
+m89n728-s521	Mombasa	part_167	3	part_167_3	First trimes		Full Term		yes	PTB
+m89n729-s513	Mombasa	part_201	1	part_201_1	Peri-concept		Preterm or early term		yes	PTB
+m82n701-s515	Nairobi	part_217	1	part_217_1	Peri-concept	1		yes		miscarriage
+m82n701-s516	Nairobi	part_217	2	part_217_2	First trimes	1		yes		miscarriage
+m82n701-s517	Nairobi	part_105	1	part_105_1	Peri-concept	0		yes		miscarriage
+m82n701-s518	Nairobi	part_105	2	part_105_2	First trimes	0		yes		miscarriage
+m82n701-s521	Nairobi	part_105	3	part_105_3	First trimes	0		yes		miscarriage
+m82n701-s522	Nairobi	part_004	1	part_004_1	Peri-concept	0		yes		miscarriage
+m82n702-s515	Nairobi	part_004	2	part_004_2	First trimes	0		yes		miscarriage
+m82n702-s516	Nairobi	part_004	3	part_004_3	First trimes	0		yes		miscarriage
+m82n702-s517	Nairobi	part_049	1	part_049_1	Peri-concept	0		yes		miscarriage
+m82n702-s520	Nairobi	part_184	1	part_184_1	Peri-concept	1		yes		miscarriage
+m82n702-s522	Nairobi	part_184	2	part_184_2	First trimes	1		yes		miscarriage
+m82n703-s513	Nairobi	part_197	1	part_197_1	Peri-concept	0		yes		miscarriage
+m82n703-s516	Nairobi	part_197	2	part_197_2	Peri-concept	0		yes		miscarriage
+m82n703-s517	Nairobi	part_197	3	part_197_3	First trimes	0		yes		miscarriage
+m82n703-s518	Nairobi	part_098	1	part_098_1	Peri-concept	0		yes		miscarriage
+m82n703-s520	Nairobi	part_098	2	part_098_2	First trimes	0		yes		miscarriage
+m82n703-s521	Nairobi	part_098	3	part_098_3	First trimes	0		yes		miscarriage
+m82n703-s522	Nairobi	part_061	1	part_061_1	Peri-concept	0		yes		miscarriage
+m82n704-s513	Nairobi	part_061	2	part_061_2	First trimes	0		yes		miscarriage
+m82n704-s515	Nairobi	part_061	3	part_061_3	First trimes	0		yes		miscarriage
+m82n704-s516	Nairobi	part_148	1	part_148_1	Peri-concept	1		yes		miscarriage
+m82n704-s518	Nairobi	part_148	2	part_148_2	First trimes	1		yes		miscarriage
+m82n704-s520	Nairobi	part_117	1	part_117_1	Peri-concept	1		yes		miscarriage
+m82n704-s521	Nairobi	part_117	2	part_117_2	First trimes	1		yes		miscarriage
+m82n704-s522	Nairobi	part_076	1	part_076_1	Peri-concept	0		yes		miscarriage
+m82n705-s513	Nairobi	part_076	2	part_076_2	Peri-concept	0		yes		miscarriage
+m82n705-s515	Nairobi	part_076	3	part_076_3	First trimes	0		yes		miscarriage
+m82n705-s518	Nairobi	part_187	1	part_187_1	Peri-concept	0		yes		miscarriage
+m82n705-s521	Nairobi	part_187	2	part_187_2	First trimes	0		yes		miscarriage
+m82n705-s522	Nairobi	part_187	3	part_187_3	First trimes	0		yes		miscarriage
+m82n707-s513	Nairobi	part_009	1	part_009_1	Peri-concept	0		yes		miscarriage
+m82n707-s515	Nairobi	part_009	2	part_009_2	First trimes	0		yes		miscarriage
+m82n707-s516	Nairobi	part_009	3	part_009_3	First trimes	0		yes		miscarriage
+m82n710-s517	Nairobi	part_182	1	part_182_1	Peri-concept	0		yes		miscarriage
+m82n710-s518	Nairobi	part_182	2	part_182_2	First trimes	0		yes		miscarriage
+m82n710-s520	Nairobi	part_182	3	part_182_3	First trimes	0		yes		miscarriage
+m82n710-s521	Nairobi	part_122	1	part_122_1	Peri-concept	0		yes		miscarriage
+m82n710-s522	Nairobi	part_122	2	part_122_2	First trimes	0		yes		miscarriage
+m82n711-s515	Nairobi	part_122	3	part_122_3	First trimes	0		yes		miscarriage
+m82n711-s516	Nairobi	part_151	1	part_151_1	Peri-concept	0		yes		miscarriage
+m82n711-s517	Nairobi	part_151	2	part_151_2	First trimes	0		yes		miscarriage
+m82n711-s518	Nairobi	part_151	3	part_151_3	First trimes	0		yes		miscarriage
+m82n711-s520	Nairobi	part_200	1	part_200_1	Peri-concept	1		yes		miscarriage
+m82n711-s522	Nairobi	part_200	2	part_200_2	First trimes	1		yes		miscarriage
+m82n712-s507	Nairobi	part_195	1	part_195_1	Peri-concept	0		yes		miscarriage
+m82n712-s508	Nairobi	part_195	2	part_195_2	First trimes	0		yes		miscarriage
+m82n712-s510	Nairobi	part_195	3	part_195_3	First trimes	0		yes		miscarriage
+m82n712-s511	Nairobi	part_125	1	part_125_1	Peri-concept	0		yes		miscarriage
+m82n712-s513	Nairobi	part_200	3	part_200_3	First trimes	1		yes		miscarriage
+m82n712-s520	Nairobi	part_168	1	part_168_1	Peri-concept	1		yes		miscarriage
+m82n712-s521	Nairobi	part_168	2	part_168_2	First trimes	1		yes		miscarriage
+m82n714-s502	Nairobi	part_125	2	part_125_2	First trimes	0		yes		miscarriage
+m82n714-s503	Nairobi	part_125	3	part_125_3	First trimes	0		yes		miscarriage
+m82n714-s505	Nairobi	part_111	1	part_111_1	Peri-concept	0		yes		miscarriage
+m82n714-s506	Nairobi	part_111	2	part_111_2	First trimes	0		yes		miscarriage
+m82n714-s507	Nairobi	part_192	1	part_192_1	Peri-concept	0		yes		miscarriage
+m82n714-s508	Nairobi	part_192	2	part_192_2	First trimes	0		yes		miscarriage
+m82n714-s510	Nairobi	part_192	3	part_192_3	First trimes	0		yes		miscarriage
+m82n714-s518	Nairobi	part_164	1	part_164_1	Peri-concept	0		yes		miscarriage
+m82n714-s520	Nairobi	part_164	2	part_164_2	First trimes	0		yes		miscarriage
+m82n714-s521	Nairobi	part_164	3	part_164_3	First trimes	0		yes		miscarriage
+m82n715-s508	Nairobi	part_031	1	part_031_1	Peri-concept	0		yes		miscarriage
+m82n715-s510	Nairobi	part_031	2	part_031_2	First trimes	0		yes		miscarriage
+m82n715-s511	Nairobi	part_031	3	part_031_3	First trimes	0		yes		miscarriage
+m82n715-s513	Nairobi	part_220	1	part_220_1	Peri-concept	0		yes		miscarriage
+m82n715-s516	Nairobi	part_220	2	part_220_2	First trimes	0		yes		miscarriage
+m82n715-s517	Nairobi	part_220	3	part_220_3	First trimes	0		yes		miscarriage
+m82n715-s518	Nairobi	part_062	1	part_062_1	Peri-concept	0		yes		miscarriage
+m82n715-s520	Nairobi	part_062	2	part_062_2	Peri-concept	0		yes		miscarriage
+m82n715-s521	Nairobi	part_062	3	part_062_3	First trimes	0		yes		miscarriage
+m82n716-s503	Nairobi	part_001	1	part_001_1	Peri-concept	0		yes		miscarriage
+m82n716-s505	Nairobi	part_001	2	part_001_2	First trimes	0		yes		miscarriage
+m82n716-s506	Nairobi	part_001	3	part_001_3	First trimes	0		yes		miscarriage
+m82n718-s507	Nairobi	part_219	1	part_219_1	Peri-concept	1		yes		miscarriage
+m82n718-s508	Nairobi	part_219	2	part_219_2	Peri-concept	1		yes		miscarriage
+m82n718-s511	Nairobi	part_139	2	part_139_2	First trimes	1		yes		miscarriage
+m82n719-s502	Nairobi	part_194	1	part_194_1	Peri-concept	1		yes		miscarriage
+m82n719-s505	Nairobi	part_194	2	part_194_2	First trimes	1		yes		miscarriage
+m82n719-s506	Nairobi	part_162	1	part_162_1	Peri-concept	0		yes		miscarriage
+m82n719-s507	Nairobi	part_162	2	part_162_2	First trimes	0		yes		miscarriage
+m82n719-s508	Nairobi	part_162	3	part_162_3	First trimes	0		yes		miscarriage
+m82n719-s510	Nairobi	part_203	1	part_203_1	Peri-concept	1		yes		miscarriage
+m82n719-s511	Nairobi	part_203	2	part_203_2	First trimes	1		yes		miscarriage
+m82n721-s507	Nairobi	part_176	1	part_176_1	Peri-concept	0		yes		miscarriage
+m82n722-s506	Nairobi	part_116	1	part_116_1	Peri-concept	0		yes		miscarriage
+m82n722-s507	Nairobi	part_116	2	part_116_2	First trimes	0		yes		miscarriage
+m82n722-s508	Nairobi	part_116	3	part_116_3	First trimes	0		yes		miscarriage
+m82n722-s510	Nairobi	part_226	1	part_226_1	Peri-concept	0		yes		miscarriage
+m82n723-s502	Nairobi	part_226	2	part_226_2	First trimes	0		yes		miscarriage
+m82n723-s503	Nairobi	part_226	3	part_226_3	First trimes	0		yes		miscarriage
+m82n723-s510	Nairobi	part_208	1	part_208_1	Peri-concept	0		yes		miscarriage
+m82n723-s511	Nairobi	part_208	2	part_208_2	First trimes	0		yes		miscarriage
+m82n724-s502	Nairobi	part_208	3	part_208_3	First trimes	0		yes		miscarriage
+m82n724-s508	Nairobi	part_196	1	part_196_1	Peri-concept	0		yes		miscarriage
+m82n724-s510	Nairobi	part_196	2	part_196_2	Peri-concept	0		yes		miscarriage
+m82n724-s511	Nairobi	part_196	3	part_196_3	First trimes	0		yes		miscarriage
+m82n726-s503	Nairobi	part_121	1	part_121_1	Peri-concept	0		yes		miscarriage
+m82n726-s505	Nairobi	part_121	2	part_121_2	Peri-concept	0		yes		miscarriage
+m82n726-s506	Nairobi	part_121	3	part_121_3	First trimes	0		yes		miscarriage
+m82n727-s507	Nairobi	part_005	1	part_005_1	Peri-concept	0		yes		miscarriage
+m82n727-s508	Nairobi	part_005	2	part_005_2	First trimes	0		yes		miscarriage
+m82n727-s510	Nairobi	part_005	3	part_005_3	First trimes	0		yes		miscarriage
+m82n727-s511	Nairobi	part_211	1	part_211_1	Peri-concept	0		yes		miscarriage
+m82n728-s502	Nairobi	part_211	2	part_211_2	First trimes	0		yes		miscarriage
+m82n728-s503	Nairobi	part_211	3	part_211_3	First trimes	0		yes		miscarriage
+m82n728-s505	Nairobi	part_092	1	part_092_1	Peri-concept	1		yes		miscarriage
+m82n728-s506	Nairobi	part_092	2	part_092_2	First trimes	1		yes		miscarriage
+m82n728-s507	Nairobi	part_170	1	part_170_1	Peri-concept	1		yes		miscarriage
+m82n728-s508	Nairobi	part_170	2	part_170_2	Peri-concept	1		yes		miscarriage
+m82n728-s510	Nairobi	part_157	1	part_157_1	Peri-concept	1		yes		miscarriage
+m82n729-s502	Nairobi	part_157	2	part_157_2	First trimes	1		yes		miscarriage
+m82n729-s505	Nairobi	part_126	1	part_126_1	Peri-concept	0		yes		miscarriage
+m82n729-s506	Nairobi	part_126	2	part_126_2	First trimes	0		yes		miscarriage
+m82n729-s507	Nairobi	part_126	3	part_126_3	First trimes	0		yes		miscarriage
+m83n701-s517	Nairobi	part_143	1	part_143_1	Peri-concept	0		yes		miscarriage
+m83n701-s518	Nairobi	part_143	2	part_143_2	First trimes	0		yes		miscarriage
+m83n701-s520	Nairobi	part_143	3	part_143_3	First trimes	0		yes		miscarriage
+m83n702-s520	Nairobi	part_189	1	part_189_1	Peri-concept	1		yes		miscarriage
+m83n702-s522	Nairobi	part_189	2	part_189_2	First trimes	1		yes		miscarriage
+m83n703-s516	Nairobi	part_173	1	part_173_1	Peri-concept	0		yes		miscarriage
+m83n703-s517	Nairobi	part_173	2	part_173_2	Peri-concept	0		yes		miscarriage
+m83n703-s518	Nairobi	part_173	3	part_173_3	First trimes	0		yes		miscarriage
+m83n703-s520	Nairobi	part_155	1	part_155_1	Peri-concept	0		yes		miscarriage
+m83n703-s521	Nairobi	part_155	2	part_155_2	First trimes	0		yes		miscarriage
+m83n704-s518	Nairobi	part_022	1	part_022_1	Peri-concept	0		yes		miscarriage
+m83n704-s520	Nairobi	part_022	2	part_022_2	First trimes	0		yes		miscarriage
+m83n704-s522	Nairobi	part_199	1	part_199_1	Peri-concept	1		yes		miscarriage
+m83n705-s513	Nairobi	part_199	2	part_199_2	First trimes	1		yes		miscarriage
+m83n706-s513	Nairobi	part_068	1	part_068_1	Peri-concept	0		yes		miscarriage
+m83n706-s516	Nairobi	part_068	2	part_068_2	First trimes	0		yes		miscarriage
+m83n706-s517	Nairobi	part_068	3	part_068_3	First trimes	0		yes		miscarriage
+m83n707-s517	Nairobi	part_008	1	part_008_1	Peri-concept	1		yes		miscarriage
+m83n707-s520	Nairobi	part_008	2	part_008_2	First trimes	1		yes		miscarriage
+m83n707-s521	Nairobi	part_046	1	part_046_1	Peri-concept	0		yes		miscarriage
+m83n707-s522	Nairobi	part_046	2	part_046_2	First trimes	0		yes		miscarriage
+m83n710-s513	Nairobi	part_046	3	part_046_3	First trimes	0		yes		miscarriage
+m83n710-s520	Nairobi	part_140	1	part_140_1	Peri-concept	0		yes		miscarriage
+m83n710-s521	Nairobi	part_140	2	part_140_2	First trimes	0		yes		miscarriage
+m83n710-s522	Nairobi	part_140	3	part_140_3	First trimes	0		yes		miscarriage
+m83n712-s516	Nairobi	part_043	1	part_043_1	Peri-concept	1		yes		miscarriage
+m83n712-s518	Nairobi	part_043	2	part_043_2	First trimes	1		yes		miscarriage
+m83n712-s520	Nairobi	part_198	1	part_198_1	Peri-concept	0		yes		miscarriage
+m83n712-s521	Nairobi	part_198	2	part_198_2	First trimes	0		yes		miscarriage
+m83n712-s522	Nairobi	part_198	3	part_198_3	First trimes	0		yes		miscarriage
+m83n714-s513	Nairobi	part_036	1	part_036_1	Peri-concept	0		yes		miscarriage
+m83n714-s515	Nairobi	part_036	2	part_036_2	First trimes	0		yes		miscarriage
+m83n714-s516	Nairobi	part_036	3	part_036_3	First trimes	0		yes		miscarriage
+m83n714-s521	Nairobi	part_056	1	part_056_1	Peri-concept	1		yes		miscarriage
+m83n715-s513	Nairobi	part_056	2	part_056_2	First trimes	1		yes		miscarriage
+m83n715-s520	Nairobi	part_072	1	part_072_1	Peri-concept	1		yes		miscarriage
+m83n715-s521	Nairobi	part_072	2	part_072_2	First trimes	1		yes		miscarriage
+m83n716-s511	Nairobi	part_131	1	part_131_1	Peri-concept	0		yes		miscarriage
+m83n716-s515	Nairobi	part_015	1	part_015_1	First trimes	1		yes		miscarriage
+m83n716-s516	Nairobi	part_015	2	part_015_2	First trimes	1		yes		miscarriage
+m83n716-s521	Nairobi	part_214	1	part_214_1	Peri-concept	1		yes		miscarriage
+m83n716-s522	Nairobi	part_214	2	part_214_2	First trimes	1		yes		miscarriage
+m83n718-s503	Nairobi	part_131	2	part_131_2	First trimes	0		yes		miscarriage
+m83n718-s505	Nairobi	part_131	3	part_131_3	First trimes	0		yes		miscarriage
+m83n718-s511	Nairobi	part_221	1	part_221_1	Peri-concept	0		yes		miscarriage
+m83n718-s515	Nairobi	part_214	3	part_214_3	First trimes	1		yes		miscarriage
+m83n718-s516	Nairobi	part_087	1	part_087_1	Peri-concept	1		yes		miscarriage
+m83n718-s517	Nairobi	part_090	1	part_090_1	Peri-concept	1		yes		miscarriage
+m83n718-s518	Nairobi	part_027	1	part_027_1	Peri-concept	1		yes		miscarriage
+m83n718-s520	Nairobi	part_027	2	part_027_2	First trimes	1		yes		miscarriage
+m83n719-s502	Nairobi	part_221	2	part_221_2	First trimes	0		yes		miscarriage
+m83n719-s505	Nairobi	part_221	3	part_221_3	First trimes	0		yes		miscarriage
+m83n719-s506	Nairobi	part_055	1	part_055_1	Peri-concept	1		yes		miscarriage
+m83n719-s507	Nairobi	part_055	2	part_055_2	First trimes	1		yes		miscarriage
+m83n719-s508	Nairobi	part_055	3	part_055_3	First trimes	1		yes		miscarriage
+m83n719-s510	Nairobi	part_029	1	part_029_1	Peri-concept	1		yes		miscarriage
+m83n719-s511	Nairobi	part_029	2	part_029_2	First trimes	1		yes		miscarriage
+m83n719-s517	Mombasa	part_041	1	part_041_1	Peri-concept	0		yes		miscarriage
+m83n719-s518	Mombasa	part_041	2	part_041_2	First trimes	0		yes		miscarriage
+m83n719-s520	Mombasa	part_041	3	part_041_3	First trimes	0		yes		miscarriage
+m83n719-s521	Mombasa	part_193	1	part_193_1	Peri-concept	0		yes		miscarriage
+m83n719-s522	Mombasa	part_193	2	part_193_2	First trimes	0		yes		miscarriage
+m83n720-s502	Nairobi	part_029	3	part_029_3	First trimes	1		yes		miscarriage
+m83n720-s507	Nairobi	part_166	1	part_166_1	First trimes	0		yes		miscarriage
+m83n720-s508	Nairobi	part_166	2	part_166_2	First trimes	0		yes		miscarriage
+m83n720-s513	Mombasa	part_193	3	part_193_3	First trimes	0		yes		miscarriage
+m83n721-s505	Nairobi	part_225	1	part_225_1	Peri-concept	0		yes		miscarriage
+m83n721-s506	Nairobi	part_225	2	part_225_2	First trimes	0		yes		miscarriage
+m83n721-s507	Nairobi	part_225	3	part_225_3	First trimes	0		yes		miscarriage
+m83n721-s513	Mombasa	part_141	1	part_141_1	Peri-concept	0		yes		miscarriage
+m83n721-s515	Mombasa	part_141	2	part_141_2	First trimes	0		yes		miscarriage
+m83n721-s522	Mombasa	part_099	1	part_099_1	First trimes	1		yes		miscarriage
+m83n722-s505	Nairobi	part_115	1	part_115_1	Peri-concept	1		yes		miscarriage
+m83n722-s506	Nairobi	part_115	2	part_115_2	First trimes	1		yes		miscarriage
+m83n722-s513	Mombasa	part_099	2	part_099_2	First trimes	1		yes		miscarriage
+m83n723-s502	Nairobi	part_006	1	part_006_1	Peri-concept	0		yes		miscarriage
+m83n723-s503	Nairobi	part_006	2	part_006_2	First trimes	0		yes		miscarriage
+m83n723-s505	Nairobi	part_006	3	part_006_3	First trimes	0		yes		miscarriage
+m83n723-s506	Nairobi	part_149	1	part_149_1	Peri-concept	1		yes		miscarriage
+m83n723-s508	Nairobi	part_149	2	part_149_2	First trimes	1		yes		miscarriage
+m83n723-s510	Nairobi	part_088	1	part_088_1	Peri-concept	1		yes		miscarriage
+m83n723-s511	Nairobi	part_088	2	part_088_2	First trimes	1		yes		miscarriage
+m83n723-s515	Mombasa	part_024	1	part_024_1	Peri-concept	0		yes		miscarriage
+m83n723-s516	Mombasa	part_024	2	part_024_2	First trimes	0		yes		miscarriage
+m83n723-s517	Mombasa	part_024	3	part_024_3	First trimes	0		yes		miscarriage
+m83n724-s511	Nairobi	part_185	1	part_185_1	Peri-concept	0		yes		miscarriage
+m83n724-s513	Mombasa	part_030	1	part_030_1	Peri-concept	0		yes		miscarriage
+m83n726-s503	Nairobi	part_185	2	part_185_2	First trimes	0		yes		miscarriage
+m83n726-s505	Nairobi	part_185	3	part_185_3	First trimes	0		yes		miscarriage
+m83n726-s511	Nairobi	part_152	1	part_152_1	Peri-concept	0		yes		miscarriage
+m83n726-s516	Mombasa	part_042	1	part_042_1	Peri-concept	0		yes		miscarriage
+m83n726-s517	Mombasa	part_042	2	part_042_2	First trimes	0		yes		miscarriage
+m83n726-s518	Mombasa	part_042	3	part_042_3	First trimes	0		yes		miscarriage
+m83n726-s520	Mombasa	part_066	1	part_066_1	Peri-concept	0		yes		miscarriage
+m83n726-s522	Mombasa	part_066	2	part_066_2	First trimes	0		yes		miscarriage
+m83n727-s502	Nairobi	part_152	2	part_152_2	First trimes	0		yes		miscarriage
+m83n727-s503	Nairobi	part_152	3	part_152_3	First trimes	0		yes		miscarriage
+m83n727-s505	Nairobi	part_018	1	part_018_1	Peri-concept	0		yes		miscarriage
+m83n727-s507	Nairobi	part_018	2	part_018_2	First trimes	0		yes		miscarriage
+m83n727-s508	Nairobi	part_018	3	part_018_3	First trimes	0		yes		miscarriage
+m83n727-s513	Mombasa	part_066	3	part_066_3	First trimes	0		yes		miscarriage
+m83n727-s520	Mombasa	part_163	1	part_163_1	Peri-concept	0		yes		miscarriage
+m83n727-s521	Mombasa	part_163	2	part_163_2	First trimes	0		yes		miscarriage
+m83n727-s522	Mombasa	part_163	3	part_163_3	First trimes	0		yes		miscarriage
+m83n728-s503	Nairobi	part_224	1	part_224_1	Peri-concept	1		yes		miscarriage
+m83n728-s505	Nairobi	part_224	2	part_224_2	First trimes	1		yes		miscarriage
+m83n728-s506	Nairobi	part_107	1	part_107_1	Peri-concept	1		yes		miscarriage
+m83n728-s507	Nairobi	part_107	2	part_107_2	First trimes	1		yes		miscarriage
+m83n728-s508	Nairobi	part_158	1	part_158_1	Peri-concept	1		yes		miscarriage
+m83n728-s510	Nairobi	part_158	2	part_158_2	First trimes	1		yes		miscarriage
+m83n728-s521	Mombasa	part_020	1	part_020_1	Peri-concept	1		yes		miscarriage
+m83n729-s513	Mombasa	part_020	2	part_020_2	First trimes	1		yes		miscarriage
+m83n729-s516	Mombasa	part_054	1	part_054_1	Peri-concept	1		yes		miscarriage
+m83n729-s517	Mombasa	part_054	2	part_054_2	First trimes	1		yes		miscarriage
+m83n729-s518	Mombasa	part_133	1	part_133_1	Peri-concept	1		yes		miscarriage
+m83n729-s520	Mombasa	part_133	2	part_133_2	First trimes	1		yes		miscarriage
+m83n729-s521	Mombasa	part_133	3	part_133_3	First trimes	1		yes		miscarriage
+m88n705-s522	Mombasa	part_071	1	part_071_1	Peri-concept	0		yes		miscarriage
+m88n706-s513	Mombasa	part_071	2	part_071_2	First trimes	0		yes		miscarriage
+m88n706-s515	Mombasa	part_205	1	part_205_1	Peri-concept	0		yes		miscarriage
+m88n706-s516	Mombasa	part_205	2	part_205_2	First trimes	0		yes		miscarriage
+m88n706-s517	Mombasa	part_205	3	part_205_3	First trimes	0		yes		miscarriage
+m88n706-s518	Mombasa	part_180	1	part_180_1	First trimes	0		yes		miscarriage
+m88n706-s520	Mombasa	part_180	2	part_180_2	First trimes	0		yes		miscarriage
+m88n707-s516	Mombasa	part_171	1	part_171_1	First trimes	0		yes		miscarriage
+m88n707-s517	Mombasa	part_171	2	part_171_2	First trimes	0		yes		miscarriage
+m88n707-s518	Mombasa	part_171	3	part_171_3	First trimes	0		yes		miscarriage
+m88n707-s520	Mombasa	part_023	1	part_023_1	Peri-concept	1		yes		miscarriage
+m88n707-s521	Mombasa	part_023	2	part_023_2	First trimes	1		yes		miscarriage
+m88n707-s522	Mombasa	part_023	3	part_023_3	First trimes	1		yes		miscarriage
+m88n710-s513	Mombasa	part_104	1	part_104_1	Peri-concept	1		yes		miscarriage
+m88n710-s515	Mombasa	part_104	2	part_104_2	First trimes	1		yes		miscarriage
+m88n710-s516	Mombasa	part_104	3	part_104_3	First trimes	1		yes		miscarriage
+m88n710-s520	Nairobi	part_111	3	part_111_3	First trimes	0		yes		miscarriage
+m88n710-s521	Nairobi	part_139	1	part_139_1	Peri-concept	1		yes		miscarriage
+m88n711-s513	Nairobi	part_002	1	part_002_1	Peri-concept	0		yes		miscarriage
+m88n711-s515	Nairobi	part_002	2	part_002_2	First trimes	0		yes		miscarriage
+m88n711-s516	Nairobi	part_002	3	part_002_3	First trimes	0		yes		miscarriage
+m88n711-s517	Nairobi	part_188	1	part_188_1	Peri-concept	0		yes		miscarriage
+m88n711-s518	Nairobi	part_188	2	part_188_2	First trimes	0		yes		miscarriage
+m88n711-s520	Nairobi	part_188	3	part_188_3	First trimes	0		yes		miscarriage
+m88n711-s521	Nairobi	part_087	2	part_087_2	First trimes	1		yes		miscarriage
+m88n711-s522	Nairobi	part_090	2	part_090_2	First trimes	1		yes		miscarriage
+m88n712-s513	Nairobi	part_081	1	part_081_1	Peri-concept	1		yes		miscarriage
+m88n712-s515	Nairobi	part_081	2	part_081_2	First trimes	1		yes		miscarriage
+m88n712-s516	Nairobi	part_081	3	part_081_3	First trimes	1		yes		miscarriage
+m88n712-s517	Nairobi	part_142	1	part_142_1	Peri-concept	1		yes		miscarriage
+m88n712-s518	Nairobi	part_142	2	part_142_2	First trimes	1		yes		miscarriage
+m88n712-s520	Nairobi	part_012	1	part_012_1	Peri-concept	1		yes		miscarriage
+m88n712-s521	Nairobi	part_032	1	part_032_1	Peri-concept	1		yes		miscarriage
+m88n712-s522	Nairobi	part_032	2	part_032_2	First trimes	1		yes		miscarriage
+m88n714-s513	Nairobi	part_113	1	part_113_1	Peri-concept	1		yes		miscarriage
+m88n714-s515	Nairobi	part_215	1	part_215_1	Peri-concept	1		yes		miscarriage
+m88n714-s518	Mombasa	part_175	1	part_175_1	Peri-concept	0		yes		miscarriage
+m88n714-s520	Mombasa	part_175	2	part_175_2	First trimes	0		yes		miscarriage
+m88n714-s521	Mombasa	part_175	3	part_175_3	First trimes	0		yes		miscarriage
+m88n716-s515	Mombasa	part_019	1	part_019_1	Peri-concept	1		yes		miscarriage
+m88n716-s516	Mombasa	part_019	2	part_019_2	First trimes	1		yes		miscarriage
+m88n716-s517	Mombasa	part_019	3	part_019_3	First trimes	1		yes		miscarriage
+m88n719-s502	Nairobi	part_070	1	part_070_1	Peri-concept	0		yes		miscarriage
+m88n719-s503	Nairobi	part_070	2	part_070_2	First trimes	0		yes		miscarriage
+m88n719-s505	Nairobi	part_070	3	part_070_3	First trimes	0		yes		miscarriage
+m88n720-s502	Nairobi	part_033	1	part_033_1	Peri-concept	0		yes		miscarriage
+m88n720-s503	Nairobi	part_033	2	part_033_2	First trimes	0		yes		miscarriage
+m88n720-s505	Nairobi	part_033	3	part_033_3	First trimes	0		yes		miscarriage
+m88n720-s511	Nairobi	part_129	1	part_129_1	Peri-concept	0		yes		miscarriage
+m88n721-s502	Nairobi	part_129	2	part_129_2	First trimes	0		yes		miscarriage
+m88n721-s506	Nairobi	part_091	1	part_091_1	Peri-concept	0		yes		miscarriage
+m88n721-s507	Nairobi	part_091	2	part_091_2	First trimes	0		yes		miscarriage
+m88n721-s508	Nairobi	part_091	3	part_091_3	First trimes	0		yes		miscarriage
+m88n723-s503	Nairobi	part_095	1	part_095_1	Peri-concept	0		yes		miscarriage
+m88n723-s505	Nairobi	part_095	2	part_095_2	First trimes	0		yes		miscarriage
+m88n723-s506	Nairobi	part_095	3	part_095_3	First trimes	0		yes		miscarriage
+m88n723-s510	Nairobi	part_178	1	part_178_1	Peri-concept	0		yes		miscarriage
+m88n723-s511	Nairobi	part_178	2	part_178_2	First trimes	0		yes		miscarriage
+m88n724-s502	Nairobi	part_178	3	part_178_3	First trimes	0		yes		miscarriage
+m88n724-s503	Nairobi	part_097	1	part_097_1	Peri-concept	0		yes		miscarriage
+m88n724-s505	Nairobi	part_097	2	part_097_2	First trimes	0		yes		miscarriage
+m88n724-s506	Nairobi	part_097	3	part_097_3	First trimes	0		yes		miscarriage
+m88n727-s502	Nairobi	part_051	1	part_051_1	Peri-concept	0		yes		miscarriage
+m88n727-s503	Nairobi	part_051	2	part_051_2	First trimes	0		yes		miscarriage
+m88n727-s505	Nairobi	part_051	3	part_051_3	First trimes	0		yes		miscarriage
+m88n729-s502	Nairobi	part_103	1	part_103_1	Peri-concept	0		yes		miscarriage
+m88n729-s503	Nairobi	part_103	2	part_103_2	First trimes	0		yes		miscarriage
+m88n729-s505	Nairobi	part_103	3	part_103_3	First trimes	0		yes		miscarriage
+m89n705-s522	Mombasa	part_071	1	part_071_1	Peri-concept	0		yes		miscarriage
+m89n706-s513	Mombasa	part_071	2	part_071_2	First trimes	0		yes		miscarriage
+m89n706-s515	Mombasa	part_205	1	part_205_1	Peri-concept	0		yes		miscarriage
+m89n706-s516	Mombasa	part_205	2	part_205_2	First trimes	0		yes		miscarriage
+m89n706-s517	Mombasa	part_205	3	part_205_3	First trimes	0		yes		miscarriage
+m89n706-s518	Mombasa	part_180	1	part_180_1	First trimes	0		yes		miscarriage
+m89n706-s520	Mombasa	part_180	2	part_180_2	First trimes	0		yes		miscarriage
+m89n707-s516	Mombasa	part_171	1	part_171_1	First trimes	0		yes		miscarriage
+m89n707-s517	Mombasa	part_171	2	part_171_2	First trimes	0		yes		miscarriage
+m89n707-s518	Mombasa	part_171	3	part_171_3	First trimes	0		yes		miscarriage
+m89n707-s520	Mombasa	part_023	1	part_023_1	Peri-concept	1		yes		miscarriage
+m89n707-s521	Mombasa	part_023	2	part_023_2	First trimes	1		yes		miscarriage
+m89n707-s522	Mombasa	part_023	3	part_023_3	First trimes	1		yes		miscarriage
+m89n710-s513	Mombasa	part_104	1	part_104_1	Peri-concept	1		yes		miscarriage
+m89n710-s515	Mombasa	part_104	2	part_104_2	First trimes	1		yes		miscarriage
+m89n710-s516	Mombasa	part_104	3	part_104_3	First trimes	1		yes		miscarriage
+m89n710-s520	Nairobi	part_111	3	part_111_3	First trimes	0		yes		miscarriage
+m89n710-s521	Nairobi	part_139	1	part_139_1	Peri-concept	1		yes		miscarriage
+m89n711-s513	Nairobi	part_002	1	part_002_1	Peri-concept	0		yes		miscarriage
+m89n711-s515	Nairobi	part_002	2	part_002_2	First trimes	0		yes		miscarriage
+m89n711-s516	Nairobi	part_002	3	part_002_3	First trimes	0		yes		miscarriage
+m89n711-s517	Nairobi	part_188	1	part_188_1	Peri-concept	0		yes		miscarriage
+m89n711-s518	Nairobi	part_188	2	part_188_2	First trimes	0		yes		miscarriage
+m89n711-s520	Nairobi	part_188	3	part_188_3	First trimes	0		yes		miscarriage
+m89n711-s521	Nairobi	part_087	2	part_087_2	First trimes	1		yes		miscarriage
+m89n711-s522	Nairobi	part_090	2	part_090_2	First trimes	1		yes		miscarriage
+m89n712-s513	Nairobi	part_081	1	part_081_1	Peri-concept	1		yes		miscarriage
+m89n712-s515	Nairobi	part_081	2	part_081_2	First trimes	1		yes		miscarriage
+m89n712-s516	Nairobi	part_081	3	part_081_3	First trimes	1		yes		miscarriage
+m89n712-s517	Nairobi	part_142	1	part_142_1	Peri-concept	1		yes		miscarriage
+m89n712-s518	Nairobi	part_142	2	part_142_2	First trimes	1		yes		miscarriage
+m89n712-s520	Nairobi	part_012	1	part_012_1	Peri-concept	1		yes		miscarriage
+m89n712-s521	Nairobi	part_032	1	part_032_1	Peri-concept	1		yes		miscarriage
+m89n712-s522	Nairobi	part_032	2	part_032_2	First trimes	1		yes		miscarriage
+m89n714-s513	Nairobi	part_113	1	part_113_1	Peri-concept	1		yes		miscarriage
+m89n714-s515	Nairobi	part_215	1	part_215_1	Peri-concept	1		yes		miscarriage
+m89n714-s518	Mombasa	part_175	1	part_175_1	Peri-concept	0		yes		miscarriage
+m89n714-s520	Mombasa	part_175	2	part_175_2	First trimes	0		yes		miscarriage
+m89n714-s521	Mombasa	part_175	3	part_175_3	First trimes	0		yes		miscarriage
+m89n716-s515	Mombasa	part_019	1	part_019_1	Peri-concept	1		yes		miscarriage
+m89n716-s516	Mombasa	part_019	2	part_019_2	First trimes	1		yes		miscarriage
+m89n716-s517	Mombasa	part_019	3	part_019_3	First trimes	1		yes		miscarriage
+m89n719-s502	Nairobi	part_070	1	part_070_1	Peri-concept	0		yes		miscarriage
+m89n719-s503	Nairobi	part_070	2	part_070_2	First trimes	0		yes		miscarriage
+m89n719-s505	Nairobi	part_070	3	part_070_3	First trimes	0		yes		miscarriage
+m89n720-s502	Nairobi	part_033	1	part_033_1	Peri-concept	0		yes		miscarriage
+m89n720-s503	Nairobi	part_033	2	part_033_2	First trimes	0		yes		miscarriage
+m89n720-s505	Nairobi	part_033	3	part_033_3	First trimes	0		yes		miscarriage
+m89n720-s511	Nairobi	part_129	1	part_129_1	Peri-concept	0		yes		miscarriage
+m89n721-s502	Nairobi	part_129	2	part_129_2	First trimes	0		yes		miscarriage
+m89n721-s506	Nairobi	part_091	1	part_091_1	Peri-concept	0		yes		miscarriage
+m89n721-s507	Nairobi	part_091	2	part_091_2	First trimes	0		yes		miscarriage
+m89n721-s508	Nairobi	part_091	3	part_091_3	First trimes	0		yes		miscarriage
+m89n723-s503	Nairobi	part_095	1	part_095_1	Peri-concept	0		yes		miscarriage
+m89n723-s505	Nairobi	part_095	2	part_095_2	First trimes	0		yes		miscarriage
+m89n723-s506	Nairobi	part_095	3	part_095_3	First trimes	0		yes		miscarriage
+m89n723-s510	Nairobi	part_178	1	part_178_1	Peri-concept	0		yes		miscarriage
+m89n723-s511	Nairobi	part_178	2	part_178_2	First trimes	0		yes		miscarriage
+m89n724-s502	Nairobi	part_178	3	part_178_3	First trimes	0		yes		miscarriage
+m89n724-s503	Nairobi	part_097	1	part_097_1	Peri-concept	0		yes		miscarriage
+m89n724-s505	Nairobi	part_097	2	part_097_2	First trimes	0		yes		miscarriage
+m89n724-s506	Nairobi	part_097	3	part_097_3	First trimes	0		yes		miscarriage
+m89n727-s502	Nairobi	part_051	1	part_051_1	Peri-concept	0		yes		miscarriage
+m89n727-s503	Nairobi	part_051	2	part_051_2	First trimes	0		yes		miscarriage
+m89n727-s505	Nairobi	part_051	3	part_051_3	First trimes	0		yes		miscarriage
+m89n729-s502	Nairobi	part_103	1	part_103_1	Peri-concept	0		yes		miscarriage
+m89n729-s503	Nairobi	part_103	2	part_103_2	First trimes	0		yes		miscarriage
+m89n729-s505	Nairobi	part_103	3	part_103_3	First trimes	0		yes		miscarriage
