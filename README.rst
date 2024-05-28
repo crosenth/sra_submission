@@ -205,12 +205,14 @@ the parameters provided from NCBI as follows:
 The username, password and upload folder will change periodically so make sure
 to use the latest, correct parameter information.
 
-Finally
-=======
-When you get the specimen accessions create another column called
-'sequence_accession' in the data sheet (data/Gorgos_Sycuro_SDC_Table_S1.tsv) 
-and manually enter the sequence accessions.  Write an email to Sujatha
-giving her the updated data sheet with the specimen accessions and also she
-will need the project accession 
+Gather accessions
+=====================
+After everything has processed accession data can be acquired by going to the 
+SRA Run Selector::
+
+  https://trace.ncbi.nlm.nih.gov/Traces/study/
+
+Enter the Bioproject accession to retrieve the accessions.  Copy and paste the 
+Run, Biosample and Experiment accession columns to the original data sheet.
 
 Congratulations, you have completed the sra submission process!
