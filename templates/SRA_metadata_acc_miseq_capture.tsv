@@ -1,0 +1,2 @@
+bioproject_accession	biosample_accession	library_ID	title	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	design_description	filetype	filename	filename2	filename3	filename4	assembly	fasta_file
+			Baterial 16S rRNA enrichment and sequencing	WGS	METAGENOMIC	Hybrid Selection	paired	ILLUMINA	Illumina MiSeq	Hybirid selection of bacerial 16S rRNA gene	fastq						
