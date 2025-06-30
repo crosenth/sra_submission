@@ -198,7 +198,7 @@ Go ahead and upload the filled out form SRA `--out` file when asked for it.
 The last step in this process will have the ftp upload instructions.
 They will provide an ftp username, password and upload location.  You will also
 need to create a folder to upload the files to. Use the following script with 
-the parameters provided from NCBI as follows:
+the parameters provided from NCBI as follows::
 
   bin/ftp_put.py ftp-private.ncbi.nlm.nih.gov subftp w4pYB9VQ uploads/ngh2@uw.edu_u25A5oa4 LancetHIV_Kelleretal_2019 output/LancetHIV_Kelleretal_2019/fastq
 

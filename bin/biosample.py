@@ -34,6 +34,8 @@ def main(arguments):
         help=('biosample template file with one row '
               'filled out with required columns'))
     parser.add_argument('bioproject', help='bioproject accession')
+    parser.add_argument('--previous',
+        help='output biosamples that have already been submitted')
     parser.add_argument(
         '--max-rows',
         type=int,
@@ -45,6 +47,12 @@ def main(arguments):
         os.makedirs(args.outdir)
     except OSError:
         pass
+    if args.previous:
+        try:
+            prev = os.path.dirname(args.previous)
+            os.makedirs(prev)
+        except OSError:
+            pass
     identifiers = args.identifiers.split(',')
     datecols = []
     if 'collection_date' in identifiers:
@@ -80,16 +88,28 @@ def main(arguments):
     # cross reference with samples already submitted and check if annotations
     # need to be updated from previous submission
     submitted = []
-    for fl in glob.iglob('output/**/attributes*.tsv'):
-        submitted.append(pandas.read_csv(fl, sep='\t', dtype=str))
+    for fl in glob.iglob(os.path.join('output/**/attributes*.tsv')):
+        attr = pandas.read_csv(fl, sep='\t', dtype=str)
+        attr = attr[attr['sample_name'].isin(filled['*sample_name'])]
+        if not attr.empty:
+            dname = os.path.dirname(fl)
+            fls = [f for f in os.listdir(dname) if f.startswith('metadata-')]
+            if not fls:
+                raise FileNotFoundError('missing meta data in dir ' + dname)
+            fls = [os.path.join(dname, f) for f in fls]
+            for f in fls:
+                # may be more than one metadata if sub had > 1000 samples
+                submitted.append(pandas.read_csv(f, sep='\t', dtype=str))
     submitted = pandas.concat(submitted)
-    submitted = submitted[
-        submitted['sample_name'].isin(filled['*sample_name'])]
-    # TODO: add switch that will append existing annotation with
-    # latest Bioproject accession
+    submitted = submitted[submitted['library_ID'].isin(filled['*sample_name'])]
     if not submitted.empty:
-        print(submitted)
-        raise ValueError('samples already submitted')
+        if args.previous:
+            print('WARNING: Some biosamples were already submitted: ' + args.previous)
+            filled = filled[~filled['*sample_name'].isin(submitted['library_ID'])]
+            submitted.to_csv(args.previous, index=False, sep='\t')
+        else:
+            print(submitted)
+            raise ValueError('samples already submitted')
 
     if args.max_rows:
         for i, r in enumerate(range(0, len(filled), args.max_rows), start=1):

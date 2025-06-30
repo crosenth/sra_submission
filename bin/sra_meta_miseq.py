@@ -44,7 +44,7 @@ def main(arguments):
         usecols=['accession', 'sample_name'],
         sep='\t',
         dtype=str)
-    template = pandas.read_csv(args.template, sep='\t')
+    template = pandas.read_csv(args.template, sep='\t', dtype=str)
     template = pandas.concat([template] * len(attributes))
     template = template.reset_index(drop=True)
     cols = ['biosample_accession', 'library_ID']
