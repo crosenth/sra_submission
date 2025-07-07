@@ -212,7 +212,30 @@ SRA Run Selector::
 
   https://trace.ncbi.nlm.nih.gov/Traces/study/
 
-Enter the Bioproject accession to retrieve the accessions.  Copy and paste the 
-Run, Biosample and Experiment accession columns to the original data sheet.
+Enter the Bioproject accession to retrieve the accessions.
+
+Copy the metadata downloads with all the accession back into the output
+directory so they can be reused later for future Bioprojects if needed.
+
+Use the bin/finish.py script to aggregate accessions and merge them back 
+with the original sample data sheet.  The bin/finish.py script can take
+any number of input files withe accessions::
+
+  bin/finish.py --out output/Human_gut_Sample_submission_to_NCBI_20250617/Human_gut_Sample\ submission\ to\ NCBI_20250617.csv data/Human_gut_Sample\ submission\ to\ NCBI_20250617.tsv output/Human_gut_Sample_submission_to_NCBI_20250617/SraRunTable.csv output/Human_gut_Sample_submission_to_NCBI_20250617/PRJNA1281039.csv ...
+
+Accession columns may have various names.  The bin/finish.py script will convert column names to:
+
+accession
+study
+bioproject_accession
+biosample_accession
+experiment_accession
+library_ID
+
+See the bin/finish.py script source code to add any unknown accession 
+columns for conversion.
+
+Finally, copy and paste the run accession, study accession, biosample_accession and experiment_accession
+columns back to the original data sheet.
 
 Congratulations, you have completed the sra submission process!
