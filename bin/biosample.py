@@ -100,8 +100,11 @@ def main(arguments):
             for f in fls:
                 # may be more than one metadata if sub had > 1000 samples
                 submitted.append(pandas.read_csv(f, sep='\t', dtype=str))
-    submitted = pandas.concat(submitted)
-    submitted = submitted[submitted['library_ID'].isin(filled['*sample_name'])]
+    if submitted:
+        submitted = pandas.concat(submitted)
+        submitted = submitted[submitted['library_ID'].isin(filled['*sample_name'])]
+    else:
+        submitted = pandas.DataFrame()
     if not submitted.empty:
         if args.previous:
             print('WARNING: Some biosamples were already submitted: ' + args.previous)
