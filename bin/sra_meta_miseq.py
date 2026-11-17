@@ -55,7 +55,7 @@ def main(arguments):
         for i in template['library_ID'].values:
             plates.add(re.search(plate_pattern, i).group('plate'))
         plate_dirs = re.compile(
-            r'miseq-plate-(?:' + '|'.join(plates) + r')(?:-old)?$')
+            r'miseq-plate-(?:' + '|'.join(plates) + r')$')
         # single walk: index all fastq files keyed by library_ID
         fastq_index = {}
         libraries = set(template['library_ID'].values)
@@ -85,8 +85,6 @@ def main(arguments):
                 raise(e)
             r1_basename = os.path.basename(r1)
             r2_basename = os.path.basename(r2)
-            # print(r1_basename)
-            # print(r2_basename)
             os.symlink(os.path.abspath(r1), os.path.join(args.outdir, r1_basename))
             os.symlink(os.path.abspath(r2), os.path.join(args.outdir, r2_basename))
             template.loc[template['library_ID'] == i, 'filename'] = r1_basename
