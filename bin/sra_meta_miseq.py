@@ -58,7 +58,7 @@ def main(arguments):
             'Intensities',
             'BaseCalls',
             '{library}_*_R[12]*_001.fastq.gz')
-        plate_pattern = re.compile('^m(?P<plate>\d+)n')
+        plate_pattern = re.compile(r'^m(?P<plate>\d+)n')
         for i in template['library_ID'].values:
             plate = re.search(plate_pattern, i).group('plate')
             try:
