@@ -61,7 +61,7 @@ def main(arguments):
         libraries = set(template['library_ID'].values)
         expected = len(libraries) * 2
         found = 0
-        print(f'searching for {expected} fastq files...', file=sys.stderr)
+        print(f'searching for {expected} R1, R2 fastq files...', file=sys.stderr)
         for plate_dir in os.scandir(args.datadir):
             if not plate_dir.is_dir() or not plate_dirs.match(plate_dir.name):
                 continue
