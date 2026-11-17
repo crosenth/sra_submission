@@ -50,23 +50,37 @@ def main(arguments):
     cols = ['biosample_accession', 'library_ID']
     template[cols] = attributes
     if args.outdir:
-        file_pattern = os.path.join(
-            'miseq-plate-{plate}',
-            'run-files',
-            '**',
-            'Data',
-            'Intensities',
-            'BaseCalls',
-            '{library}_*_R[12]*_001.fastq.gz')
         plate_pattern = re.compile(r'^m(?P<plate>\d+)n')
+        plates = set()
         for i in template['library_ID'].values:
-            plate = re.search(plate_pattern, i).group('plate')
+            plates.add(re.search(plate_pattern, i).group('plate'))
+        plate_dirs = re.compile(
+            r'miseq-plate-(?:' + '|'.join(plates) + r')(?:-old)?$')
+        # single walk: index all fastq files keyed by library_ID
+        fastq_index = {}
+        libraries = set(template['library_ID'].values)
+        for plate_dir in os.scandir(args.datadir):
+            if not plate_dir.is_dir() or not plate_dirs.match(plate_dir.name):
+                continue
+            run_files = os.path.join(plate_dir.path, 'run-files')
+            if not os.path.isdir(run_files):
+                continue
+            for root, dirs, files in os.walk(run_files):
+                for f in files:
+                    if not (f.endswith('_001.fastq.gz')
+                            and re.search(r'_R[12]', f)):
+                        continue
+                    library = f.split('_')[0]
+                    if library in libraries:
+                        fastq_index.setdefault(library, []).append(
+                            os.path.join(root, f))
+        for i in template['library_ID'].values:
             try:
-                pth = pathlib.Path(args.datadir)
-                fqs = pth.glob(file_pattern.format(library=i, plate=plate))
-                r1, r2 = sorted(fqs)
+                r1, r2 = sorted(fastq_index[i])
+            except KeyError:
+                raise FileNotFoundError(f'no fastq files found for {i}')
             except ValueError as e:
-                print('error processin:' + i)
+                print('error processing: ' + i)
                 raise(e)
             r1_basename = os.path.basename(r1)
             r2_basename = os.path.basename(r2)
