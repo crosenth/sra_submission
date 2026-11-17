@@ -72,6 +72,7 @@ def main(arguments):
                         continue
                     library = f.split('_')[0]
                     if library in libraries:
+                        print(f, flush=True)
                         fastq_index.setdefault(library, []).append(
                             os.path.join(root, f))
         for i in template['library_ID'].values:
@@ -84,8 +85,8 @@ def main(arguments):
                 raise(e)
             r1_basename = os.path.basename(r1)
             r2_basename = os.path.basename(r2)
-            print(r1_basename)
-            print(r2_basename)
+            # print(r1_basename)
+            # print(r2_basename)
             os.symlink(os.path.abspath(r1), os.path.join(args.outdir, r1_basename))
             os.symlink(os.path.abspath(r2), os.path.join(args.outdir, r2_basename))
             template.loc[template['library_ID'] == i, 'filename'] = r1_basename
