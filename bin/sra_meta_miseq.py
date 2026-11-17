@@ -59,6 +59,9 @@ def main(arguments):
         # single walk: index all fastq files keyed by library_ID
         fastq_index = {}
         libraries = set(template['library_ID'].values)
+        expected = len(libraries) * 2
+        found = 0
+        print(f'searching for {expected} fastq files...', file=sys.stderr)
         for plate_dir in os.scandir(args.datadir):
             if not plate_dir.is_dir() or not plate_dirs.match(plate_dir.name):
                 continue
@@ -72,9 +75,12 @@ def main(arguments):
                         continue
                     library = f.split('_')[0]
                     if library in libraries:
-                        print(f, flush=True)
+                        found += 1
+                        print(f'\rfound {found}/{expected}',
+                              end='', file=sys.stderr)
                         fastq_index.setdefault(library, []).append(
                             os.path.join(root, f))
+        print(f'\nfound {found} of {expected} fastq files', file=sys.stderr)
         for i in template['library_ID'].values:
             try:
                 r1, r2 = sorted(fastq_index[i])
